@@ -6874,78 +6874,71 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Paul McCartney",
-		"albumTitle": "Off The Ground",
+		"artist": "Paul Potts",
+		"albumTitle": "One Chance",
 		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
+		"price": 5,
+		"quality": "K-2"
 	},
 	{
 		"artist": "Paul Potts",
-		"albumTitle": "One Chance Christmas Edition (2-CD)",
+		"albumTitle": "Passione (1-CD/1-DVD)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Paul Simon",
-		"albumTitle": "Shining Like A National Guitar  The Greatest Hits",
+		"albumTitle": "The Essential (2-CD) (9362-49970-0)",
 		"type": "Album",
 		"price": 15,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Paul Simon",
 		"albumTitle": "The Rhythm Of The Saints",
 		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
+		"price": 10,
+		"quality": "K-4"
 	},
 	{
-		"artist": "Paul Tiernan",
-		"albumTitle": "Virgoville",
+		"artist": "Paul Weller",
+		"albumTitle": "Heavy Soul",
 		"type": "Album",
-		"price": 10,
+		"price": 20,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Paul Young",
-		"albumTitle": "From Time To Time  The Singles Collection (468825-2)",
+		"albumTitle": "The Crossing",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Peaches & Bobo",
+		"albumTitle": "Simple Emotions",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Paula Abdul",
-		"albumTitle": "Spellbound",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
 		"artist": "Pearl Jam",
-		"albumTitle": "No Code",
+		"albumTitle": "Vs.",
 		"type": "Album",
-		"price": 20,
-		"quality": "K-3"
+		"price": 10,
+		"quality": "K-4"
 	},
 	{
-		"artist": "Pearl Jam",
-		"albumTitle": "Yield",
+		"artist": "Per Frost",
+		"albumTitle": "Breaking Ice",
 		"type": "Album",
-		"price": 20,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Per Long & Pushkar",
-		"albumTitle": "Gi' Slip & Fantasi",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
+		"price": 10,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Per Nielsen",
-		"albumTitle": "Christmas Time",
+		"albumTitle": "Amazing Grace",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
@@ -8624,143 +8617,136 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Tina Dickow",
-		"albumTitle": "Welcome Back Colour (2-CD) (digipack)",
-		"type": "Album",
-		"price": 20,
-		"quality": "K-3"
-	},
-	{
 		"artist": "Tina Siel",
 		"albumTitle": "Hvor Hjerterne Bor",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tina Turner",
-		"albumTitle": "Foreign Affair (7 91873 2)",
-		"type": "Album",
 		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tina Turner",
-		"albumTitle": "The Country Side Of Tina Turner (2110cd)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tina Turner",
-		"albumTitle": "Wildest Dreams",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tom Jones",
-		"albumTitle": "20 Fantastic Gits (10334-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tom Jones",
-		"albumTitle": "Kiss (10000-2)",
-		"type": "Album",
-		"price": 5,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Tom Jones",
-		"albumTitle": "She's A Lady (dc 861062)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Tom Jones",
-		"albumTitle": "The Best Of (844 823-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tom Jones",
-		"albumTitle": "The Passion Of Tom Jones, Volume 1 (33-3071)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tom Jones",
-		"albumTitle": "The Passion Of Tom Jones, Volume 3 (33-3073)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tomas Franck Quartet",
-		"albumTitle": "Crystal Ball",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tommy Dorsey And His Orchestra",
-		"albumTitle": "1935 (nocd 3001) (NY I folie)",
+		"artist": "Tina Siel",
+		"albumTitle": "Lidt Af Mit Liv (0703149) (NY I folie)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-1"
 	},
 	{
-		"artist": "Toni Braxton",
-		"albumTitle": "Secrets",
+		"artist": "Tina Turner",
+		"albumTitle": "Sings Country (jhd 077)",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tony (Anthony) Williams",
-		"albumTitle": "Spring",
-		"type": "Album",
-		"price": 10,
+		"price": 15,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Tony Calá",
-		"albumTitle": "Tony Calá Conta A Benny Moré",
+		"artist": "Tina Turner",
+		"albumTitle": "Twenty Four Seven",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Tori Amos",
-		"albumTitle": "From The Choirgirl Hotel",
+		"artist": "TLC",
+		"albumTitle": "Crazy Sexy Cool",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
+		"artist": "Tom Jones",
+		"albumTitle": "Greatest Hits (50486162)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Tom Jones",
+		"albumTitle": "Party Breaker - Tom Jones In Concert (3-CD-box) (01200032)",
+		"type": "Album",
+		"price": 20,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Tom Jones",
+		"albumTitle": "Solid Gold Hits (10335-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Tom Jones",
+		"albumTitle": "The Complete (844 322-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Tom Jones",
+		"albumTitle": "The Passion Of Tom Jones, Volume 2 (33-3072)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Tom Jones",
+		"albumTitle": "Timeless Classics (10333-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Tomas Thordarson",
+		"albumTitle": "Sig Det' Løgn (578 438-2)",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Tomorrow Feat. Keith West",
+		"albumTitle": "Tomorrow (4 98819 2)",
+		"type": "Album",
+		"price": 20,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Toni Braxton",
+		"albumTitle": "The Heat",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Tony & The Diamonds",
+		"albumTitle": "In And Out Of The Real Thing",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Tony Christie",
+		"albumTitle": "Platinum Hit-Collection (2-CD) (cd 246.424) (Ny I Folie)",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-1"
+	},
+	{
 		"artist": "Tori Amos",
-		"albumTitle": "Strange Little Girls",
+		"albumTitle": "Little Earthquakes",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Tower Of Power",
-		"albumTitle": "Monster On A Leash",
+		"albumTitle": "Bump City",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "TP",
-		"albumTitle": "Time Has Come",
+		"artist": "Toys Of Joy",
+		"albumTitle": "One Of These Days",
 		"type": "Album",
-		"price": 10,
+		"price": 20,
 		"quality": "K-3"
 	},
 	{
@@ -8772,133 +8758,133 @@
 	},
 	{
 		"artist": "Travis",
-		"albumTitle": "The Invisible Band",
+		"albumTitle": "12 Memories",
 		"type": "Album",
 		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Tri Perkussion",
+		"albumTitle": "Perfect Percussion",
+		"type": "Album",
+		"price": 15,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Trine Rein",
-		"albumTitle": "Beneath My Skin",
+		"albumTitle": "To Find The Truth",
 		"type": "Album",
-		"price": 10,
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Trine-Lise Væring",
-		"albumTitle": "In So Many Words",
+		"artist": "Trio Haack",
+		"albumTitle": "Se Nu Stiger Solen",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Troo.L.S Orgi-E",
-		"albumTitle": "Forklædt Som Voksen",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tschaikowsky",
-		"albumTitle": "Klavierkoncert, No. 1 (427 485-2) (Deutsche Grammophon)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Turk Mauro",
-		"albumTitle": "The Underdog (stcd 8265)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tuxedo New Orleans Jazz Band",
-		"albumTitle": "Authentic",
-		"type": "Album",
-		"price": 10,
+		"price": 5,
 		"quality": "K-2"
+	},
+	{
+		"artist": "Troy Maturo Euphoria",
+		"albumTitle": "Forever",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Turboweekend",
+		"albumTitle": "Night Shift",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Turpin",
+		"albumTitle": "Superhelte (200200 208361) (digipack) (NY I folie)",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-1"
 	},
 	{
 		"artist": "TV On The Radio",
-		"albumTitle": "Nine Types Of Light",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-2"
-	},
-	{
-		"artist": "TV-2",
-		"albumTitle": "De Første Kærester På Månen",
+		"albumTitle": "Dear Science (papcover)",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
 	},
 	{
 		"artist": "TV-2",
-		"albumTitle": "Hits (2-CD/1-DVD)",
+		"albumTitle": "Amerika",
 		"type": "Album",
-		"price": 25,
+		"price": 15,
 		"quality": "K-3"
 	},
 	{
 		"artist": "TV-2",
-		"albumTitle": "På Kanten Af Småt Brændbart",
+		"albumTitle": "For Dig Ku' Jeg Gøre Alting",
 		"type": "Album",
-		"price": 20,
-		"quality": "K-2"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "TV-2",
-		"albumTitle": "Remix, Volume 2 (uni 371 483 1) (papcover fra boksen Bag Duggede Ruder) (Findes kun på nævnte boks)",
-		"type": "Album",
-		"price": 50,
-		"quality": "K-2"
-	},
-	{
-		"artist": "TV-2",
-		"albumTitle": "Slaraffenland (uni 371 510 7) (papcover fra boksen Bag Duggede Ruder)",
+		"albumTitle": "Kys Bruden (uni 371 484 2) (papcover fra boksen Bag Duggede Ruder)",
 		"type": "Album",
 		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "TV-2",
+		"albumTitle": "Remix, Volume 1 (uni 371 482 8) (papcover fra boksen Bag Duggede Ruder) (Findes kun på nævnte boks)",
+		"type": "Album",
+		"price": 50,
+		"quality": "K-3"
+	},
+	{
+		"artist": "TV-2",
+		"albumTitle": "Slaraffenland",
+		"type": "Album",
+		"price": 15,
 		"quality": "K-2"
 	},
 	{
 		"artist": "TV-2",
 		"albumTitle": "Verdens Lykkeligste Band  Live 1999 (2-CD-box)",
 		"type": "Album",
+		"price": 25,
+		"quality": "K-3"
+	},
+	{
+		"artist": "TV-2",
+		"albumTitle": "Verdens Lykkeligste Mand",
+		"type": "Album",
 		"price": 15,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
 		"artist": "TV-2",
 		"albumTitle": "Vi Blir Alligevel Aldrig Voksne",
 		"type": "Album",
-		"price": 20,
-		"quality": "K-2"
-	},
-	{
-		"artist": "TV-2",
-		"albumTitle": "Yndlingsbabe",
-		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Tæskeholdet",
-		"albumTitle": "Vi Sparker Røv",
+		"artist": "Twelve",
+		"albumTitle": "Be Careful What You Don't Wish For",
 		"type": "Album",
 		"price": 10,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Tøsedrengene",
-		"albumTitle": "Det Bedste",
+		"albumTitle": "De Allerbedste (2-CD) (548 588.2)",
 		"type": "Album",
 		"price": 10,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "U2",
-		"albumTitle": "18 Singles (0602517135413)",
+		"artist": "Tøsedrengene",
+		"albumTitle": "Det Bedste (512 574-2)",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
@@ -8907,89 +8893,96 @@
 		"artist": "U2",
 		"albumTitle": "All That You Can't Leave Behind",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-4"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "U2",
 		"albumTitle": "How To Dismantle An Atomic Bomb",
 		"type": "Album",
-		"price": 20,
-		"quality": "K-2"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "U2",
 		"albumTitle": "Pop",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-4"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "U2",
-		"albumTitle": "The Joshua Tree",
+		"albumTitle": "The Best Of 1980-1990 (211/524 613-2)",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "UB40",
-		"albumTitle": "Promises & Lies",
+		"albumTitle": "Labour Of Love, Volume 2 (depcd 14)",
 		"type": "Album",
-		"price": 5,
+		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "UFO",
-		"albumTitle": "Walk On Water (223163-205) (Ny I Folie)",
+		"albumTitle": "Walk On Water",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Ulla Henningsen",
+		"albumTitle": "Kald Mig Liva",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Under Byen",
+		"albumTitle": "Det Er Mig Der Holder Træerne Sammen (papcover)",
 		"type": "Album",
 		"price": 15,
-		"quality": "K-1"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Ulrich",
-		"albumTitle": "Feelings, Faith And Forever",
+		"artist": "Underworld",
+		"albumTitle": "Second Toughest In The Infants (2-CD)",
+		"type": "Album",
+		"price": 20,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Unity",
+		"albumTitle": "I Can Be Glad",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Underdogs",
-		"albumTitle": "I Want Your Job",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Unit 4+2",
-		"albumTitle": "Concrete And Clay (rep 4191-wy)",
-		"type": "Album",
-		"price": 25,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Universal Quartet",
-		"albumTitle": "Do. (blackout 018) (digipack)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Valhalla",
-		"albumTitle": "2",
+		"artist": "Utah",
+		"albumTitle": "Strength In Numbers (digipack) (cover er vandskadet)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Vanessa-Mae",
-		"albumTitle": "Storm",
+		"artist": "Van Morrison",
+		"albumTitle": "Van Morrison (157.498)",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Vanity Fare",
+		"albumTitle": "Beach Party (16198cd) (re-recordings)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
+		"quality": "K-2"
 	},
 	{
 		"artist": "Vaya Con Dios",
-		"albumTitle": "Roots And Wings",
+		"albumTitle": "The Best Of (74321 409862)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
@@ -9002,367 +8995,367 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Vaya Con Dios",
-		"albumTitle": "Vaya Con Dios (1)",
+		"artist": "Velvelettes",
+		"albumTitle": "The Best Of (544 467-2)",
 		"type": "Album",
 		"price": 10,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Velvet",
-		"albumTitle": "6.09 C.E.T.",
+		"artist": "Vengaboys",
+		"albumTitle": "The Party Album",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
+		"price": 5,
+		"quality": "K-4"
 	},
 	{
-		"artist": "Venter På Far",
-		"albumTitle": "Undskyld",
+		"artist": "Ventures",
+		"albumTitle": "Forever Fender  20 Original Instrumental Hits (cdcrb 538)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Vera Lynn",
-		"albumTitle": "Remember The Songs That Won The World War 2.",
+		"albumTitle": "Sincerely Yours (2-CD) (220200) (NY I folie)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Verdi",
+		"albumTitle": "Aida  Highlights (dcl 406622)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Vera Lynn",
-		"albumTitle": "The Forces' Sweetheart (2-CD) (cd ajs 295)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
 		"artist": "Verdi",
-		"albumTitle": "Aida (415 286-2) (Deutsche Grammophon)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Verdi",
-		"albumTitle": "The Best Of (Naxos 8.551119)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Verve",
-		"albumTitle": "Urban Hymns",
+		"albumTitle": "La Traviata  Highlights (dcl 706552)",
 		"type": "Album",
 		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Verdi",
+		"albumTitle": "The Best Of (Naxos 8.556669)",
+		"type": "Album",
+		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Vestre Jazzværk",
-		"albumTitle": "I Jazzsmedien",
+		"albumTitle": "2000",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
+		"quality": "K-2"
+	},
+	{
+		"artist": "Vestre Jazzværk",
+		"albumTitle": "New Orleans",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
 	},
 	{
 		"artist": "Veto",
-		"albumTitle": "Crushing Digits (digipack)",
+		"albumTitle": "Everything Is Amplified (papcover)",
 		"type": "Album",
 		"price": 10,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Veto",
 		"albumTitle": "There's A Beat In All Machines",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "VH1",
-		"albumTitle": "Divas - Live",
-		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Vikingarna",
-		"albumTitle": "Bästa Kramgoa Låtarna, Volume 2 (2-CD) (m 20126-2)",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Vikingarna",
-		"albumTitle": "Kramgoa Låtar 1995",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Village People",
-		"albumTitle": "We Want You (491515 2)",
+		"artist": "Vico Torriani",
+		"albumTitle": "Zauberlied Der Berge (399 752)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-4"
+		"quality": "K-2"
 	},
 	{
-		"artist": "Vines",
-		"albumTitle": "Highly Evolved",
+		"artist": "Vikingarna",
+		"albumTitle": "För Dina Blåa Ögons Skull (nmg 3238 2)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Vivaldi",
-		"albumTitle": "Die Vier Jahreszeiteh (427 221-2) (Deutsche Grammophon)",
+		"artist": "Vikingarna",
+		"albumTitle": "Lørdag Aften",
 		"type": "Album",
 		"price": 10,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Vindstyrke 15",
+		"albumTitle": "Vol. 6",
+		"type": "Album",
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
+		"artist": "Vinnie Who",
+		"albumTitle": "Harmony (digipack) (NY i folie)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-1"
+	},
+	{
 		"artist": "Vivaldi",
-		"albumTitle": "The Best Of (Naxos 8.556655)",
+		"albumTitle": "Four Seasons (Naxos 8.550056)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Vonda Shepard",
-		"albumTitle": "It's Good, Eve",
+		"albumTitle": "Heart And Soul  New Songs From Ally McBeal feat. Vonda Shepard",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Vonda Shepard",
-		"albumTitle": "The Radical Light",
-		"type": "Album",
-		"price": 10,
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Voyage",
-		"albumTitle": "The Best Of (emprcd 632)",
+		"artist": "Vonda Shepard",
+		"albumTitle": "Songs From Ally McBeal feat. Vonda Shepard",
 		"type": "Album",
-		"price": 15,
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Vonda Shepard feat. Ally McBeal",
+		"albumTitle": "For Once In My Life",
+		"type": "Album",
+		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Wagner",
-		"albumTitle": "The Best Of (Naxos 8.556657) (cover er falmet)",
+		"albumTitle": "Ouvertüren Und Vorspiele (415 663-2) (Deutsche Grammophon)",
 		"type": "Album",
-		"price": 5,
+		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Walkers",
-		"albumTitle": "ShaLaLaLaLa  Greatest Hits (2-CD) (542 342-2)",
+		"albumTitle": "Greatest Hits (46698cd)",
 		"type": "Album",
-		"price": 30,
+		"price": 20,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Walter Trout Band",
-		"albumTitle": "Life In The Jungle (prd 70202)",
+		"artist": "Walkmen",
+		"albumTitle": "Lisbon (digipack)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-4"
 	},
 	{
-		"artist": "We The People",
-		"albumTitle": "Mirror Of Our Minds (2-CD) (sc 11056)",
-		"type": "Album",
-		"price": 25,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Weber",
-		"albumTitle": "The Best Of (Naxos 8.556676)",
+		"artist": "Warren Barfield",
+		"albumTitle": "Warren Barfield (ctw0002-1102)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Wenche",
-		"albumTitle": "Dance The Night Away",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Wenche",
-		"albumTitle": "I'm A Country Girl",
+		"artist": "Webb Pierce",
+		"albumTitle": "More And More (aja 5662)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Wes King",
-		"albumTitle": "Motivation (7010061726)",
+		"artist": "Wenche",
+		"albumTitle": "Country From My Heart",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Wenche",
+		"albumTitle": "Here I Am",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Wendy Matthews",
+		"albumTitle": "Lily",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Westlife",
-		"albumTitle": "Turnaround",
+		"albumTitle": "The Greatest Hits  Unbreakable (uk-0932)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Wet Wet Wet",
-		"albumTitle": "10",
+		"artist": "Westlife",
+		"albumTitle": "World Of Our Own",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
+		"price": 5,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Wet Wet Wet",
 		"albumTitle": "End Of Part One  Their Greatest Hits",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Whimsy",
-		"albumTitle": "Gambling With The Future",
-		"type": "Album",
 		"price": 10,
 		"quality": "K-2"
 	},
 	{
+		"artist": "Wet Wet Wet",
+		"albumTitle": "Picture This",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
 		"artist": "White Lies",
-		"albumTitle": "To Lose My Life",
+		"albumTitle": "Ritual",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "White Stripes",
+		"albumTitle": "Get Behind Me Satan",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Whitney Houston",
+		"albumTitle": "Just Whitney (1-CD/1-DVD men DVD mangler)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Whitney Houston",
-		"albumTitle": "I'm Your Baby Tonight",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Whitney Houston",
-		"albumTitle": "My Love Is Your Love",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Will Smith",
-		"albumTitle": "Millennium",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Willie Nelson",
-		"albumTitle": "Always On My Mind (cd 6096)",
+		"albumTitle": "The Preacher's Wife (Soundtrack)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Willie Nelson",
-		"albumTitle": "Things To Remember (tmc 171310)",
+		"albumTitle": "Across The Tracks",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Wilson Phillips",
-		"albumTitle": "Wilson Phillips (7 93745 2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Wings",
-		"albumTitle": "Greatest (7 89317 2)",
-		"type": "Album",
-		"price": 20,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Witness",
-		"albumTitle": "Stories From The South",
+		"artist": "Willie Nelson",
+		"albumTitle": "Country Love Songs (10034-2)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Wombat",
-		"albumTitle": "Open Doors",
+		"artist": "Wilson Phillips",
+		"albumTitle": "Shadows And Light",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Wilsons",
+		"albumTitle": "The Wilsons (536 105-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Wish",
+		"albumTitle": "Temporary Love And Hate",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Woody Herman",
-		"albumTitle": "Giants Of The Big Band Era (442 041-2)",
+		"artist": "Wizex",
+		"albumTitle": "Jorden Snurrar (mlpcd 1925)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Xander",
-		"albumTitle": "Over Skyer Under Vand",
+		"artist": "Wonder Stuff",
+		"albumTitle": "Construction For The Modern Idiot",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Wookie",
+		"albumTitle": "Wookie (plasv 005 cd)",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Xantom",
+		"albumTitle": "First Among Equals",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Yellowish",
+		"albumTitle": "So Bright",
 		"type": "Album",
 		"price": 15,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Yaki-Da",
-		"albumTitle": "Pride",
-		"type": "Album",
-		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "You Know Who",
 		"albumTitle": "You Know Who (1) (85025)",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-2"
+		"price": 5,
+		"quality": "K-3"
 	},
 	{
-		"artist": "Young Heart Attack",
-		"albumTitle": "Mouthful Of Love",
+		"artist": "Yul Anderson",
+		"albumTitle": "Evening Solo",
 		"type": "Album",
-		"price": 5,
+		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Zapp Zapp",
-		"albumTitle": "What Does Fish Is.. ?",
+		"albumTitle": "You Better Believe",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Zididada",
-		"albumTitle": "Happy Fool",
+		"albumTitle": "Have A Zididada Day",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Zididada",
+		"albumTitle": "Welcome To Zididada (digipack)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Zididada",
-		"albumTitle": "Princess - Greatest Hitz (NY i folie)",
+		"artist": "Zindy Kuku Boogaloo",
+		"albumTitle": "Do. (5355342)",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Zindy Kuku",
-		"albumTitle": "Too Hot For TV",
-		"type": "Album",
-		"price": 10,
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
@@ -12649,15 +12642,22 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Adam Beverly",
-		"albumTitle": "Backcourse (papcover) (8 88174 30834)",
+		"artist": "9000 John Doe",
+		"albumTitle": "Roll With It Or Get Rolled Over",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Adolf Fredrik's Girls Choir",
-		"albumTitle": "Like Crystal That's Gleaming",
+		"artist": "Adesa",
+		"albumTitle": "Blemahe",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Aerosmith",
+		"albumTitle": "Big Ones",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -12677,29 +12677,50 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Anders Bonde",
-		"albumTitle": "Telefon Jokes, Volume 2",
+		"artist": "All Saints",
+		"albumTitle": "Saints & Sinners",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Alopecia",
+		"albumTitle": "Why",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Andrew Lloyd Webber",
+		"artist": "Anders Glenmark",
+		"albumTitle": "99",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Andrew Lloyd Webber / Tim Rice",
 		"albumTitle": "Joseph And The Amazing Technicolor Dreamcoat",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Angélique Kidjo",
-		"albumTitle": "Ayé",
+		"artist": "Ann-Louise",
+		"albumTitle": "Wonder Wheel",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Anne Hvidsten",
-		"albumTitle": "Need To Know",
+		"artist": "Ann-Mette Elten",
+		"albumTitle": "Vær Velkommen (digipack) (uden booklet)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Anthony Camden",
+		"albumTitle": "Italian Oboe Concertos (Naxos 8.554772)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -12733,6 +12754,13 @@
 		"quality": "K-2"
 	},
 	{
+		"artist": "Axel Sweat",
+		"albumTitle": "Erection",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
 		"artist": "Bachelor Boys",
 		"albumTitle": "Bachelor Boys (cd 001)",
 		"type": "Album",
@@ -12747,11 +12775,18 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "BBmak",
-		"albumTitle": "Sooner Or Later",
+		"artist": "BBM",
+		"albumTitle": "Around The Next Dream",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
+	},
+	{
+		"artist": "Beach Boys",
+		"albumTitle": "The Very Best Of (796 560-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Beethoven",
@@ -12776,14 +12811,21 @@
 	},
 	{
 		"artist": "Beethoven",
-		"albumTitle": "Symphony No. 5 (265 095-2)",
+		"albumTitle": "Symphony No. 10 (classcd 472)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Beethoven",
+		"albumTitle": "Symphony No. 6 (7 47313 70572)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Beethoven",
-		"albumTitle": "Symphony No. 7 (265 061-2)",
+		"albumTitle": "Symphony No. 9  Choral (dgl 2106)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -12796,11 +12838,11 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Bent Grosen / Kitha Ottosen Grosen with Jens Holm & Poul Erik Jørgensen",
-		"albumTitle": "Portrait Of The Double Bass",
+		"artist": "Belinda Carlisle",
+		"albumTitle": "Real",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Bernstein",
@@ -12817,18 +12859,25 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "Bill Douglas",
-		"albumTitle": "Kaleidoscope",
+		"artist": "Big Fat Snake",
+		"albumTitle": "More Fire",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Bill Whelan",
+		"albumTitle": "Riverdance (und 53076)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Billie Holiday",
-		"albumTitle": "Billie Holiday (onn 38)",
+		"albumTitle": "The Very Best Of (705643 530260)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Birgit Sonne",
@@ -12845,8 +12894,15 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Björn Afzelius",
-		"albumTitle": "Definitivt",
+		"artist": "Bizet",
+		"albumTitle": "L'arlesienne / Carmen (265 065-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Bjørn Tidmand",
+		"albumTitle": "The Collection (993892)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -12887,22 +12943,29 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Brahms",
-		"albumTitle": "Symphonies No. 2 & 3 (74321 17894 2)",
+		"artist": "Boyz II Men",
+		"albumTitle": "II",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Brahms",
-		"albumTitle": "Symphony No. 1 In C Minor Op 68 (oq0041)",
+		"albumTitle": "Symphony No. 1 (sym033)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Brahms",
-		"albumTitle": "Symphony No. 4 (pcd 897)",
+		"albumTitle": "Symphony No. 2 (8741024)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Brahms",
+		"albumTitle": "Vienna Classics (vccd 1018)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -12922,11 +12985,18 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Bruce Hornsby & The Range",
-		"albumTitle": "The Way It Is (pcd1-5904)",
+		"artist": "Bruce Guthro",
+		"albumTitle": "Beautiful Life (R 60045-2) (digipack)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
+	},
+	{
+		"artist": "Bryan Adams",
+		"albumTitle": "Into The Fire (cover har lille skade)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Brydenfeld & Hannival",
@@ -12937,28 +13007,42 @@
 	},
 	{
 		"artist": "Brødrene Olsen",
-		"albumTitle": "Wings Of Love",
+		"albumTitle": "The Story Of (528513-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Budolfi Kirkes Børnekor & Hasseris Kirkes Børnekor",
-		"albumTitle": "Stjernemusik Fra Klosterkirken",
+		"albumTitle": "Geloia: Den, Der Kalder Smilet Frem (kk-2013) (digipack)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Burou Günes",
-		"albumTitle": "Ay Sahit",
+		"artist": "Buju Banton",
+		"albumTitle": "The Shiloh",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Butterfly Garden",
+		"albumTitle": "For You",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Carl Millöcker",
-		"albumTitle": "Der Bettelstudent (74321 21363 2) (cover svagt falmet)",
+		"artist": "Cactus Circle",
+		"albumTitle": "Cactus Circle (7432 137482 2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Carl Nielsen",
+		"albumTitle": "Tågen Letter  Og Andre Smukke Stykker For Fløjte Og Harpe (docd 5049)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -12978,8 +13062,22 @@
 		"quality": "K-4"
 	},
 	{
+		"artist": "Caught In The Act",
+		"albumTitle": "We Belong Together / Six Years Of Success",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
 		"artist": "Celine Dion",
 		"albumTitle": "Let's Talk About Love",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Cher",
+		"albumTitle": "Believe",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -12993,28 +13091,35 @@
 	},
 	{
 		"artist": "Chopin",
-		"albumTitle": "Collection (44036cd)",
+		"albumTitle": "14 Waltzes & 4 Impromptus (cct 634)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Chopin",
-		"albumTitle": "Music For Piano (265 067-2)",
+		"albumTitle": "Minute Waltz (clg 025)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Christa Bendell",
-		"albumTitle": "Christa Bendell (557 979-2)",
+		"artist": "Chopin",
+		"albumTitle": "Piano Concerto No. 2 (3217cd)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Civil Service Duo",
-		"albumTitle": "Trombone And Organ (pacd 87)",
+		"artist": "Christian Risgaard",
+		"albumTitle": "Piano Trios / Tråden / Rainy Day (classcd 120)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Clap Your Hands Say Yeah",
+		"albumTitle": "Clap Your Hands Say Yeah (5055 0362 099 4)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -13027,22 +13132,29 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Colorblind",
-		"albumTitle": "Sway",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Commitments",
-		"albumTitle": "Music From The Original Motion Picture Soundtrack, Volume 1",
+		"artist": "Color Me Badd",
+		"albumTitle": "C.M.B.",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Corinne Bailey Rae",
-		"albumTitle": "Corinne Bailey Rae (1)",
+		"artist": "Comedian Harmonists",
+		"albumTitle": "Greatest Hits, Vol. 1",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Commitments Feat. Andrew Strong",
+		"albumTitle": "The Best Of (mcd 85009)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Corrs",
+		"albumTitle": "Forgiven, Not Forgotten",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -13053,6 +13165,13 @@
 		"type": "Album",
 		"price": 2,
 		"quality": "K-1"
+	},
+	{
+		"artist": "Cosmonks",
+		"albumTitle": "In Afterburn",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
 	},
 	{
 		"artist": "Craig McLachlan Check 1-2",
@@ -13067,6 +13186,13 @@
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
+	},
+	{
+		"artist": "Dan Mobley",
+		"albumTitle": "Key West Solo",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Daniel Powter",
@@ -13090,8 +13216,15 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "David Hykes & The Harmonic Choir",
-		"albumTitle": "Breath Of The Heart",
+		"artist": "Darren Housholder",
+		"albumTitle": "Generator Man",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "David Lobban",
+		"albumTitle": "Sequence Dance",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -13113,6 +13246,13 @@
 	{
 		"artist": "Det Danske Hildegard Ensemble",
 		"albumTitle": "Lux Vivens",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Diana Jones",
+		"albumTitle": "Better Times Will Come (prpcd 043)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -13153,11 +13293,25 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Dr. Dog",
-		"albumTitle": "Easy Beat",
+		"artist": "Donna Summer",
+		"albumTitle": "Fun Street (2213cd)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-4"
+	},
+	{
+		"artist": "Dr. Dante",
+		"albumTitle": "15 Gasolin Sange",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Dreams",
+		"albumTitle": "The Whitest Boy Alive",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Duo La Valse",
@@ -13189,45 +13343,59 @@
 	},
 	{
 		"artist": "Elton John",
-		"albumTitle": "The Big Picture",
+		"albumTitle": "Love Songs (528788-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "Elvis Presley",
-		"albumTitle": "B.T.",
+		"artist": "Elvis & The Teddybears",
+		"albumTitle": "Golden Memories, Volume 2",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Emilia",
+		"albumTitle": "Big Big World",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Emotion",
+		"albumTitle": "110 % Sehnsucht (digipack)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Endellion String Quartet",
-		"albumTitle": "Dvorak / Smetana (NY i folie)",
+		"artist": "Enigma",
+		"albumTitle": "Love Sensuality Devotion  The Greatest Hits",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-1"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Equals",
-		"albumTitle": "Baby Come Back (16095cd) (re-recordings)",
+		"artist": "Eric Clapton",
+		"albumTitle": "Unplugged (9362-45024-2)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Eric Gadd",
-		"albumTitle": "Floating",
+		"albumTitle": "Spirit",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-2"
 	},
 	{
 		"artist": "Eric Gadd",
 		"albumTitle": "The Right Way",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Eternal",
@@ -13237,8 +13405,29 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Falb",
-		"albumTitle": "Daily Soap Opera (08154711)",
+		"artist": "Eurecha",
+		"albumTitle": "Bleak",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Faith Hill",
+		"albumTitle": "There You'll Be  The Greatest Hits (9362-48240-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Fall Out Boy",
+		"albumTitle": "Infinity On High",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Femme Fatale",
+		"albumTitle": "Violin Temptation (digipack)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-2"
@@ -13258,29 +13447,36 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Francesco Napoli",
-		"albumTitle": "Magico",
+		"artist": "Framecode",
+		"albumTitle": "Firetres",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Francisco Montano Ensemble",
-		"albumTitle": "Strictly Ballroom  Fox Trot",
+		"artist": "Francisco Céspedes",
+		"albumTitle": "Ay Corazón",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Francois Elie Roulin",
-		"albumTitle": "Disque Rouge (lancd10)",
+		"artist": "Franck",
+		"albumTitle": "Organ Works (267 176-2)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Frank Lorentzen",
-		"albumTitle": "The Balance Of Gaia (Fønix)",
+		"artist": "Frank Duval & Orchestra",
+		"albumTitle": "Die Schönsten Melodien Aus Derrick Und Der Alte",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Frank Sinatra",
+		"albumTitle": "The Reprise Years (7599-26522-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -13307,15 +13503,29 @@
 		"quality": "K-3"
 	},
 	{
+		"artist": "Garbo",
+		"albumTitle": "Fields",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
 		"artist": "Gavin DeGraw",
-		"albumTitle": "Chariot (2-CD)",
+		"albumTitle": "Gavin DeGraw (88697 28898 2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "George Winston",
-		"albumTitle": "December",
+		"artist": "George Martin",
+		"albumTitle": "In My Life (umd 80420)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Gershwin",
+		"albumTitle": "Collection (44037cd)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -13328,8 +13538,15 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Gióia",
-		"albumTitle": "Enjoy",
+		"artist": "Gigandhi",
+		"albumTitle": "Chaaval",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Gladys Knight & The Pips",
+		"albumTitle": "Come See About Me (16246cd)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -13440,8 +13657,15 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Heidi",
-		"albumTitle": "Audio Ballerina (digipack)",
+		"artist": "Haydn",
+		"albumTitle": "Collection (3254cd)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Helmut Lotti",
+		"albumTitle": "Goes Classic (cmc 6221-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -13489,74 +13713,88 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Hothouse Flowers",
-		"albumTitle": "People",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Händel",
-		"albumTitle": "Water Music (44028cd)",
+		"artist": "Hopscotch",
+		"albumTitle": "Look Me In The Eyes (892.002)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Händel",
-		"albumTitle": "Water Music (ecd 55011)",
+		"albumTitle": "Famous Concertos  Suites (265 045-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Ice+Ice",
-		"albumTitle": "Ice+Ice (987 473-3)",
+		"artist": "Händel",
+		"albumTitle": "Water Music (44128cd)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Il Divo",
-		"albumTitle": "Siempre",
+		"artist": "Ib Schønberg",
+		"albumTitle": "Mariehønen (74064) (NY I folie)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-1"
 	},
 	{
-		"artist": "Indo Aminata",
-		"albumTitle": "Greatest Dream",
+		"artist": "Idde Schultz",
+		"albumTitle": "Vad Man Gör (Och Inte Gör)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "India.Arie",
+		"albumTitle": "Testimony: Volume 1, Live & Relationship",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Indra",
-		"albumTitle": "In Between (digipack)",
+		"albumTitle": "In Between (5 707471 024461) (digipack)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Inga Nielsen & Robert Hale",
+		"albumTitle": "Musical Memories",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
+		"artist": "J.A.P. Schilz",
+		"albumTitle": "Piano Music (classcd 731)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Isaac Stern",
-		"albumTitle": "The Great Violin Concertos, Volume 1 (2-CD-box) (010946 400920)",
+		"artist": "Jakalope",
+		"albumTitle": "It Dreams (tmc 102010) (NY CD)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Jakob Sveistrup",
+		"albumTitle": "Fragments",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Jacob Evald & Patricia Van Duuren",
-		"albumTitle": "Aftensang I Vejlby Kirke (pacd 160)",
+		"artist": "James Galway",
+		"albumTitle": "Mozart  The Two Flute Concertos (pcd 807)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "James",
-		"albumTitle": "Millionaires (2-CD)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "James Ingram",
@@ -13573,11 +13811,11 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "James Scott & The Town",
-		"albumTitle": "Park Bench Theories",
+		"artist": "James Sampson",
+		"albumTitle": "James",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Jamie Cullum",
@@ -13587,22 +13825,29 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Jamie Walters",
-		"albumTitle": "Ride",
+		"artist": "Jamie Cullum",
+		"albumTitle": "Twenty Something  Special Edition",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Jamiroquai",
+		"albumTitle": "Travelling Without Moving",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Jan Larsen",
-		"albumTitle": "Hvis Du Gi'r Et Smil (3130) (NY I folie)",
+		"albumTitle": "Jeg Fik Din Hilsen (3129)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-1"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Jan Larsen",
-		"albumTitle": "Jeg Fik Din Hilsen (3129)",
+		"artist": "Jane Clarke & Shane Donnelly",
+		"albumTitle": "Shine",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -13616,45 +13861,52 @@
 	},
 	{
 		"artist": "Jantje Smit",
-		"albumTitle": "Ik Zing Lied Voor Jou Alleen (534 707-2)",
+		"albumTitle": "Ein Bisschen Liebe (324 545)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Jantje Smit",
-		"albumTitle": "Weihnachten Mit Jantje Smit (524 418)",
+		"albumTitle": "Jantje Smit (538 831-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Jean Langlais",
-		"albumTitle": "Champer Works (classcd 428)",
+		"artist": "Jay Hooks",
+		"albumTitle": "Jay Hooks (prd 71242)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Jerry Lee Lewis",
-		"albumTitle": "Greatest Hits  Live (16012cd)",
+		"artist": "Jeanett Debb",
+		"albumTitle": "Virtualize",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Jette Rosendal & Colin Booth",
-		"albumTitle": "(cdk 1002)",
+		"artist": "Jessica",
+		"albumTitle": "Jessica (052 191-2)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Jette Torp",
-		"albumTitle": "New Tracks",
+		"albumTitle": "Here I Am",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
+	},
+	{
+		"artist": "Jette Torp",
+		"albumTitle": "What If I Do",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Joan Osborne",
@@ -13662,6 +13914,13 @@
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
+	},
+	{
+		"artist": "Jochen Brusch & Finn Svit",
+		"albumTitle": "Treasures (cdcd 006)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Joe Dolan",
@@ -13692,22 +13951,29 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Johnny Hansen",
-		"albumTitle": "Godmorgen Verden",
+		"artist": "John Williams",
+		"albumTitle": "Portrait Of (mk 37791)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Jon Strong",
-		"albumTitle": "Follow Me",
+		"artist": "Johnny Whitehill",
+		"albumTitle": "Guitar Slinger (igoxcd 509)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Jonathan Butler",
-		"albumTitle": "The Best Of (74321 13458 2)",
+		"artist": "Jonas Alaska",
+		"albumTitle": "If Only As A Ghost (digipack)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Jooks",
+		"albumTitle": "Privilegeret",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -13720,39 +13986,46 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Jose Ramos & The No Way Jose Band",
-		"albumTitle": "Just Call Me Zay",
+		"artist": "José Carreras & Friends",
+		"albumTitle": "Sing Operatic Arias, Duets & Popular Songs",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Joseph Alessi",
-		"albumTitle": "At The End Of The Century",
+		"artist": "Josefine & Trine Opsahl",
+		"albumTitle": "Leaving My Silent Empty House (heart02)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Joseph Lanner",
-		"albumTitle": "Walzer, Ländler, Tänze",
+		"artist": "Joseph Haydn",
+		"albumTitle": "Symphonie Nr. 94, G-Dur (157.272)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Josh Groban",
+		"albumTitle": "Awake",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Joshua Kadison",
-		"albumTitle": "Painted Desert Serenade",
+		"artist": "Joyce",
+		"albumTitle": "Slow Music",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Juan De Marcosī Afro Cuban All Star",
-		"albumTitle": "Distinto, Diferente",
+		"artist": "Judy Garland",
+		"albumTitle": "The Best Of (hmncd 015)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Julie",
@@ -13767,6 +14040,13 @@
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
+	},
+	{
+		"artist": "Kaiser Chiefs",
+		"albumTitle": "Off With Their Heads",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Karajan",
@@ -13811,60 +14091,67 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "Kelly Rowland",
-		"albumTitle": "Simply Deep",
+		"artist": "Kelly Family",
+		"albumTitle": "Over The Hump",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "Kendra Lou",
-		"albumTitle": "To The End Of The World (digipack)",
+		"artist": "Ken David",
+		"albumTitle": "Pan Flutes With Nature",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kent",
-		"albumTitle": "Vapen & Ammunition",
+		"artist": "Kenny G",
+		"albumTitle": "Silhouette",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Kettcar",
-		"albumTitle": "Zwischen Den Runden",
+		"albumTitle": "Sylt (1-CD/1-DVD)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kim Sjøgren",
-		"albumTitle": "I Skovens Dybe Stille Ro",
+		"artist": "Kim Appleby",
+		"albumTitle": "Kim Appleby (7954672)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "King Of Bitter",
-		"albumTitle": "Regrets",
+		"artist": "Kim Sjøgren & His Little Mermaid Orchestra",
+		"albumTitle": "Salut D'amour",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Kirsten Siggaard",
-		"albumTitle": "Mit Liv Med Patsy Cline",
+		"albumTitle": "Jul Med Kirsten Siggaard (papcover) (udgivet af Hjemmet)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kirstine & Claus Deichgræber",
-		"albumTitle": "Quasi Una Fantasia",
+		"artist": "Kirsten Siggaard",
+		"albumTitle": "Piaf",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kissaway Trail",
+		"albumTitle": "Sleep Mountain",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Kjell Mørk Karlsen",
@@ -13909,8 +14196,15 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "La Mosca Tsé-Tsé",
-		"albumTitle": "Visperas De Carnaval",
+		"artist": "Kaare Norge",
+		"albumTitle": "Morning Has Broken",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Lange-Müller",
+		"albumTitle": "Der Var Engang (8.224084)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -13979,8 +14273,15 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Lisa Nilsson",
-		"albumTitle": "Till Morelia",
+		"artist": "Lis Sørensen",
+		"albumTitle": "Under Stjernerne Et Sted",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Lisa Stansfield",
+		"albumTitle": "Real Love",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -14049,39 +14350,46 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "Lucia",
-		"albumTitle": "Velvet Belly",
+		"artist": "Low-Life",
+		"albumTitle": "Blue Lady",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-2"
+	},
+	{
+		"artist": "Luciano",
+		"albumTitle": "Where There Is Life",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Luciano Pavarotti",
-		"albumTitle": "An Evening With Pavarotti (2167cd)",
+		"albumTitle": "Essential Pavarotti, Volume 2 (430 470-2)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Luciano Pavarotti",
-		"albumTitle": "Il Meglio (970 777-2)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Lundin Danemo Kvartet",
-		"albumTitle": "Music For Dancers And Dreamers (2-CD)",
+		"artist": "Lucie Silvas",
+		"albumTitle": "Breathe In",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Lutricia McNeal",
-		"albumTitle": "My Side Of Town  The US Version",
+		"albumTitle": "My Side Of Town",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
+	},
+	{
+		"artist": "Lutricia McNeal",
+		"albumTitle": "My Side Of Town (0630-17271-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Lynn Anderson",
@@ -14105,8 +14413,8 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "Maiken Matzau",
-		"albumTitle": "Indre Klarhed",
+		"artist": "Magic Buzz",
+		"albumTitle": "Alt Hvad Vi Gør",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -14117,6 +14425,13 @@
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
+	},
+	{
+		"artist": "Mantovani",
+		"albumTitle": "Spectacular (5821cd)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
 	},
 	{
 		"artist": "Mantovani Orchestra",
@@ -14154,18 +14469,25 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Maria Kämmerling",
-		"albumTitle": "Maderna / Halffter / Borup-Jørgensen (pacd 60)",
+		"artist": "Maria Callas",
+		"albumTitle": "The Incomparable Callas (7 63182 2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Maria Montell",
-		"albumTitle": "Svært At Være Gudinde",
+		"artist": "Maria Lucia",
+		"albumTitle": "That's Just Me (598 978-2)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
+	},
+	{
+		"artist": "Marie Østerbye, Tobias Dydvad, Sebastian Dorset, Vicki Berlin & Carsten Eskelund",
+		"albumTitle": "Tjenesten På P3 (cphrec 0054) (digipack)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Mario Lanza",
@@ -14210,32 +14532,46 @@
 		"quality": "K-3"
 	},
 	{
+		"artist": "Maurice Ravel",
+		"albumTitle": "Bolero (7697.742)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Mavericks",
+		"albumTitle": "Trampoline",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
 		"artist": "Max Greger",
-		"albumTitle": "Das Beste Aus 4 Jahrzehnten",
+		"albumTitle": "Lovebird (833 921-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Me & Mrs Bee",
-		"albumTitle": "Questionnaire (digipack)",
+		"artist": "Meat Beat Manifesto",
+		"albumTitle": "Actual Sounds + Voices",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Mechanical Bird",
-		"albumTitle": "11 Songs For Perchers (papcover)",
+		"artist": "Mew",
+		"albumTitle": "Frengers",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Michael Bolton",
-		"albumTitle": "Timeless: The Classics",
+		"artist": "Michael Jackson",
+		"albumTitle": "Dangerous",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Michael Learns To Rock",
@@ -14252,11 +14588,18 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Mickey Lee & Friends",
-		"albumTitle": "Classic Rock",
+		"artist": "Mickey Lee",
+		"albumTitle": "She's The Girl (NY I folie)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-1"
+	},
+	{
+		"artist": "Mighty Sam McClain",
+		"albumTitle": "Keep On Movinī",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Mike & The Mechanics",
@@ -14309,17 +14652,24 @@
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Concerto For Horn & Orchestra No. 1, 2 & 3 (265 051-2)",
+		"albumTitle": "Clarinet Concerto / Oboe Concerto (414 339-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Die Grossen Meister Der Klassischen Musik (99 100 1)",
+		"albumTitle": "Cosi Van Tutte (3-CD-box) (4509-98494-2) (ingen booklet)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
+	},
+	{
+		"artist": "Mozart",
+		"albumTitle": "Die Zauberflöte  Highlights (sycd 6162)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
 	},
 	{
 		"artist": "Mozart",
@@ -14337,59 +14687,66 @@
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Elvira Madigan (9008-2)",
+		"albumTitle": "Elvira Madigan (3202cd)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Flute Concertos (Naxos 8.557011)",
+		"albumTitle": "Elvira Madigan (nn 2021)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Mozart",
+		"albumTitle": "Flute Concertos Andante (Naxos 8.555074)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Horn Concertos (430 046-2)",
+		"albumTitle": "Klarinettenkonzert KV 622 (7 54138 2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Klassiske Mesterværker (dpk 7904 20001) (cd i bogform)",
+		"albumTitle": "Magical Mystery Mozart (2-CD) (classcd 554-5)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Mozart At Midnight (442 493-2)",
+		"albumTitle": "Symphonies No. 38 & 41 (apcd 336)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Symphonies Nos. 40 & 41 (Naxos 8.550299)",
+		"albumTitle": "Symphony No. 40 (cicd 1006)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Mozart",
-		"albumTitle": "Symphony No. 41 (clg 014)",
+		"albumTitle": "The Best Of (Naxos 8.556653)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Mozart",
-		"albumTitle": "Wiener Sonatiner Spillet Af Bjørn Cari Nielsen, Søren Birkelund & Peter Bastian (fmf cd 1067)",
+		"artist": "Musica Ficta / Bo Holten",
+		"albumTitle": "Danske Julesalmer Og Sange (Naxos 8.553998)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "N.E.R.D.",
@@ -14476,41 +14833,48 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "Offenbach",
-		"albumTitle": "The Tales Of Hoffmann (2-CD) (8.110011-2)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Orff",
-		"albumTitle": "Carmina Burana (Naxos 8.550196)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Orff",
-		"albumTitle": "Carmina Burana (sycd 6035)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Parno Graszt",
-		"albumTitle": "Don't Stop Till The Break Of Dawn (1-CD/1-DVD) (fa260-2)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Patrik Isaksson",
-		"albumTitle": "Tillbaks På Ruta 1",
+		"artist": "Oaktown's 3.5.7",
+		"albumTitle": "Fully Loaded",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-2"
 	},
 	{
+		"artist": "Ofra Haza",
+		"albumTitle": "Kirya",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Orff",
+		"albumTitle": "Carmina Burana (roy 6470)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Original Danish Polcalypso Orchestra Feat. James Jamesie Brewster",
+		"albumTitle": "Live",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Palestrina",
+		"albumTitle": "Missa Papae Marcelli (Naxos 8.550573)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Patrik Isaksson",
+		"albumTitle": "Patrick Isaksson (00226-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
 		"artist": "Patrik Isaksson",
 		"albumTitle": "Tillbaks På Ruta 1",
 		"type": "Album",
@@ -14518,8 +14882,15 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Patsy Cline",
-		"albumTitle": "Walking After Midnight (22522cd)",
+		"artist": "Patrik Isaksson",
+		"albumTitle": "Vi Som Aldrig Landat (515002-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Pau Casals",
+		"albumTitle": "Concert A La Casa Blanca (vak 48126) (cover har lille skade)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -14539,57 +14910,57 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "Peaches & Bobo",
-		"albumTitle": "Simple Emotions",
+		"artist": "Pavarotti",
+		"albumTitle": "Arias (1410.2058-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Per Kynne Frandsen",
+		"albumTitle": "The Historic Organ (8.224057)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Per Nielsen",
-		"albumTitle": "Christmas Time",
+		"albumTitle": "Trumpet Emotions",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Peter André",
+		"albumTitle": "Natural",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Peter Cetera",
+		"albumTitle": "World Falling Down",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
-	},
-	{
-		"artist": "Per Nielsen",
-		"albumTitle": "With Friends (digipack)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Peter Andre",
-		"albumTitle": "Time",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
 	},
 	{
 		"artist": "Petra Frey",
-		"albumTitle": "Hey Du (323410)",
+		"albumTitle": "Küss Mich (323994)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Phil Collins",
-		"albumTitle": "Both Sides",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Piet Veerman",
-		"albumTitle": "Piet Veerman (22203702)",
+		"artist": "Pierre Bachelet",
+		"albumTitle": "Pierre Bachelet (74576)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Placido Domingo",
-		"albumTitle": "Perhaps Love (cdcbs 73592)",
+		"albumTitle": "From Placido Domingo With Love",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -14602,71 +14973,78 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Placido Domingo, Diana Ross, José Carreras",
-		"albumTitle": "Christmas In Vienna (sk 53358)",
+		"artist": "Placido Domingo",
+		"albumTitle": "With Love (8 23060 2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Plan B",
-		"albumTitle": "The Greenhouse Effect",
+		"albumTitle": "The Defamation Of Strickland Banks",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
+	},
+	{
+		"artist": "Plasido Domingo",
+		"albumTitle": "Domingo Favourites (445 525-2) (Deutsche Grammophon)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Platters",
-		"albumTitle": "The Hits Collection (20029-2)",
+		"albumTitle": "The Very Best Of (869242)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Poul Schierbeck",
+		"albumTitle": "Fęte Galante (2-CD) (cdk 5027-28)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Pras",
+		"albumTitle": "Ghetto Supastar",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Primus",
+		"albumTitle": "Primus (refleks 210)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Puccini",
+		"albumTitle": "La Boheme - Highlights (sycd 6157)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Poul Krebs",
-		"albumTitle": "Kosmorama",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Pozo Seco Singers feat. Don Williams",
-		"albumTitle": "Do. (onn 68)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Priests",
-		"albumTitle": "The Priests (88697 33969 2)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "PS Swingband",
-		"albumTitle": "Live 2011 (pscd06)",
+		"artist": "Puccini",
+		"albumTitle": "La Bohéme (Highlights) (Naxos 8.553151)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Puccini",
-		"albumTitle": "La Bohéme (421 301-2)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Puccini",
-		"albumTitle": "Madame Butterfly - Highlights (sycd 6155)",
+		"albumTitle": "Opera Highlights (var 060)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Puccini",
-		"albumTitle": "Tosca - Highlights (sycd 6159)",
+		"artist": "Pushkar",
+		"albumTitle": "Inner Harvest",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -14676,42 +15054,42 @@
 		"albumTitle": "Inner Harvest (Fønix)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
 		"artist": "På Slaget 12",
-		"albumTitle": "Hjem Til Århus  18 Hits",
+		"albumTitle": "Let's Dance, Volume 1",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
 		"artist": "På Slaget 12",
-		"albumTitle": "Let's Dance, Volume 2",
+		"albumTitle": "På Slaget 12 (1)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "På Slaget 12",
-		"albumTitle": "Tror Du Virk'lig Livet Bli'r Genudsendt?",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Radio 4",
-		"albumTitle": "Gothan",
+		"artist": "Rachel Loshak",
+		"albumTitle": "Peach Pony",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Rainhard Fendrich",
-		"albumTitle": "Meisterstücke (521596-2)",
+		"artist": "Rahsaan Patterson",
+		"albumTitle": "After Hours",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
+	},
+	{
+		"artist": "Ralf Paulsen",
+		"albumTitle": "Bonanza  Western Hits (cd 142.560) (NY I folie)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-1"
 	},
 	{
 		"artist": "Rasmus Seebach",
@@ -14735,53 +15113,60 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "Rednex",
-		"albumTitle": "Sex & Violins",
+		"artist": "Razz",
+		"albumTitle": "Kickflipper",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Revive Us Again",
-		"albumTitle": "Let Me Walk Be In Your Steps",
+		"artist": "Remee & The Midas Touch",
+		"albumTitle": "Fast Moving Consumer Goods",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Richard Clayderman",
-		"albumTitle": "Scandinavian Collection (823 066-2)",
+		"albumTitle": "Desperado",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Richard Clayderman",
-		"albumTitle": "The Collection (24231-2)",
+		"albumTitle": "The Abba Collection",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Richard X",
-		"albumTitle": "Presents His X-Factor, Volume 1",
+		"artist": "Richard Marx",
+		"albumTitle": "Paid Vacation",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Ricky Martin",
-		"albumTitle": "Sound Loaded (Asian release)",
+		"albumTitle": "Ricky Martin (494406-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Ridinī Thumb",
-		"albumTitle": "21st Century Funk",
+		"artist": "Ricky Martin",
+		"albumTitle": "The Best Of (505 019-2)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
+	},
+	{
+		"artist": "Rinocérose",
+		"albumTitle": "Installation Sonare",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Road To Cairo",
@@ -14798,25 +15183,32 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Roger Whittaker",
-		"albumTitle": "Greatest Hits  Live, Volume 1 (16006cd)",
+		"artist": "Rod Stewart",
+		"albumTitle": "If We Fall In Love Tonight (9362-46460-2)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Rollo & King",
-		"albumTitle": "Det Nye Kuld",
+		"artist": "Rolf Zuckowski",
+		"albumTitle": "Rolfs Liederkalender (521 134-2)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Rondo Veneziano",
-		"albumTitle": "The Best Of, Volume 1 (74321 42365-2)",
+		"albumTitle": "Nur Das Beste (74321 77220 2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
+	},
+	{
+		"artist": "Roots",
+		"albumTitle": "Phrenogogy",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Rossini",
@@ -14952,46 +15344,53 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Savage Garden",
-		"albumTitle": "Savage Garden (487161 2)",
+		"artist": "Sasha",
+		"albumTitle": "You",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
+	},
+	{
+		"artist": "Schiff",
+		"albumTitle": "The Swan & Other Cello Favourites (442 409-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Schubert",
-		"albumTitle": "Die Schöne Müllerin (468 154-2)",
+		"albumTitle": "Forellenquintett (bm-cd 31.2066)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Schubert",
-		"albumTitle": "Lieder (4509-90873-2)",
+		"albumTitle": "Lieder (8.44060) (cover er falmet)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Seamus Egan",
+		"albumTitle": "When Juniper Sleeps",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Seal",
-		"albumTitle": "Seal (2)",
+		"artist": "Second Sight",
+		"albumTitle": "Second Sight (shanachie 5716)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "September 67",
+		"albumTitle": "Lucky Shoe",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
-	},
-	{
-		"artist": "Seán Needham",
-		"albumTitle": "Time Is A Friend (digipack)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Secret Garden",
-		"albumTitle": "Songs From A Secret Garden",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
 	},
 	{
 		"artist": "Shaznay Lewis",
@@ -15023,49 +15422,63 @@
 	},
 	{
 		"artist": "Simple Plan",
-		"albumTitle": "Still Not Getting Any...",
+		"albumTitle": "Simple Plan (7567-89956-5)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Skin",
-		"albumTitle": "Fake Chemical State",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Sleepy Man Banjo Boys",
-		"albumTitle": "The Farthest Horizon",
+		"artist": "Simply Red",
+		"albumTitle": "Greatest Hits (0630-16575-2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "Smokie",
-		"albumTitle": "Uncovered",
+		"artist": "Sko / Torp",
+		"albumTitle": "Familiar Roads",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "Snuff Johnson",
-		"albumTitle": "Will The Circle Be Unbroken",
+		"artist": "Smetana",
+		"albumTitle": "Ma Vlast (11 1208-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Snatam Kaur",
+		"albumTitle": "The Essential (6 00835 14742 2) (digipack)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Soul Meeting",
+		"albumTitle": "Soul Meeting (fra 2007)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soultans",
-		"albumTitle": "Take Off",
+		"albumTitle": "Love, Sweet & Tears",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Space",
-		"albumTitle": "Spiders",
+		"artist": "Sounds Orchestral",
+		"albumTitle": "Sleepy Shores",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Span",
+		"albumTitle": "Mass Distraction",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -15078,36 +15491,36 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "St. Johnny",
-		"albumTitle": "Speed Is Dreaming",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Stan Urban",
-		"albumTitle": "So Far",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Stefan Andersson",
-		"albumTitle": "Walk Right On",
+		"artist": "Spudmonsters",
+		"albumTitle": "No Guarantees",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "Sten Lerche",
-		"albumTitle": "Oppe I Norge",
+		"artist": "Stainless",
+		"albumTitle": "Reels From A Small Company",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-3"
+	},
+	{
+		"artist": "Starz!?",
+		"albumTitle": "Party",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Stefan Guzikowski",
+		"albumTitle": "Heart Healing (Fønix)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Stig Rossen",
-		"albumTitle": "Stories",
+		"albumTitle": "Starry Starry Nights (cover er lidt falmet)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -15117,95 +15530,102 @@
 		"albumTitle": "The Impossible Dream",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Strauss",
-		"albumTitle": "Collection (str 401a)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Strauss",
-		"albumTitle": "Ein Nacht In Venedig (Naxos 8.111254)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Strauss",
-		"albumTitle": "Kaiserwalzer (450 083-2)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Strauss",
-		"albumTitle": "Radetzky-Marsch, Op. 30 (450 084-2)",
-		"type": "Album",
-		"price": 2,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Strauss",
-		"albumTitle": "The Strauss Collection (u 4053)",
+		"albumTitle": "An Der Schönen Blauen Donau (99870)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Strauss",
-		"albumTitle": "Walzer & Polkas (427 217-2) (Deutsche Grammophon)",
+		"albumTitle": "Collection (str 401c)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
+	},
+	{
+		"artist": "Strauss",
+		"albumTitle": "Ein Struss Festival (338 030-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Strauss",
+		"albumTitle": "Music From Vienna, Volume 1 (265 084-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Strauss",
+		"albumTitle": "The Best Of (Naxos 8.551114)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Strauss",
+		"albumTitle": "Waltzes & Marches (clglux 014)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Strauss",
+		"albumTitle": "Wiener Blut (Naxos 8.111257)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
 	},
 	{
 		"artist": "Strauss Jr.",
-		"albumTitle": "Most Famous Waltzes (Naxos 8.550152)",
+		"albumTitle": "Waltzer / Marches / Polkas (dgl 2129)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Streets",
-		"albumTitle": "The Hardest Way To Make An Easy Living",
+		"artist": "Supergrass",
+		"albumTitle": "Supergrass Is 10  Best Of 94-04",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Supremes",
-		"albumTitle": "Baby Love (re-recordings) (16287cd)",
+		"artist": "Susan Boyle",
+		"albumTitle": "The Gift",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Suuns",
-		"albumTitle": "Images Du Futur (papcover)",
+		"artist": "Svelt Souvenir",
+		"albumTitle": "Svelt Souvenir (4025544600222)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Sven-Bertil Taube",
-		"albumTitle": "Synger Evert Taube",
+		"artist": "Swirl 360",
+		"albumTitle": "Ask Anybody",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Søren Hyldgaard",
-		"albumTitle": "Flying Dreams",
+		"albumTitle": "Sound Tracks (Fønix)",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Søren Rud Keiding",
-		"albumTitle": "On Location",
+		"artist": "Take That",
+		"albumTitle": "Progress",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -15274,74 +15694,81 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Tina Arena",
-		"albumTitle": "Don't Ask",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Tiziano Ferro",
-		"albumTitle": "Rosso Relativo",
+		"artist": "Thune",
+		"albumTitle": "Drømmesyn",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Tom Donovan Band",
-		"albumTitle": "Stories Seldom Told",
+		"artist": "Tina Sejling",
+		"albumTitle": "Under Huden (NY CD)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-2"
+	},
+	{
+		"artist": "TNC",
+		"albumTitle": "The Network Concept",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Tonica",
-		"albumTitle": "Hilsen Til Vore Venner",
+		"artist": "Tommy Körberg & Royal Stockholm Philharmonic Orchestra",
+		"albumTitle": "Evergreens (74321 39975 2)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Tony Bennett",
-		"albumTitle": "Duets  An American Classics (82876809792)",
+		"albumTitle": "Anything Goes  Live (16270cd)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Tony O'Connor",
-		"albumTitle": "Rainforest Magic",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tracey Thorn",
-		"albumTitle": "Out Of The World",
+		"artist": "Tony Bennett",
+		"albumTitle": "Duets, Volume 2 (88697974892)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "Tre Til Tango",
-		"albumTitle": "Entrads",
+		"artist": "Torben Westergaard",
+		"albumTitle": "What I Miss",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Travis",
+		"albumTitle": "The Invisible Band",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Tree63",
+		"albumTitle": "Sunday",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Treenighedskirkens Drenge- & Mandekor",
-		"albumTitle": "De 9 Læsninger (pacd 83)",
+		"artist": "Tribe",
+		"albumTitle": "The Gathering",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
 	},
 	{
-		"artist": "- 32406349 - Kr. 2 - Trio Rococo",
-		"albumTitle": "Friends",
+		"artist": "Trio Rococo",
+		"albumTitle": "Plays Beatles  Classical Mystery Tour",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Tyler Hilton",
@@ -15353,6 +15780,13 @@
 	{
 		"artist": "U2",
 		"albumTitle": "All That You Can't Leave Behind (524 653-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Ultra",
+		"albumTitle": "Ultra (3984222452)",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-4"
@@ -15374,6 +15808,13 @@
 	{
 		"artist": "Unveiled",
 		"albumTitle": "Crudelis Et Invictus (tbcd 002)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Usher",
+		"albumTitle": "Confessions",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
@@ -15491,18 +15932,18 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Whitney Houston",
-		"albumTitle": "The Preacher's Wife (Soundtrack)",
-		"type": "Album",
-		"price": 2,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Willie Rosario",
-		"albumTitle": "Sopresas",
+		"artist": "White Pony",
+		"albumTitle": "K Town Stomp",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
+	},
+	{
+		"artist": "Wieners Sängerknaben",
+		"albumTitle": "Weisse Weihnacht (44 1809-2)",
+		"type": "Album",
+		"price": 2,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Wilson Phillips",
@@ -15512,31 +15953,31 @@
 		"quality": "K-4"
 	},
 	{
-		"artist": "Wolfgang Sauer",
-		"albumTitle": "Die Schönsten Der Erinnerung (16054cd)",
+		"artist": "Wolfe",
+		"albumTitle": "Delaware Crossing",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-2"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Yaki-Da",
-		"albumTitle": "Pride",
+		"artist": "Xytras",
+		"albumTitle": "Passage",
 		"type": "Album",
 		"price": 2,
 		"quality": "K-3"
 	},
 	{
-		"artist": "You Know Who",
-		"albumTitle": "You Know Who (1) (85025)",
+		"artist": "Yanni",
+		"albumTitle": "In My Time",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Zucchero",
-		"albumTitle": "Blue Sugar",
+		"artist": "Yul Anderson",
+		"albumTitle": "Relief",
 		"type": "Album",
 		"price": 2,
-		"quality": "K-4"
+		"quality": "K-3"
 	}
 ]
