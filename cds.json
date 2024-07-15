@@ -3767,13 +3767,6 @@
 	},
 	{
 		"artist": "Jack Johnson",
-		"albumTitle": "On And On (digipack)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Jack Johnson",
 		"albumTitle": "Sleep Through The Static (papcover)",
 		"type": "Album",
 		"price": 10,
@@ -4473,134 +4466,134 @@
 		"quality": "K-3"
 	},
 	{
-		"artist": "Katy Perry",
-		"albumTitle": "One Of The Boys (509992 29139 2 0)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
 		"artist": "Kaya",
-		"albumTitle": "The State I'm In (recd 6505)",
+		"albumTitle": "Kaya (1) (recd 6101)",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-2"
+		"price": 5,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Kaya Brüel",
-		"albumTitle": "The Love List (digipack)",
+		"albumTitle": "Med Dannebrog På Næsen (digipack)",
 		"type": "Album",
 		"price": 10,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Keane",
-		"albumTitle": "The Best Of (3751844)",
+		"albumTitle": "Hopes And Fears",
 		"type": "Album",
-		"price": 20,
+		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kellie Pickler",
-		"albumTitle": "100 Proof",
+		"artist": "Keane",
+		"albumTitle": "Under The Iron Sea",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kelly Family",
+		"albumTitle": "Almost Heaven",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Kelly Family",
-		"albumTitle": "Growinī Up",
+		"albumTitle": "Over The Hump",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kelly Family",
-		"albumTitle": "Who'll Come With Me (551 689-2)",
+		"artist": "Kelly Rowland",
+		"albumTitle": "Simply Deep",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kenny",
+		"albumTitle": "Higher Higher (22588cd)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Kenneth Thordal",
-		"albumTitle": "Skåret Ud I Pap (digipack)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Kenny G",
-		"albumTitle": "Silhouette",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Kent",
-		"albumTitle": "Vapen & Ammunition",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Kevin Rowland of Dexys Midnight Runners",
-		"albumTitle": "The Wanderer",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Kick The Kangaroo",
-		"albumTitle": "Sounds Like A Bad Joke",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Kid Rock",
-		"albumTitle": "The History Of Rock",
-		"type": "Album",
-		"price": 20,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Killers",
-		"albumTitle": "Hot Fuss",
+		"artist": "Kenny Rogers",
+		"albumTitle": "With Love  20 Very Special Love Songs (24273-2)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kim & Hallo",
-		"albumTitle": "Danske Schlägere",
+		"artist": "Kerbdog",
+		"albumTitle": "Kerbdog (314 518 866-2)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kim & Hallo",
-		"albumTitle": "The Collection (858692)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Kim Menzer & Lars Trier",
-		"albumTitle": "Kiss The Forest",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Kim Schwartz",
-		"albumTitle": "En Helt Almind'lig Mand (24142-2)",
+		"artist": "Keziah Jones",
+		"albumTitle": "Blufunk Is A Fact",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
 	},
 	{
+		"artist": "Kid Creole & The Coconuts",
+		"albumTitle": "Classic - The Universal Masters Collection (546 795-2)",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kiko Veneno",
+		"albumTitle": "Échate Un Contecito",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Killing",
+		"albumTitle": "Face The Madness",
+		"type": "Album",
+		"price": 20,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Kim & Hallo",
+		"albumTitle": "Drømmeland (24234-2)",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kim Larsen",
+		"albumTitle": "Kim I Cirkus",
+		"type": "Album",
+		"price": 25,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kim Schumacher",
+		"albumTitle": "Stemmen Fra 80'erne (2-CD) (mcd 85015)",
+		"type": "Album",
+		"price": 20,
+		"quality": "K-3"
+	},
+	{
 		"artist": "Kim Sjøgren",
-		"albumTitle": "Over The Rainbow",
+		"albumTitle": "I Skovens Dybe Stille Ro",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kim Sjøgren & His Little Mermaid Orchestra",
+		"albumTitle": "Für Elise",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
@@ -4609,112 +4602,105 @@
 		"artist": "Kim Sjøgren & His Little Mermaid Orchestra",
 		"albumTitle": "Salut D'Amour",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-2"
+		"price": 5,
+		"quality": "K-3"
 	},
 	{
-		"artist": "Kim Skovbye",
-		"albumTitle": "Eventide  Lullabies For All Ages",
+		"artist": "Kin Ping Meh",
+		"albumTitle": "No. 2",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "King Of The Hill",
-		"albumTitle": "King Of The Hill (79 5827 2)",
+		"artist": "Kings Of Leon",
+		"albumTitle": "Aha Shake Heartbreak",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kings Of Leon",
+		"albumTitle": "Come Around Sundown (papcover)",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kings Of Leon",
+		"albumTitle": "Youth & Young Manhood",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Kinky Boot Beast",
+		"albumTitle": "Insect Psycho Tango",
 		"type": "Album",
 		"price": 25,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Kings Of Leon",
-		"albumTitle": "Because Of The Times",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Kings Of Leon",
-		"albumTitle": "Only By The Night",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Kinks",
-		"albumTitle": "Phobia",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-4"
-	},
-	{
 		"artist": "Kira & The Kindred Spirits",
-		"albumTitle": "3 (cphrec 0049) (lille revne I cover)",
+		"albumTitle": "This Is Not An Exit",
 		"type": "Album",
-		"price": 15,
+		"price": 10,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Kirmesmusikanten",
+		"albumTitle": "Die Großen Erfolge, CD1",
+		"type": "Album",
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kira & The Kindred Spirits",
-		"albumTitle": "This Is Not An Exit / Live (2-CD) (digipack)",
+		"artist": "Kirmesmusikanten",
+		"albumTitle": "Die Großen Erfolge, CD3",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kirsten Siggaard",
+		"albumTitle": "Mit Liv Med Patsy Cline",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kisser & Søren",
+		"albumTitle": "Det Er Sådan Det Er",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kittie",
+		"albumTitle": "Spit",
+		"type": "Album",
+		"price": 25,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Kitty Wu",
+		"albumTitle": "Privacy",
 		"type": "Album",
 		"price": 20,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Kirmesmusikanten",
-		"albumTitle": "Die Großen Erfolge, CD2",
+		"artist": "Klart Dér",
+		"albumTitle": "Elektriske Fyrfadslys",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Kirsten & Søren",
-		"albumTitle": "Det Var Lige Det (46581cd)",
+		"artist": "Klaus Suonsaari Quintet",
+		"albumTitle": "Reflecting Times",
 		"type": "Album",
 		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Kirsten Siggaard",
-		"albumTitle": "Piaf",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Kisser & Søren",
-		"albumTitle": "Sig Altid Kun På Gensyn",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Kitty Wells",
-		"albumTitle": "Country Gold (cgcd 011)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Kitty Wu",
-		"albumTitle": "The Rules Of Transportation",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Klaus Kjellerup",
-		"albumTitle": "Klaus Kjellerup (ricd 1)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Klaus Wunderlich",
-		"albumTitle": "Concerto Grosso",
-		"type": "Album",
-		"price": 5,
 		"quality": "K-3"
 	},
 	{
