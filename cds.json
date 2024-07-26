@@ -9206,21 +9206,14 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 1",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
 		"albumTitle": "Absolute Music, Volume 2",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-4"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 4",
+		"albumTitle": "Absolute Music, Volume 3",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
@@ -9236,29 +9229,15 @@
 		"artist": "Opsamling",
 		"albumTitle": "Absolute Music, Volume 6",
 		"type": "Album",
-		"price": 5,
+		"price": 15,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Absolute Music, Volume 8",
+		"type": "Album",
+		"price": 10,
 		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 7",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 8",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 8",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
@@ -9269,21 +9248,7 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 10",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 12",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 13",
+		"albumTitle": "Absolute Music, Volume 11",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
@@ -9292,123 +9257,130 @@
 		"artist": "Opsamling",
 		"albumTitle": "Absolute Music, Volume 13",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 16",
+		"albumTitle": "Absolute Music, Volume 14",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 18",
+		"albumTitle": "Absolute Music, Volume 17",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Absolute Music, Volume 19",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Absolute Music, Volume 22",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 20",
+		"albumTitle": "Absolute Music, Volume 23",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Absolute Music, Volume 22",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
 		"albumTitle": "Absolute Music, Volume 28",
 		"type": "Album",
-		"price": 15,
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "All My Love  Alle Tiders Bedste Danske Hits (2-CD) (987 790 3)",
+		"type": "Album",
+		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Africando All Star  Mandali (stcd 1092)",
+		"albumTitle": "All Time Greatest Country Songs (2-CD) (9936-09)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "All Woman, Volume 2 (2-CD) (82876896682)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Alle Tiders 80'er Hits (2-CD) (600753 212462)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Alletiders Hits (534 929-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Alley Cat (10113-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "American  Ballads (484021 2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "American  Popsongs (484022 2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "All The Best  16 Original Tracks (mrcd 3244)",
+		"albumTitle": "Armageddon  The Album (491 384-2)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "All Woman (2-CD) (82876740032)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "All Woman, Volume 4 (2-CD) (88697491092)",
-		"type": "Album",
-		"price": 8,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Alle Tiders Tyske Schlager Hits, Volume 2 (2-CD) (88697924492)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Alletiders Julesange M. Kirsten Siggaard & Poul Bundgaard M.FL. (5709165179723)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Alpen Schlager (3-CD-set) (t 820678) (NY I folie)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "American  Dance (484023 2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Are We There Yet  18 Classic Hit (10391-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Auf Der Balleralm  Aprés-Schi-Hits Zum Mitgrölen (3-CD-set) (cd 141.039/40/41) (NY I folie)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "B.T. Tour De France CD (882302)",
+		"albumTitle": "B.T. Sommer CD (44006 02132)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
-		"artist": "- 22310017 - Kr. 5 - K-2 Opsamling",
+		"artist": "Opsamling",
+		"albumTitle": "Back To Love (ren cd 115)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
 		"albumTitle": "Bamses Julerejse (recd 8606)",
 		"type": "Album",
 		"price": 5,
@@ -9416,20 +9388,20 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Bamsesange, Volume 1 (5705643 535142) (NY I folie)",
+		"albumTitle": "Bamsesange, Volume 3 (5705643 535166) (NY I folie)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-1"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Bamsesange, Volume 4 (5705643 535173) (NY I folie)",
+		"albumTitle": "Bamsesange, Volume 5 (5705643 535180) (NY I folie)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-1"
 	},
 	{
-		"artist": "- 22310018 - Kr. 8 - K-2 Opsamling",
+		"artist": "Opsamling",
 		"albumTitle": "Be-Bop-A-Lula Times Rock & Roll Classics (dd 0212)",
 		"type": "Album",
 		"price": 5,
@@ -9437,20 +9409,20 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Beautiful Moments  40 Instrumental Love Songs (2-CD-box) (24053-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Best Of Christmas Accordion (709165 299923)",
+		"albumTitle": "Best Of Christmas Accordion (5 709165 229923)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "- 22306026 - Kr. 8 - K-2 Opsamling",
+		"artist": "Opsamling",
+		"albumTitle": "Best Of The 80's (2-CD-box) (cd 141.294/5) (NY I folie)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
 		"albumTitle": "Black & Soul (2-CD) (cd 246.565) (NY I folie)",
 		"type": "Album",
 		"price": 8,
@@ -9458,20 +9430,13 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Blue Eyes Cryinī In The Rain  25 Country Greats (grf 121)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Bonusalbum Fra Grøn Box (uni 275 258 4) (Papcover) (Fra Serien Dansk Rock Historie 1956-1978)",
+		"albumTitle": "Body & Soul  The Best Of Black Music, Volume 2 (2-CD) (5 099747 712227)",
 		"type": "Album",
 		"price": 8,
-		"quality": "K-2"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Opsamling",
+		"artist": "- 22011059 - Kr. 8 - K-2 Opsamling",
 		"albumTitle": "Bossa Nova Moods (2-CD) (841396-2 /44)",
 		"type": "Album",
 		"price": 8,
@@ -9479,34 +9444,34 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Burning Love (74321 46889 2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Burning Love, Volume 2 (dcd 42)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "C'est Si Bon  French Popurar Songs (2-CD-box) (knewcd 705/2)",
+		"albumTitle": "Bulls Eye, Volume 2  The Soul Collection (2-CD) (9509-13)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "California Dreaminī - 16 Original Superhits Of The 60's (352006)",
+		"albumTitle": "Burning Love, Volume 1 (dcd 41)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
+		"albumTitle": "Børneparty (24080-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Café Latino (tcd 2841)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "- 22109008 - Kr. 8 - K-2 Opsamling",
 		"albumTitle": "Careless Whisper, Volume 1 (2-CD) (9502-2)",
 		"type": "Album",
 		"price": 8,
@@ -9514,20 +9479,20 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Careless Whisper, Volume 4 (2-CD) (umd 85064)",
+		"albumTitle": "Careless Whisper, Volume 2 (2-CD) (9512-1)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Ceud Mile Failte  One Hundred Thousand Welcomes To Scotland  The Great Music & Songs Of Caledonia (ivrcd 732)",
+		"albumTitle": "Cartoons Network Kidz Hits, Volume 4 (1-CD/1-DVD)",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
+		"price": 8,
+		"quality": "K-4"
 	},
 	{
-		"artist": "Opsamling",
+		"artist": "- 22310022 - Kr. 5 - K-2 Opsamling",
 		"albumTitle": "Charter Hits (2-CD) (5051442952124)",
 		"type": "Album",
 		"price": 8,
@@ -9535,28 +9500,28 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Chillout Moods (2-CD) (583 776-2)",
+		"albumTitle": "Chillout Moods  Rain Dance (2-CD) (646092)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Christmas Wishes (din147d)",
+		"albumTitle": "Christmas Hits (2-CD) (not2cd224) (Ny I Folie)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Classic Jazz, Volume 4 (rd 033-4 A5 19477)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Classic Rock n' Roll (2-CD) (885472)",
-		"type": "Album",
-		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Classical Favourites (3-CD-box) (556 898-2)",
+		"albumTitle": "Classical 2008 (2-CD) (509995105682)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
@@ -9565,25 +9530,32 @@
 		"artist": "Opsamling",
 		"albumTitle": "Classical Moments (2-CD) (6019-2)",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
+		"price": 8,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Con Amore (2-CD) (88697944642)",
+		"albumTitle": "Come On Let's Party  71 Timeless Hits (3-CD-box) (4161cd3)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Country (2-CD) (220111) (NY I folie)",
+		"albumTitle": "Concerto Copenhagen (dr-p2)  20 Års Jubilæum-CD (promo udgivet i begrænset oplag)",
 		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
+		"price": 5,
+		"quality": "K-3"
 	},
 	{
-		"artist": "- 22109015 - Kr. 5 - K-2 Opsamling",
+		"artist": "Opsamling",
+		"albumTitle": "Country Girls  20 Country Greats (U4069)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
 		"albumTitle": "Country Gold, Volume 1 (40226-2)",
 		"type": "Album",
 		"price": 5,
@@ -9591,48 +9563,34 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Country Gold, Volume 2 (40227-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Country Greats (2-CD) (cd 246.583) (NY I folie)",
+		"albumTitle": "Country Gospel (2-CD) (do 640862)",
 		"type": "Album",
 		"price": 8,
-		"quality": "K-1"
+		"quality": "K-2"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Country Highlights (2-CD) (cd 246.629) (NY I folie)",
+		"albumTitle": "Country Greats, Volume 1 (grf 003)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-1"
+		"quality": "K-2"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Country Smash Hits, Volume 2 (100.012-2)",
+		"albumTitle": "Country Love Songs, Volume 1 (2129cd)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Cuba Legends  The Myths (2-CD) (dcd-924)",
+		"albumTitle": "Country Stars & Hits (19 417)",
 		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Dance Chart, Volume 17 (2-CD)",
-		"type": "Album",
-		"price": 10,
+		"price": 5,
 		"quality": "K-4"
 	},
 	{
-		"artist": "Opsamling",
+		"artist": "- 22110048 - Kr. 8 - K-2 Opsamling",
 		"albumTitle": "Dance Classics, Volume 1 (05 3151 61)",
 		"type": "Album",
 		"price": 5,
@@ -9640,35 +9598,35 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Danish Goodies  20 Hits (750003 235217)",
+		"albumTitle": "Dance Hits 80's And 90's (ring0340a)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Dansk Filmmusik & Danske Sange, Volume 2 (7344)",
+		"albumTitle": "Dansk Filmmusik & Danske Sange, Volume 1 (7343)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Dansk Melodi Grand Prix 2000",
+		"albumTitle": "Dansk Filmmusik & Danske Sange, Volume 3 (7345)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Dansk Melodi Grand Prix 2001",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Dansk Melodi Grand Prix 2002",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Dansk Melodi Grand Prix 2006",
+		"albumTitle": "Dansk Melodi Grand Prix 2004",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
@@ -9682,191 +9640,191 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Dansk Pop Galla (46606cd)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Dansk Top '94, Volume 1 (24058-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "De Bedste Danske (3-CD-box) (t820715)",
-		"type": "Album",
-		"price": 20,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Der Goldene Hitmix (cd 152.939) (NY I folie)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Deutsche Schlager Parade, Volume 4 (4755cd)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Deutscher Oldie Hit-Mix (2-CD-set) (cd 151.617/8) (NY I folie)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Diana, Princess Of Wales  Tribute (2-CD) (489333 2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Disco Classics, Volume 1  Mr Music (mmcd ex 10-28)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Disney Magi (2-CD) (6 87459 0)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Donauland  55 Jahre  55 Hits  Das Beste Aus 55 Jahre Schlager (3-CD-box) (983265 7)",
-		"type": "Album",
-		"price": 12,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Eldorado, Volume 1 (3-CD-box) (M 20175-2)",
+		"albumTitle": "Dansk Melodi Grand Prix 2010",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "En Fransk Affære (2-CD) (7243 8 110212 1)",
+		"albumTitle": "Dansk Public Service (2-CD) (6072-2)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Essential  Easy Listening  60 Timeless Easy Listening Tracks (3-CD-box) (88697645232)",
+		"albumTitle": "Dansparty (tmccd 119)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "De Glade 60'ere  Let The Good Times Roll 1960-1963 (2-CD) (520 325-2)",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Deutsche Country Hits (2-CD) (cd 246.628) (NY I folie)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Deutsche Trucker Hits (3-CD-set) (cd 312.429) (NY I folie)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Diamanten Der Volksmusik (cd 142.413) (NY I folie)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Die Volksmusikhits Des Jahrhunderts, Folge 9 (554 854-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Disco Greats (2-CD) (cd 246.580) (NY I folie)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Diva  Uforglemmelige Øjeblikke (2-CD) (5 336 042)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Ekstra Bladet  Ekstra Jul (5 708730 181147)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Electric Dreams - Selected Hits From The 80's (2-CD) (07243 533652 2 1)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Essential - Soul Love  60 Definitive Soul Tracks (2-CD-box) (88697645202)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Evergreens (2-CD) (Arcade 8900128)",
+		"albumTitle": "Essential 80's  Good Thing Gone  20 Huge 80's Hits (platcd 583)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Everybody Dance Now, Volume 3 (1-CD/1-DVD) (tmc 157110) (NY I folie)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Fastelavn Er Mit Navn (t 74159)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Feelings  20 Golden Panflute Melodies (01 5310 61)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Flamengo Woman (04071 00492)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "For Fuld Musik, Volume 20 (fmcd 120)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Forbryderalbummet (5 707471 002308)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Forever Young  Just Can't Get Enough, Volume 2 (2-CD) (8334402)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Fantastiske 80'ere (2-CD) (4987782)",
+		"albumTitle": "Fox Party (2-CD-set) (cd 142.222/3) (NY I folie)",
 		"type": "Album",
 		"price": 8,
-		"quality": "K-3"
+		"quality": "K-1"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Favourite Overtures From The World Of Operetta (3-CD-box) (g99002sd3)",
+		"albumTitle": "Girls Night Out (2-CD) (play 2-021) (NY I folie)",
 		"type": "Album",
 		"price": 8,
-		"quality": "K-3"
+		"quality": "K-1"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Feelings, Volume 2  18 Golden Panflute Melodies (473 530-2)",
+		"albumTitle": "Golden Hits Of Panflute (388 008-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Flight Of The Condor  Pan Pites Of The Andes (2-CD) (dcd cd 211)",
+		"albumTitle": "Grandes Del Brazil (2-CD) (dv 99004)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "For Fuld Musik, Volume 23 (7923.422)",
+		"albumTitle": "Great Grill Music (4 89282 2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Forever Young  Just Can't Get Enough, Volume 2 (2-CD) (833 440-2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Fort Minor  The Rising Tied (1-CD/1-DVD) (9362-49410-2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Fröhliche Weihnacht (2-CD-box) (39936-0)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Glanz Des Barock (2-CD-box) (delta 24 067)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Golden Sound Of Panflute (388 007-2)",
+		"albumTitle": "Greatest Dance 1997 (mmcd Ex 98-2)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Great Composers (2-CD-box) (540721)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Great Love Songs (3-CD-set) (bx 858402/12/22)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Greatest Hits For Kids (2-CD) (uni 533 144 9)",
-		"type": "Album",
-		"price": 10,
 		"quality": "K-3"
 	},
 	{
@@ -10270,66 +10228,59 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "More Music 2013 (3-CD-box) (5345866) (skrevet på cover)",
+		"albumTitle": "More Music, Volume 7 (2-CD) (5342145) (NY CD)",
 		"type": "Album",
 		"price": 10,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Most Wanted Movie Hits (2-CD) (525 928-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Most Wanted Music, Volume 2 (9703-3)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Motorcity, Volume 2 (rps 007 b)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Motorcity, Volume 4 (rps 007 d)",
+		"type": "Album",
+		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Most Wanted Dance, Volume 1 (9603-1)",
+		"albumTitle": "Mr Music Hits 1993, Volume 9",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Most Wanted Music, Volume 1 (9602-2)",
+		"albumTitle": "Mr Music Hits 1993, Volume 11",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Motorcity, Volume 1 (rps 007 a)",
+		"albumTitle": "Mr Music Hits 1994, Volume 1",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Motorcity, Volume 3 (rps 007 c)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1993, Volume 8",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1993, Volume 10",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1993, Volume 12",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1994, Volume 3",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
 	},
 	{
 		"artist": "Opsamling",
@@ -10341,13 +10292,6 @@
 	{
 		"artist": "Opsamling",
 		"albumTitle": "Mr Music Hits 1994, Volume 6",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1994, Volume 7",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
@@ -10368,13 +10312,6 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1994, Volume 10",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
 		"albumTitle": "Mr Music Hits 1994, Volume 11",
 		"type": "Album",
 		"price": 5,
@@ -10382,181 +10319,181 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1994, Volume 12",
+		"albumTitle": "Mr Music Hits 1995, Volume 1",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1995, Volume 3",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1995, Volume 2",
+		"albumTitle": "Mr Music Hits 1995, Volume 5",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1995, Volume 4",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1995, Volume 6",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1995, Volume 9",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1998, Volume 8",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1998, Volume 10",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1998, Volume 12",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1999, Volume 2",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1999, Volume 4",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1999, Volume 6",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1999, Volume 9",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 1999, Volume 11",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 2000, Volume 1",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 2000, Volume 3",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Mr Music Hits 2000, Volume 5",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Music Of The Millennium (2-CD) (560 436-2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Music To Watch Girls By (2-CD) (2030-05)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Musical Greatest (2-CD) (pccd 8099)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Musik Für Unterwegs  Oldie Hits (2-CD) (cd 246.480) (NY I folie)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Nat & Dag, Volume 1 (2-CD) (5051442618723)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Natures Harmonie (2-CD) (tv002-2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "No Stress Klassisk  Velvære For Den Indre Ro, Volume 1+2+3 (3-CD-box) (t 7351/2/3) (NY I folie)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "No Stress, Volume 1 (4987622)",
+		"albumTitle": "Mr Music Hits 1995, Volume 8",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Nocturne  Musik I Sommernatten (2-CD) (1791 2)",
+		"albumTitle": "Mr Music Hits 1995, Volume 10",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1998, Volume 9",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1998, Volume 11",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1999, Volume 1",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1999, Volume 3",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1999, Volume 5",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1999, Volume 7",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1999, Volume 10",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 1999, Volume 12",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 2000, Volume 2",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mr Music Hits 2000, Volume 4",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Music By Candlelight (2-CD) (5277682)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
-		"artist": "- 22109041 - Kr. 8 - K-2 Opsamling",
+		"artist": "Opsamling",
+		"albumTitle": "Music Of The Millennium, Volume 1 (2-CD) (560 436-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Musical Favourites (2-CD-box) (01200042)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Musical Highlights (2-CD)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Mæ Si'r Det Lille Lam (74138)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Nat & Dag, Volume 2 (2-CD) (5051865298229)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Naxos  Julens Smukkeste Sange, Volume 2 (8503182dk 2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "No Stress, Volume 1 (4987622)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "No. 1 Hits (2-CD) (do 991142)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Non Stop Party Hits, Volume 3 (703976 101935)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
 		"albumTitle": "Now 39 (2-CD) (4 94687 2)",
 		"type": "Album",
 		"price": 10,
@@ -10564,21 +10501,21 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Now 39 (2-CD) (4 94687 2)",
-		"type": "Album",
-		"price": 15,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Now Big Hits 2006 (2-CD) (984 414 4)",
+		"albumTitle": "Now 40 (2-CD) (4 96242-2) (UK Release)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Now That's What I Call Music (DK), Volume 2",
+		"albumTitle": "Now Christmas 2003 (2-CD) (595 459-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Now That's What I Call Music (DK), Volume 6",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
@@ -10592,111 +10529,111 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Now That's What I Call Music (DK), Volume 10",
+		"albumTitle": "Now That's What I Call Music (DK), Volume 12",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Now That's What I Call Music (DK), Volume 14",
+		"albumTitle": "Now That's What I Call Music (DK), Volume 17",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Now That's What I Call Music (DK), Volume 18",
+		"albumTitle": "Now Thats What I Call Christmas (2-CD) (3433182)",
 		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
+		"price": 5,
+		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Nu Divas (74321 92926 2)",
+		"albumTitle": "Nu Divas, Volume 2 (82876 50497 2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "O Florens Rosa (6468-2)",
+		"albumTitle": "Oldies But Greatest, Volume 1 (15 028)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Opera Highlights  Cavalleria Rusticana / Pagliacci (706612)",
+		"albumTitle": "Opera Sampler, Volume 2 (434 126.2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Opera, Volume 1 (1-CD/1-DVD) (5051865285120)",
+		"albumTitle": "Original Hits  90s (6-CD-box) (5099969914522)",
+		"type": "Album",
+		"price": 25,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Pan Flute Favourites (grf 248)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Panpipe Christmas, Volume 1 (10013632)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Panpipe Moods (15204cd)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Pan Flute Christmas (ak 10131)",
+		"albumTitle": "Panpipes Play Celine Dion (5268cd)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Pan Pipe Moods (527 197-2)",
+		"albumTitle": "Party Zone Music, Volume 3 (0125662ere)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Panpipe Christmas, Volume 3 (25301-3)",
+		"albumTitle": "Passione (2-CD) (88697801002)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Pjerrot Og Månen (t 74160)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Panpipes Play Abba (5269cd)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Panpipes Play The Beatles (10013242)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Partyhits Für Unterwegs (3-CD-box) (cd 312.531) (NY I folie)",
+		"albumTitle": "Pop & Rock Für Unterwegs (3-CD-box) (cd 312.528) (NY I folie)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-1"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Perfect Panpipes  Celine Dion & Barbra Streisand (3110-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Plus  1995/ 2 (mmcd 5065)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "- 22310042 - Kr. 5 - K-2 Opsamling",
 		"albumTitle": "Pop Songs  De Største Radiohits (m 20112-2)",
 		"type": "Album",
 		"price": 5,
@@ -10704,126 +10641,126 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Postmand Per (83119222) (cover lidt flamet)",
+		"albumTitle": "Pottemusik & Eventyr For Børn (10017572)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Pure Panpipe (2-CD) (50050042)",
+		"albumTitle": "Pure Road Music  Die Neue 2000 (2-CD) (23004-2)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Pure Swing (2-CD) (23008-2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Pure... Drive (4-CD-box) (88697962962) (digipack)",
+		"albumTitle": "Pure Country (4-CD-box) (digipack) (88697753012)",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Queens Of African Music (nscd 019)",
+		"albumTitle": "Pure... Latin Dance (4-CD-box) (88691946522)",
 		"type": "Album",
-		"price": 5,
+		"price": 16,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Radio City Love Songs (2-CD-box) (472712-2)",
+		"type": "Album",
+		"price": 8,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Readers Digest Musik. Tusind Års Musik.  Grieg, Dworák, Sibelius: Arven Fra Nationalromantikken (3-CD-box) (mrj 050590) (NY I folie)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Relax, Volume 1: Smooth Classics (3-CD-box) (88697223782)",
+		"albumTitle": "Real Country (2-CD) (6089-2)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Relax The Fragrance Of Fønix Musik (fmf cd 9003)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Respect  The Soundtrack Of The Soul Generation (2-CD) (524 863-2)",
+		"albumTitle": "Relax, Volume 3: Smooth Classics (3-CD-box) (88697224832)",
 		"type": "Album",
 		"price": 8,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Riverboat Jazz Festival  Silkeborg 22.-25. Juni 2006 (2-CD)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Rock 'n' Roll Party (2-CD) (cd 246.564) (NY I folie)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Rock For The Road (7243 4 94953 26)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Rock The World, Volume 1 (4530cd-1)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Rock'n Roll (2-CD-box) (4151cd2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Roll Truck, Roll - Best Trucker Songs (19 425)",
-		"type": "Album",
-		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Romantic Panpipe  The Very Best Of  32 Hits (2-CD-box) (40653-2)",
+		"albumTitle": "Relaxation With Pan Flute (854792)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Revolutions (2-CD) (82876695982)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Samba Do Brasil (851202)",
+		"albumTitle": "Rock 'n' Roll Legends  Be-Bop-A-Lu-La (apwcd 1921)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Schlager Der 60er (cd 154.994) (NY I folie)",
+		"albumTitle": "Rock Around The Clock (grf 009)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Rock Songs (5-CD-box) (cd 314.018) (NY I folie)",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Rock, Love And Understanding (el 0120-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Rock'n'roll Forever, Volume 1 (2061cd)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Romantic Panflute Melodies (388 006-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Romantic Pop Songs For Lovers (822 315-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Sanctuary  20 Years Of Windham Hill (2-CD) (01934 11180-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Schlager Von Plattenteller (142.494) (NY I folie)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-1"
@@ -10837,49 +10774,42 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Searchin For Shakes  Swedish Beat 1965-1968 (amcd 2032)",
+		"albumTitle": "Send Me The Pillow You Dream On  25 Country Classics (grf 120)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Shine The Complete Classics (2-CD) (456403-2)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "She Moves Me (10159-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Shot Of Country (2-CD-box) (dgr 20008) (NY I folie)",
+		"albumTitle": "Sierra Madre  Die Schönsten Volkstümlichen Schlager (3-CD-box) (cd 312.522) (NY I folie)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-1"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Silent Night (3-CD-box) (74859)",
+		"albumTitle": "Silent Night (57304cd)",
 		"type": "Album",
-		"price": 12,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Smooth Classics  Violin Concertos & Nocturnes (2-CD) (106.3060-2b)",
-		"type": "Album",
-		"price": 8,
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Sommer Pop (5051011486159)",
+		"albumTitle": "Sommer CD B.T. (44006 02132 4)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-2"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Songs For Japan (2-CD) (88697905042)",
+		"albumTitle": "Sommerparty  36 Sommer Hits (5343522)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
@@ -10893,121 +10823,135 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Soul And Blues, Volume 2 (2128.2044-2)",
+		"albumTitle": "Soul And Blues, Volume 1 (2128.2043-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Soul Collection, Volume 1 (47636cd)",
+		"albumTitle": "Soul Collection, Volume 1 (4708cd)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Spice Girls Present The Best Power Album Ever (2-CD) (8 44238 2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Stars Of The Grand Ole Opry, Volume 3 (6573)",
+		"albumTitle": "Soul Hits, Volume 4 (2231cd)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Største Klassiske Øjeblikke, Volume 1 (2-CD) (028948 028245)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Summer Hitz, Volume 3 (1-CD/1-DVD) (tmc 156110) (NY I folie)",
+		"albumTitle": "Stadion Kracker (3-CD-box) (cd 312.526) (NY I folie)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-1"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Summer Love (2-CD-box) (fortuna 4057 cd 1+2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Sunshine Dance (2-CD-box) (05 7510 62)",
+		"albumTitle": "Strictly Salsa  Sizzling Hot Salsa On..(2-CD) (not2cd438)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Superballads, Volume 5 (mmcd Ex 99-15)",
+		"albumTitle": "Summer Feelings, Cd 1+2+3 (3-CD-box) (cd 855662)",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Summer Hitz, Volume 4 (1-CD/1-DVD) (tmc 157210) (NY I folie)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Sun Dance (sdcd 1)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Sunshine Dance (Arcade 8900011)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Superballads, Volume 12 (mmcd Ex 07-22)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Sveriges Bäste Dansband 2006 # 04 (mmcd 708)",
+		"albumTitle": "Superballads, Volume 11 (mmcd Ex 06-18)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Synthesizer Collection, Volume 3 (4714cd)",
+		"albumTitle": "Svenske Sommersange (2-CD) (m 20156-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Sweet Love (2-CD) (72438663232)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Synthesizer Greatest, Volume 2 (2219cd)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Så Længe Jeg Lever  20 Danske Tophits (5333662)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Take No Crap  Alle Tiders 90'er Hits (2-CD) (984 287 3)",
+		"albumTitle": "Take It Easy (2-CD) (0927 47105 2)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "That Loving Feeling, Volume 5 (2-CD-box) (din cd 28)",
+		"albumTitle": "Tears From Heaven (2-CD) (0902668606-2)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The A To Z Og Opera (2-CD) (Naxos 8.555037-38)",
+		"albumTitle": "The 1997 Hit Files (mec 30010)",
 		"type": "Album",
-		"price": 8,
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The All Time Greatest Rock Songs, Volume 1 (2-CD) (492 510-2)",
+		"albumTitle": "The Album (068 787 2)",
 		"type": "Album",
-		"price": 8,
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Best Of Baroque Music (8.557124)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Best Of Stunt, Volume 6 (su 9032-2)",
+		"type": "Album",
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
@@ -11019,178 +10963,171 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The Best Of Stunt, Volume 7 (su 9038-2)",
+		"albumTitle": "The Best Of Today African Folk Music, Volume 2 (eucd 1314)",
 		"type": "Album",
 		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Best Of Today African Folk Music, Volume 1 (eucd 1205)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Best Party Album In The World (2-CD) (8 46742 2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Celtic Circle, Volume 2 (2-CD) (82876 56103 2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Classical Collection, Volume 1 (40184-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Colour Of Classics (2-CD) (459 328-2) (Deutsche Grammophon)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Complete Classical Collection (3-CD-box) (4528cd)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Complete Opera Collection (3-CD-box) (4912-1cd)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Concert For New York City (2-CD) (505 445-2)",
-		"type": "Album",
-		"price": 8,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The Da Vinci Mode  The Spirit Of Da Vinci (2-CD) (983 222 5)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Dorian Collection  Sampler, Volume 3 (dor 90003)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Glory Of Gershwin (522727-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Great 70's, Volume 2 (great 067)",
+		"albumTitle": "The Boogie Woogie (cd 53003)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The Great Dance Bands (3-CD-box) (sohocd017)",
+		"albumTitle": "The Chillout (2-CD) (72438113492)",
 		"type": "Album",
 		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Great Love Songs (50485042)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Greatest Opera Choruses (5804cd)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Lonely Shephard  The Pan Flutes Collection (10108-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Love Box, Volume 1 (mbscd 409/1)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Love Box, Volume 3 (mbscd 409/3)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Magic Of Pan Pipe (5819cd)",
-		"type": "Album",
-		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The Magic Panpipes, Volume 4 (5221)",
+		"albumTitle": "The Cole Porter Selection De-Lovely, Volume 1+2+3 (3-CD-set) (5 029365 695626/725/824)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Complete Classical Collection (3-CD-box) (4150cd)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Complete Musical Collection (3-CD-box) (24025-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Concert For New York City  Live From Madison Square Garden (2-CD) (505445-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Country Collection  Walking After Midnight (74612)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Da Vinci Mode  The Spirit Of Da Vinci (2-CD) (983222-5)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Glorious Sound Of The Panpipe (2-CD-box) (sk 7086)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Golden Pan-Flute (cd 86013)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The Music Remains The Same (papcover) (PROMO) (lm087)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Opera Sampler (437 694-2) (Deutsche Grammophon)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Panpipe Collection (20012-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The R&B Yearbook 2008 (2-CD) (88697418452)",
+		"albumTitle": "The Great Country Collection (2-CD-box) (41640cd)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Great Love Album (gld 63148)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Greatest Novelty Songs (3-CD-box) (day3cd077) (digipack)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Greatest Opera Show On Earth (2-CD) (458118-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Lonely Shepherd (10108-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Love Box, Volume 2 (mbscd 409/2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Love Box, Volume 4 (mbscd 409/4)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Magic Panpipes, Volume 1 (5218)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Mozart Effect  Music For Babies  Nighty Night (fmfcd 1241)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Northern Soul Scene (844 805-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Original Soundtrack Album (mcd 18908)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Power Of Love - Heartbeat (2-CD) (tl 629/1)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "The Real Dansktop (517 933-2)",
+		"type": "Album",
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
@@ -11201,63 +11138,56 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The Serious Soul Collection (3-CD-box) (play 3-006) (NY I folie)",
+		"albumTitle": "The Spirit Of Christmas (5 705535 001205)",
 		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
+		"price": 5,
+		"quality": "K-2"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The Ultimate Doo Wop (3-CD-set) (emtbx347)",
+		"albumTitle": "The Ultimate Opera Album, Volume 1 (2-CD) (842 525-2)",
 		"type": "Album",
-		"price": 10,
+		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "The Ultimate Panpipe Christmas (12042-2)",
+		"albumTitle": "The Ultimate R & B Album (2-CD) (8451422)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "This Is Soul, Volume 1 (40363-2)",
 		"type": "Album",
 		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "This Is Soul, Volume 2 (40007-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "To Cry You A Song  A Collection Of A Tull Tales  A Tribute To Jethro Tull (rr 8872.2)",
+		"type": "Album",
+		"price": 8,
 		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "The Very Best Of Pop Music (1985-86) (2-CD) (Egmont) (svagt falmet)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "This Is Soul, Volume 1+2  The Essential Collcetion (2-CD-box) (40363-2/40007-2) (Ny I Folie)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Tillykke med dagen  Brudevalsen, Kobberbryllupsvalsen, Sølvbryllupsvalsen m.fl. Ialt 15 sange (t6408) (NY I folie)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-1"
 	},
 	{
 		"artist": "Opsamling",
 		"albumTitle": "Top Charlie, Volume 1 (2-CD) (m 20132-2)",
 		"type": "Album",
-		"price": 15,
-		"quality": "K-2"
+		"price": 10,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
 		"albumTitle": "Top Charlie, Volume 2 (2-CD) (m 20151-2)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Top Charlie, Volume 2 (2-CD)( 20151-2)",
 		"type": "Album",
 		"price": 15,
 		"quality": "K-3"
@@ -11266,14 +11196,14 @@
 		"artist": "Opsamling",
 		"albumTitle": "Top Charlie, Volume 3 (1-CD/1-DVD) (m 20172-0)",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Total Dance, Volume 5 (966 019-2)",
+		"albumTitle": "Top Of The Pops 2000, Volume 2 (2-CD) (524697-2)",
 		"type": "Album",
-		"price": 5,
+		"price": 8,
 		"quality": "K-3"
 	},
 	{
@@ -11285,20 +11215,20 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Trucker & Country Für Unterwegs (3-CD-box) (cd 312.529) (NY I folie)",
+		"albumTitle": "Trucker & Country  Christmas Fete (2-CD) (cd 246.257) (NY I folie)",
 		"type": "Album",
 		"price": 8,
 		"quality": "K-1"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Tuning Hitz 2009 (1-CD/1-DVD) (tmc 157510) (NY I folie)",
+		"albumTitle": "Try To Remember  Crooners 'n' Divas (2-CD) (526 084 2)",
 		"type": "Album",
 		"price": 8,
-		"quality": "K-1"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Opsamling",
+		"artist": "- 22306073 - Kr. 8 - K-2 Opsamling",
 		"albumTitle": "TV & Film Hits, Volume 2 (16001cd)",
 		"type": "Album",
 		"price": 5,
@@ -11306,30 +11236,37 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Twenty Five Hits (lecd 439)",
+		"albumTitle": "TV3 Præsenterer Musik Inspireret Af: Hvide Løgne",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "U.S. Pop Hits Of The 60, Volume 1 (2234cd)",
+		"albumTitle": "Tyske Schlager Hits (5335322)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "Ultimate Duets, Volume 1 (8417522)",
+		"albumTitle": "U.S. Pop Hits Of The 60, Volume 2 (2239cd)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "United Christmas Songs (4 006408 010203)",
+		"albumTitle": "Ultimate Metal (tod-5308)",
 		"type": "Album",
 		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Unsere Schönsten Weinachtslieder (2-CD-box) (71989)",
+		"type": "Album",
+		"price": 8,
 		"quality": "K-3"
 	},
 	{
@@ -11341,892 +11278,885 @@
 	},
 	{
 		"artist": "Opsamling",
-		"albumTitle": "US Top Hits, No. 4 (47671cd)",
+		"albumTitle": "Vi Sir' Tillykke (6199-2)",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Vienna Classics  Schubert / Mozart (vc 700722)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Vinderne Fra Stjerne For En Aften (tscd 105)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Voice Dance Hits, Volume 2 (8900151)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Voices Of Angels (3-CD-set) (Naxos 8.500307a/b/c)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Volksmusik Hit-Mix (cd 142.517) (NY I folie)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Wa(h)re Liebe, Volume 2 (dnt 10016-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Weihnachtsträume  Ein Bunter Melodienreigen Zum Fest (2-CD) (11201)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "White Christmas (5810cd)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Wild Attraction, Volume 2 (472732-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Winter Dreams (26213)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Woman, Volume 2 (520 922-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Woman, Volume 4 (2-CD) (017 775-2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Woman, Volume 5 (2-CD) (069 668-2) <>",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Women  The Best 2014 (2-CD) (uni 5351186)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Wonderful Christmas Time (861082)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "X-Treme Big Hits 2000 (2-CD)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "X-Treme Big Hits 2002 (2-CD) (543 461-2)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Xtra Dance Hits (5 708730 181147)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Young Stars, Volume 6",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Zeit Für Ballett-Music (2-CD) (papcover) (0825646-6259-2-5)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Opsamling",
-		"albumTitle": "Zorbas  The Best Collection (B 37 A)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "A+",
-		"albumTitle": "Enjoy Yourself",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Afroman",
-		"albumTitle": "Because I Got High",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Alex",
-		"albumTitle": "Them Girls",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Apollo",
-		"albumTitle": "Songs From The Night And Songs For Tonight (Ny I Folie) (digipack)",
-		"type": "Single",
-		"price": 10,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Attrap",
-		"albumTitle": "House Of Dreams",
-		"type": "Single",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Ballboy",
-		"albumTitle": "All The Records On The Radio Are Shite",
+		"artist": "Opsamling",
+		"albumTitle": "Vild Med Dans  De Største Dansehits I Originale Versioner (2-CD) (5051865601227)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Viva Las Vegas (2-CD) (585 561-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Voices Of Angels (3-CD-box) (Naxos 8.503071a/b/c)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Volksmusik Für Unterwegs (3-CD-box) (cd 312.530) (NY I folie)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Værsgo, Volume 2 (cphrec 0016)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Warm & Tender Jazz - 13 Timeless Ballads (digipack) (Ny i folie)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-1"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "What Are You Listening To? - Hard Rock And Nu-Metal (emid 2451)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Wild Attraction, Volume 1  35 Af De Hedeste Hits (469193 2 ) (2-CD-box)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Wild CD 08  For Promotion Only",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Woman, Volume 1 (541 670-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Woman, Volume 3 (2-CD) (585 500-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Woman, Volume 5 (2-CD) (069 668-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Women  The Best (2-CD) (600753 125694)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Wonderful Christmas (862302)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Worlddance (8910002)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "X-Treme Big Hits 2001 (2-CD) (811 602-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Xtra 80's Hits (887142)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Xtra Gode Julehits (29900332)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Your Favourite Christmas Carols (2-CD-box) (12088-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Opsamling",
+		"albumTitle": "Zoo Magazine CD Sampler 12, For Promotion Only",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "(Hed) Planet Earth",
+		"albumTitle": "Killing Time",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Bamse",
-		"albumTitle": "Som Vi Husker Ham (uni 279 731 4)",
+		"artist": "Adam Beverly",
+		"albumTitle": "Everywhere (Papcover)",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Al Agami",
+		"albumTitle": "Shake 'n Bake",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Andi Slavik / Susanne Kemmler",
+		"albumTitle": "Indian Spirits",
 		"type": "Single",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Big Fat Snake",
-		"albumTitle": "Hjælp Uden Omveje  Dansk Flygtningehjælp (papcover)",
+		"artist": "As December Falls",
+		"albumTitle": "When You Figure Out You're Wrong, Get Back To Me (papcover)",
 		"type": "Single",
 		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Ballboy",
+		"albumTitle": "A Europewide Search For Love",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Ballboy",
+		"albumTitle": "Past Lovers",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Beat Club",
+		"albumTitle": "Could It Be",
+		"type": "Single",
+		"price": 8,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Billy Ray Cyrus",
-		"albumTitle": "In The Heart Of A Woman",
+		"albumTitle": "Achy Breaky Heart",
 		"type": "Single",
 		"price": 5,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
-		"artist": "Blackman Thomas & The Jazz Rap Evolution",
-		"albumTitle": "Keep It Simple",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Bounty",
-		"albumTitle": "Giv Mig Et Svar",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Brad",
-		"albumTitle": "20th Century",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Congress",
-		"albumTitle": "40 Miles",
-		"type": "Single",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Cowboy Junkies",
-		"albumTitle": "Live! (papcover)",
+		"artist": "Bjørn & Okay",
+		"albumTitle": "Achy Breaky Dans",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Darren Hayes",
-		"albumTitle": "Insatiable",
+		"artist": "Blå Feber",
+		"albumTitle": "Freja På Vej",
 		"type": "Single",
-		"price": 8,
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Demons Are Real",
-		"albumTitle": "The Blessing Of Sorrow",
+		"artist": "Boyzone",
+		"albumTitle": "No Matter What",
 		"type": "Single",
-		"price": 8,
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Chaka Demus & Pliers",
+		"albumTitle": "Tease Me",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Cop Shoot Cop",
+		"albumTitle": "Ten Dollar Bill",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Danser Med Drenge",
+		"albumTitle": "Hvorlænge Vil Du Ydmyge Dig?",
+		"type": "Single",
+		"price": 5,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Die Flippers",
-		"albumTitle": "Bye Bye Belinda",
+		"artist": "David Gray",
+		"albumTitle": "Be Mine",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Dolly Parton",
-		"albumTitle": "Peace Train",
+		"artist": "Des'ree",
+		"albumTitle": "Life",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Dodo & Landsholdet",
+		"albumTitle": "Vi Vil Ha' Sejren I Land",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "E.T.A.",
-		"albumTitle": "Casual Sub (Burning Spear) (signeret)",
+		"artist": "Drömhus",
+		"albumTitle": "Vill Ha Dig",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Elton John",
-		"albumTitle": "Something About The Way You Look Tonight",
+		"artist": "Einar",
+		"albumTitle": "Åh, Nej",
 		"type": "Single",
-		"price": 8,
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Elvis Presley",
+		"albumTitle": "America The Beautiful",
+		"type": "Single",
+		"price": 5,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Extreme",
-		"albumTitle": "Hip Today",
+		"albumTitle": "Hole Hearted",
+		"type": "Single",
+		"price": 10,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Freedom",
+		"albumTitle": "Hang On",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Fugees (Refugee Camp)",
+		"albumTitle": "Fu-Gee-La",
 		"type": "Single",
 		"price": 8,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Fats Domino",
-		"albumTitle": "I'm Walking",
+		"artist": "Gary Barlow",
+		"albumTitle": "Forever Love",
 		"type": "Single",
 		"price": 5,
-		"quality": "K-4"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Freya",
-		"albumTitle": "Yellow Ladybird",
+		"artist": "Gry Luka & Peter Schmeichel",
+		"albumTitle": "We Can Do It",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Gustav Winckler",
+		"albumTitle": "Julens Dejlige Sange (Hjemmet) (Papcover)",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Hanson",
+		"albumTitle": "Where's The Love",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Fugees",
-		"albumTitle": "Killing Me Softly",
+		"artist": "Hitfingers",
+		"albumTitle": "Come Back",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
-		"artist": "George Michael / Elton John",
-		"albumTitle": "Don't Let The Sun Go Down On Me",
+		"artist": "Inaji",
+		"albumTitle": "In A World Like This (digipack)",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Innovataz",
+		"albumTitle": "Remember <>",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Japanese Girlfriend",
+		"albumTitle": "Superimposed",
 		"type": "Single",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Gun",
-		"albumTitle": "The Only One",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Hansen",
-		"albumTitle": "Så' Vi Klar",
+		"artist": "Jørgen Anton",
+		"albumTitle": "Det Er Fedt At Være Halvtreds / Slentre Hjemad Igen",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Helmut & Hanelore",
-		"albumTitle": "La Da Dee La Da Daa",
+		"artist": "Kandis",
+		"albumTitle": "Kandis Jul  Julens Bedste Sange (papcover)",
 		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Hookah",
-		"albumTitle": "Bare Et Knald (Papcover)",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Indu",
-		"albumTitle": "Ru Sleeping",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Izzy Stradlin",
-		"albumTitle": "Pressure Drop",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Joe Cocker",
-		"albumTitle": "The Simple Things",
-		"type": "Single",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "K.D. Lang",
-		"albumTitle": "You're OK",
-		"type": "Single",
-		"price": 5,
+		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Kandis",
-		"albumTitle": "Kandis Jul (Papcover)",
+		"albumTitle": "Lev Nu Livet (Papcover)",
 		"type": "Single",
 		"price": 10,
-		"quality": "K-3"
+		"quality": "K-2"
 	},
 	{
-		"artist": "Kat Marco",
-		"albumTitle": "Maiden Voyage",
+		"artist": "Kim Larsen & Kjukken",
+		"albumTitle": "3 Sange Fra Det Nye Album + 2 Store Klassikere (Familie Journalen) (9931242) (Papcover)",
 		"type": "Single",
-		"price": 25,
+		"price": 15,
 		"quality": "K-3"
-	},
-	{
-		"artist": "Kirsten Siggaard",
-		"albumTitle": "Jul Med Kirsten Siggaard (Hjemmet) (Papcover)",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-4"
 	},
 	{
 		"artist": "Landsholdet & Big Fat Snake",
 		"albumTitle": "Big Boys In Red & White",
 		"type": "Single",
 		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Lasse Helner",
+		"albumTitle": "Sangen Til Mor",
+		"type": "Single",
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Lighthouse Family",
-		"albumTitle": "High <>",
+		"artist": "Little C",
+		"albumTitle": "Why",
 		"type": "Single",
 		"price": 5,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Living Colour",
-		"albumTitle": "Leave It Alone",
+		"albumTitle": "Nothingness",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "M People",
-		"albumTitle": "Just For You",
+		"artist": "M.A.T.C.H",
+		"albumTitle": "Hot Legs  Danmarks Officielle VM Dancesang 1998",
 		"type": "Single",
-		"price": 8,
+		"price": 5,
 		"quality": "K-3"
-	},
-	{
-		"artist": "Marc Roberts",
-		"albumTitle": "Mysterious Woman",
-		"type": "Single",
-		"price": 8,
-		"quality": "K-2"
 	},
 	{
 		"artist": "Mariah Carey",
-		"albumTitle": "Fantasy (papcover)",
+		"albumTitle": "Always Be My Baby",
 		"type": "Single",
 		"price": 5,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
-		"artist": "Mind Funk",
-		"albumTitle": "Touch You",
+		"artist": "Mike Koglin",
+		"albumTitle": "The Silence",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Monica",
+		"albumTitle": "The First Night",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "New Kids On The Block",
+		"albumTitle": "Never Let You Go (Papcover)",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Nice Device",
+		"albumTitle": "Love Is The Message",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Notorious B.I.G.",
+		"albumTitle": "In Loving Memory Of The Notorious B.I.G.",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Our Lady Peace",
+		"albumTitle": "3 Tracks From Gravity",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Paul Anka",
+		"albumTitle": "Freedom For The World",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Peter Belli",
+		"albumTitle": "De Største Hits + Helt Nyt Nummer (Hjemmet) (Papcover)",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Poorboys",
+		"albumTitle": "Brand New America",
 		"type": "Single",
 		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Naked Truth",
-		"albumTitle": "Read This",
-		"type": "Single",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Niarn",
-		"albumTitle": "Snippets (papcover)",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "No Name Requested",
-		"albumTitle": "Colours Of My Mind",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Olsen Brothers",
-		"albumTitle": "Fly On The Wings Of Love",
-		"type": "Single",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Outkast",
-		"albumTitle": "Ms. Jackson",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Per A",
-		"albumTitle": "4 Sange (digipack)",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Pillar",
-		"albumTitle": "Broken Down: The EP",
-		"type": "Single",
-		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Prince",
-		"albumTitle": "Let It Go",
+		"albumTitle": "My Name Is Prince",
 		"type": "Single",
 		"price": 5,
-		"quality": "K-2"
-	},
-	{
-		"artist": "Prong",
-		"albumTitle": "Whose Fist Is This Anyway",
-		"type": "Single",
-		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Rene & Peran",
-		"albumTitle": "Give It To Me",
+		"artist": "Ray Cokes",
+		"albumTitle": "Simply Sexy",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Rockhead",
+		"albumTitle": "Chelsea Road",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-4"
 	},
 	{
-		"artist": "Rollo & King",
-		"albumTitle": "Ved Du Hvad Hun Sagde",
+		"artist": "Ronan Keating",
+		"albumTitle": "Life Is A Rollercoaster",
 		"type": "Single",
 		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Salt 'n' Pepa",
-		"albumTitle": "Shoop",
-		"type": "Single",
-		"price": 8,
-		"quality": "K-3"
+		"quality": "K-2"
 	},
 	{
 		"artist": "Scorpions",
-		"albumTitle": "Hit Between The Eyes",
+		"albumTitle": "Alien Nation",
 		"type": "Single",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Septage",
-		"albumTitle": "Septic Decadence",
+		"artist": "Sentenced",
+		"albumTitle": "Ever-Frost (papcover)",
+		"type": "Single",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Sepultura",
+		"albumTitle": "Territory",
 		"type": "Single",
 		"price": 10,
 		"quality": "K-2"
 	},
 	{
-		"artist": "Sial",
-		"albumTitle": "Tip Toe Around In The Dogpiles",
-		"type": "Single",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "SL2",
-		"albumTitle": "Way In My Brain",
+		"artist": "Simply Red",
+		"albumTitle": "Fairground",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Soulfly",
-		"albumTitle": "Bleed",
+		"artist": "SO 36",
+		"albumTitle": "I Believe You Now",
 		"type": "Single",
-		"price": 10,
+		"price": 8,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Spin Doctors",
-		"albumTitle": "Little Miss Can't Be Wrong",
+		"artist": "Sp-Just-Frost",
+		"albumTitle": "Funky Christmas Is Back (papcover)",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Sticks 'n' Fire",
-		"albumTitle": "Please Mr. Postman",
+		"artist": "Spinkelman",
+		"albumTitle": "Hole In Your Soul <>",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Supera Vitae",
-		"albumTitle": "A Tulip Rose From The Bone Dry Dust (papcover)",
+		"artist": "Sund Fornuft",
+		"albumTitle": "Yeah",
 		"type": "Single",
-		"price": 10,
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Take That",
-		"albumTitle": "Back For Good",
+		"artist": "Sylvia Winters",
+		"albumTitle": "The Wonderful Christmas",
 		"type": "Single",
 		"price": 5,
-		"quality": "K-4"
+		"quality": "K-2"
+	},
+	{
+		"artist": "Takt Med Tiden",
+		"albumTitle": "Brøndby (Helt Sikkert Bedst I Det Danske Land)",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Texas",
-		"albumTitle": "So Called Friend (papcover)",
+		"albumTitle": "You Owe It All To Me",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Tina Rauch",
-		"albumTitle": "Tre Ord / Nær Ved Dig",
+		"artist": "Toby",
+		"albumTitle": "Loony",
 		"type": "Single",
 		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Tom Cochrane",
-		"albumTitle": "Life Is A Highway",
-		"type": "Single",
-		"price": 8,
-		"quality": "K-3"
+		"quality": "K-4"
 	},
 	{
 		"artist": "Tommy Seebach",
-		"albumTitle": "Som Vi Husker Ham (Hjemmet) (papcover)",
-		"type": "Single",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Treble & Bass",
-		"albumTitle": "My Sweet Senorita",
+		"albumTitle": "De Største Hits (Promo) (Hjemmet) (Papcover)",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Ugly Kid Joe",
-		"albumTitle": "Neighbor",
+		"artist": "Toploader",
+		"albumTitle": "Dancing In The Moonlight",
 		"type": "Single",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Uncle Kracker",
-		"albumTitle": "Follow Me",
+		"artist": "Troels Boberg",
+		"albumTitle": "Nettopigen (Papcover)",
 		"type": "Single",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
-		"artist": "Ureas",
-		"albumTitle": "Barrels Of Fun (NY I folie)",
+		"artist": "Unantastbar",
+		"albumTitle": "Leben Lieben Leiden (Promo) (papcover)",
 		"type": "Single",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Undercover",
+		"albumTitle": "Baker Street <>",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Urge",
+		"albumTitle": "Melanie's Breast",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Vanilla Ice",
+		"albumTitle": "Satisfaction",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Wizdom 'n' Motion",
+		"albumTitle": "247 365 (5 708920 004034)",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Zididada",
+		"albumTitle": "Don't Believe (Papcover)",
+		"type": "Single",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "A Chorus Live (826 306-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "American Pie (153 269-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Atlantis (pccd 8083)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Big Brother  Danmark (2060-02)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Big Brother, Volume 2 (smcd 8206)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Bridget Jones Diary (548 795-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Buster (781905-2) (Engelsk Udgave)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Cats (2-CD) (817 810-2)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Chess (Aarhus Teater) (rønnow-24602)",
+		"type": "Album",
 		"price": 15,
-		"quality": "K-1"
-	},
-	{
-		"artist": "Vamoz",
-		"albumTitle": "In The Summer",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Withering Surface",
-		"albumTitle": "Ichor",
-		"type": "Single",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Zero 7",
-		"albumTitle": "Distractions",
-		"type": "Single",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Aaron Carter",
-		"albumTitle": "Crush On You",
-		"type": "Single",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Absalons Hemmelighed (cphrec 0069)",
-		"type": "Album",
-		"price": 8,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Anja & Viktor (tscd 101)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Back To Titanic (sk 60691)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Big Brother (2-CD) (74321 802282) (NY CD) (Tysk udgave)",
-		"type": "Album",
-		"price": 8,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Blade (492 884-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Buster (2292-55984-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Cabaret (250 428-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Chess (2-CD-box) (Dansk udgave) (81851)",
+		"albumTitle": "Come Together  Teaterkoncerten På Gasværket (2-CD) (5051865601326)",
 		"type": "Album",
 		"price": 8,
-		"quality": "K-2"
+		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Chicago (07822-18952-2)",
+		"albumTitle": "Den Eneste Ene (The Musical) (82876642442)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Den Eneste Ene (74321644862)",
+		"albumTitle": "Dick Tracy (back inlay har lille skade) (26236-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Det Store Flip  Musik Fra Dengang I 70'erne (9722-04)",
-		"type": "Album",
-		"price": 10,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Die Senkrechtstarter (bd 74005)",
+		"albumTitle": "Dirty Dancing  Live In Concert (9660-2-R)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Diva (950622)",
+		"albumTitle": "DreamGirls (88697 04102 2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Dying Young (261 952)",
+		"albumTitle": "En Kort En Lang (537 094-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Evita (2-CD) (9 46346-2)",
+		"albumTitle": "Evita (9362-44450-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Grease (817 998-2)",
 		"type": "Album",
 		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Forrest Gump (Highlights) (82876732752)",
+		"albumTitle": "High School Musical, Volume 2 (5099950276424)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "High School Musical, Volume 1 (0094636641126)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Highlights From The Phantom Of The Opera (831563-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Honeymoon In Vegas (471 925-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Klatretøsen (538 290-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "La Traviata A Paris (2-CD-box) (8573-82741-2)",
+		"albumTitle": "Hjælp Jeg Er En Fisk (2-CD) (525 545-2)",
 		"type": "Album",
 		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Jesus & Josefine (2009)",
+		"type": "Album",
+		"price": 8,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Kys Hinanden (81903)",
+		"type": "Album",
+		"price": 10,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Long Journey Home (09026689632)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Monas Verden (74321 85930 2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Moulin Rouge, Volume 2 (493 228-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Nissebanden I Grønland (828085 2)",
+		"type": "Album",
+		"price": 25,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Nu Er Det Jul I Danmark  Med Hele Danmarks Pjerrot (5 709165 189821)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Olsen Banden's Første Kup (5220442)",
+		"type": "Album",
+		"price": 5,
 		"quality": "K-4"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Lyset Over Skagen (hp200706)",
+		"albumTitle": "Phantom Of The Opera (2-CD) (543 928-2)",
 		"type": "Album",
-		"price": 5,
+		"price": 10,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Moulin Rouge (49 507-2)",
+		"albumTitle": "Pret-A-Porter (478 226-2) (cover har lille skade)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Musical Wonderland (2-CD) (092741215-5)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Nordkraft (frost 001-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Nynne (3354972)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Passengers (524 166-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Philadelphia (474 998-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-3"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Pretty Woman (7934922)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
 	},
 	{
 		"artist": "Soundtrack",
@@ -12237,7 +12167,7 @@
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Robinson Ekspeditionen (545 568-2)",
+		"albumTitle": "Robin Hood  Prince Of Thieves (511 050-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
@@ -12251,98 +12181,98 @@
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Scarlett (523 867-2)",
+		"albumTitle": "Romeo + Juliet, Volume 1 (8 37715 0)",
 		"type": "Album",
-		"price": 8,
+		"price": 5,
+		"quality": "K-4"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "Scream (0022822cin)",
+		"type": "Album",
+		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Sex And The City (4344-31134-2)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Sex And The City (cecd-3684)",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "Solvognen  Borum Eshøj 1997",
+		"albumTitle": "Sex And The City (478 065-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-2"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Store Drømme (cphrec 0147-2)",
+		"albumTitle": "Shakespeare In Love (sk 63387)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Sune's Familie (02061)",
+		"albumTitle": "Spirit  Stallion Of The Cimarron (493 304-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "The Commitments, Volume 1",
-		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
-	},
-	{
-		"artist": "Soundtrack",
-		"albumTitle": "The Lord Of The Rings (9362-48110-2)",
+		"albumTitle": "Strauss Dynasty (471 265-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "The Music Man (76466323)",
+		"albumTitle": "The Bodyguard (07822 18699 2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "The Three Musketeers (540 190-2)",
+		"albumTitle": "The Devil's Toothpick (67233-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-2"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "The Million Dollar Hotel (542 395-2)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Thirteen (Ny i folie) (30346-2)",
+		"albumTitle": "The Phantom Of The Opera  Original Cast (2-CD) (543 928-2)",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-1"
+		"price": 8,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Twin Peaks (7599-26316-2)",
+		"albumTitle": "The Woman In Red (wd72609) (Musik af Stevie Wonder)",
 		"type": "Album",
-		"price": 5,
-		"quality": "K-4"
+		"price": 15,
+		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Waiting To Exhale (187962)",
+		"albumTitle": "Titanic (sk 63213)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
 	},
 	{
 		"artist": "Soundtrack",
-		"albumTitle": "Wild At Heart (845 128-2)",
+		"albumTitle": "Under Overfladen (565 755-2)",
+		"type": "Album",
+		"price": 5,
+		"quality": "K-3"
+	},
+	{
+		"artist": "Soundtrack",
+		"albumTitle": "West Side Story (grf 113)",
 		"type": "Album",
 		"price": 5,
 		"quality": "K-3"
