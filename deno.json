@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@std/async": "jsr:@std/async@^1.0.6"
+  }
+}
