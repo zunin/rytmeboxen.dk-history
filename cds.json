@@ -5472,22 +5472,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Duets (518 478-2)",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Greatest Hits 1970-2002 (2-CD) (063 449-2)",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Made In England",
 		"artist": "Elton John",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -5496,15 +5480,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Peachtree Road",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Rocked Man  The Definitive Hits (172 7127)",
+		"albumTitle": "Peachtree Road (cover svagt falmet)",
 		"artist": "Elton John",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
@@ -5544,35 +5520,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Captain & The Kid",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The One",
 		"artist": "Elton John",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The One",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Very Best Of (2-CD-box) (846 917-2)",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -19394,6 +19346,14 @@
 	{
 		"albumTitle": "Live At Copenhagen Jazzhouse (mpcd 4520.2)",
 		"artist": "Thomas Fryland",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Dream",
+		"artist": "Thomas Helmig",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
 		"quality": "K-3",
