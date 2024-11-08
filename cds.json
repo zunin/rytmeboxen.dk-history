@@ -712,14 +712,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Jeg Er Jo Lige Her",
-		"artist": "Anne Linnet",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Min Sang",
 		"artist": "Anne Linnet",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -2544,6 +2536,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Anthology 1980-2005 (2-CD) (9875797)",
+		"artist": "Bryan Adams",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm",
+		"price": "25,00 kr.",
+		"quality": "K-2",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "Into The Fire",
 		"artist": "Bryan Adams",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -3931,15 +3931,23 @@
 		"albumTitle": "Danseorkestret (ls 81 146 cd)",
 		"artist": "Danseorkestret",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-4",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Den Store Kærlighed",
+		"artist": "Danseorkestret",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm",
+		"price": "10,00 kr.",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
 		"albumTitle": "Spred Vingerne Ud!",
 		"artist": "Danseorkestret",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -3947,7 +3955,7 @@
 		"albumTitle": "Største Hits (recd 8404)",
 		"artist": "Danseorkestret",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -4251,7 +4259,7 @@
 		"albumTitle": "20 Golden Hits (4 002041 001791)",
 		"artist": "Demis Roussos",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Album"
 	},
@@ -4259,7 +4267,7 @@
 		"albumTitle": "Adagio",
 		"artist": "Demis Roussos",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -5288,14 +5296,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A Day Without Rain",
-		"artist": "Enya",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Amarantine",
 		"artist": "Enya",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -5315,28 +5315,12 @@
 		"albumTitle": "Paint The Sky With Stars  The Best Of Enya",
 		"artist": "Enya",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Paint The Sky With Stars  The Best Of Enya",
-		"artist": "Enya",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "15,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
 	{
 		"albumTitle": "Shepherd Moons",
-		"artist": "Enya",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Memory Of Trees",
 		"artist": "Enya",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
@@ -18136,22 +18120,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "25  The Greatest Hits (2-CD-box) (sra006cd)",
-		"artist": "Simply Red",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Blue",
-		"artist": "Simply Red",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Greatest Hits (0630-16575-2)",
 		"artist": "Simply Red",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -18173,30 +18141,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "15,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "It's Only Love (8573-85729-2)",
-		"artist": "Simply Red",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Life",
-		"artist": "Simply Red",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Stars",
-		"artist": "Simply Red",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -21475,7 +21419,7 @@
 		"albumTitle": "Everything Is Amplified (papcover)",
 		"artist": "Veto",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -21484,14 +21428,6 @@
 		"artist": "Veto",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "There's A Beat In All Machines",
-		"artist": "Veto",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
