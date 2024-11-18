@@ -2584,14 +2584,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Best Of Me",
-		"artist": "Bryan Adams",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Waking Up The Neighbours",
 		"artist": "Bryan Adams",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -4453,14 +4445,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Money For Nothing",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -6560,14 +6544,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Ladies & Gentlemen: The Best Of George Michael (2-CD-box)",
-		"artist": "George Michael",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Listen Without Prejudice, Vol. 1",
 		"artist": "George Michael",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -6805,14 +6781,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Greatest  Den Dejligste Plade I 100 År",
-		"artist": "Gnags",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -11211,14 +11179,6 @@
 		"albumTitle": "Back To Front (530 018-2)",
 		"artist": "Lionel Richie",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Back To Front (530 018-2)",
-		"artist": "Lionel Richie",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -15059,14 +15019,6 @@
 		"albumTitle": "Love Songs (2-CD) (2564 61884-2)",
 		"artist": "Phil Collins",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Love Songs (2-CD) (2564 61884-2)",
-		"artist": "Phil Collins",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -15748,14 +15700,6 @@
 		"artist": "Queen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Greatest Hits, Volume 2 (cdp 79 7971 2)",
-		"artist": "Queen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
 		"quality": "K-4",
 		"type": "Album"
 	},
@@ -20915,14 +20859,6 @@
 		"albumTitle": "Pop",
 		"artist": "U2",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Pop",
-		"artist": "U2",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -25147,7 +25083,7 @@
 		"albumTitle": "Nu Er Det Jul Igen (4-CD-box) (6460-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm",
-		"price": "10,00 kr.",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
