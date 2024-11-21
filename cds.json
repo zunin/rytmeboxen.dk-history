@@ -2320,14 +2320,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Smile",
-		"artist": "Brian Wilson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Blackout",
 		"artist": "Britney Spears",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -6824,39 +6816,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Appetite For Destruction",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Greatest Hits (0602498621080)",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Spaghetti Incident",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Use Your Illusion I",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Use Your Illusion II",
 		"artist": "Guns n' Roses",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "15,00 kr.",
@@ -12139,14 +12099,6 @@
 		"albumTitle": "Songs About Jane",
 		"artist": "Maroon 5",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Songs About Jane",
-		"artist": "Maroon 5",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -12876,22 +12828,6 @@
 		"artist": "Mike & The Mechanics",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Crises",
-		"artist": "Mike Oldfield",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Orchestral Tubular Bells",
-		"artist": "Mike Oldfield",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15828,7 +15764,7 @@
 		"artist": "Ray Dee Ohh",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
-		"quality": "K-3",
+		"quality": "K-4",
 		"type": "Album"
 	},
 	{
