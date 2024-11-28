@@ -419,7 +419,7 @@
 		"albumTitle": "Freak Of Nature",
 		"artist": "Anastacia",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -427,7 +427,7 @@
 		"albumTitle": "Not That Kind",
 		"artist": "Anastacia",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -10299,7 +10299,7 @@
 		"albumTitle": "Last Mile (dra 029)",
 		"artist": "Last Mile",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -12392,14 +12392,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Falder Du Nu",
-		"artist": "Michael Falch",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Fodspor I Havet (digipack)",
 		"artist": "Michael Falch",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -12409,14 +12401,6 @@
 	},
 	{
 		"albumTitle": "Hele Vejen 1980-2010 (digipack)",
-		"artist": "Michael Falch",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Lykkelig Undervejs",
 		"artist": "Michael Falch",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "15,00 kr.",
@@ -13448,27 +13432,19 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Nikolaj Steen (1) (pd 90581)",
-		"artist": "Nikolaj Steen",
+		"albumTitle": "Formula For Love (16108cd)",
+		"artist": "Nina & Frederik",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Nikolaj Steen (1) (pd 90581)",
-		"artist": "Nikolaj Steen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
+		"price": "10,00 kr.",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
 		"albumTitle": "Formula For Love (16108cd)",
 		"artist": "Nina & Frederik",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-2",
+		"price": "5,00 kr.",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -15283,7 +15259,7 @@
 		"albumTitle": "The Wedding Of All Things",
 		"artist": "Randi Laubek",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -19835,7 +19811,7 @@
 		"albumTitle": "Beneath My Skin",
 		"artist": "Trine Rein",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
