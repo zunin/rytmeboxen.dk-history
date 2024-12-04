@@ -3264,14 +3264,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Live In New York City (2-CD) (500 000-2)",
-		"artist": "Bruce Springsteen & The E Street Band",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Live In Dublin (2-CD/1-DVD) (papcover)",
 		"artist": "Bruce Springsteen with The Sessions Band",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -3684,30 +3676,6 @@
 		"artist": "Byrds",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Do You Come With Speciel Features? (digipack)",
-		"artist": "Baal",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Karaoke",
-		"artist": "Baal",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Supreme Machine",
-		"artist": "Baal",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -5953,6 +5921,14 @@
 	},
 	{
 		"albumTitle": "Communiqué",
+		"artist": "Dire Straits",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Dire Straits (1)",
 		"artist": "Dire Straits",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "20,00 kr.",
@@ -18688,14 +18664,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Forty Licks (2-CD) (724381337820)",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "30,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Det Nye Kuld",
 		"artist": "Rollo & King",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -20480,14 +20448,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Best Of (rep 4783-wg)",
-		"artist": "Soulfull Dynamics",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Love, Sweet & Tears",
 		"artist": "Soultans",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -20635,7 +20595,7 @@
 		"albumTitle": "Break The Cycle",
 		"artist": "Staind",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
