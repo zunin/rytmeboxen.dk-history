@@ -1592,14 +1592,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Platinum Collection (3-CD-box) (5 71345 2)",
-		"artist": "Beach Boys",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Very Best Of (5 32615 2)",
 		"artist": "Beach Boys",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -2165,14 +2157,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "20,00 kr.",
 		"quality": "K-1",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Ultimate Collection (2-CD) (497 908-2)",
-		"artist": "Billy Joel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -3125,14 +3109,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "20,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "In Concert  MTV / Unplugged",
-		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -5016,30 +4992,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A Thousand Pictures",
-		"artist": "Craig Chaquico",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Acoustic Highway",
-		"artist": "Craig Chaquico",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Acoustic Planet",
-		"artist": "Craig Chaquico",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Born To Do It",
 		"artist": "Craig David",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -6349,14 +6301,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "All Over The World - The Very Best Of (520 129-2)",
-		"artist": "Electric Light Orchestra",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -8627,7 +8571,7 @@
 		"albumTitle": "A New Kinda Soul",
 		"artist": "Hanne Boel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -12960,67 +12904,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "En Buket Til Dig",
-		"artist": "Lis & Per",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Følg Blot Margueritten",
-		"artist": "Lis & Per",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Krobal",
-		"artist": "Lis & Per",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Sangen Til Livet",
-		"artist": "Lis & Per",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Sangen Til Livet (signeret)",
 		"artist": "Lis & Per",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Collection (858662)",
-		"artist": "Lis & Per",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Velkommen Jul",
-		"artist": "Lis & Per",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Vore Allerbedste År",
-		"artist": "Lis & Per",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -15636,6 +15524,14 @@
 		"artist": "Nik & Jay",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Jimmy & Vicky (cover er lidt falmet)",
+		"artist": "Nikolaj & Piloterne",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18355,7 +18251,7 @@
 		"albumTitle": "All-Time Favorites (cdl-57419)",
 		"artist": "Roger Whittaker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
