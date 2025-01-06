@@ -432,14 +432,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Andrea",
-		"artist": "Andrea Bocelli",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Cieli Di Toscana",
 		"artist": "Andrea Bocelli",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -448,23 +440,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Golden Collection 2000, volume 1 (priority records 2000 161/1)",
-		"artist": "Andrea Bocelli",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Romanza",
-		"artist": "Andrea Bocelli",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Sacred Arias",
 		"artist": "Andrea Bocelli",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
@@ -1234,30 +1210,6 @@
 	{
 		"albumTitle": "Transition (papcover)",
 		"artist": "Barrow",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Harmony",
-		"artist": "Barry & Holly Tashian",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Ready For Love",
-		"artist": "Barry & Holly Tashian",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Straw Into Gold",
-		"artist": "Barry & Holly Tashian",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
 		"quality": "K-3",
@@ -2939,7 +2891,7 @@
 		"albumTitle": "Buddy & Julie Miller (hcd 8135)",
 		"artist": "Buddy & Julie Miller",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -2947,16 +2899,8 @@
 		"albumTitle": "Love Snuck Up (hcd 8170)",
 		"artist": "Buddy & Julie Miller",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Written In Chalk (papcover)",
-		"artist": "Buddy & Julie Miller",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
-		"quality": "K-3",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -3000,22 +2944,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Poison Love",
-		"artist": "Buddy Miller",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Best Of The Hightone Years (826663-10973)",
-		"artist": "Buddy Miller",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Majestic Silver Strings (papcover)",
 		"artist": "Buddy Miller",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -3027,16 +2955,8 @@
 		"albumTitle": "Universal United House Of Prayer (digipack)",
 		"artist": "Buddy Miller",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Your Love And Other Lies",
-		"artist": "Buddy Miller",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
-		"quality": "K-3",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -3085,30 +3005,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Eats Away The Night (grdc 341) (digipack) (cover er lidt falmet)",
-		"artist": "Butch Hancock",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "You Coulda Walked Around The World",
-		"artist": "Butch Hancock",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Two Roads",
-		"artist": "Butch Hancock / Jimmie Dale Gilmore",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -4832,30 +4728,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "17 Greatest Hits (ck 40185)",
-		"artist": "David Allan Coe",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "34 Songs (2-CD) (3520-2-2)",
-		"artist": "David Allan Coe",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Ultimate Collection (2-CD) (meg2 51076)",
-		"artist": "David Allan Coe",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Best Of 1987-1995",
 		"artist": "David Benoit",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -5693,30 +5565,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Across The Bridge",
-		"artist": "Drew Emmitt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Freedom Ride (7 4337 2)",
-		"artist": "Drew Emmitt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Long Road (7 4487 2)",
-		"artist": "Drew Emmitt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -7949,54 +7797,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Carrying Your Love With Me",
-		"artist": "George Straith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "For The Last Time  Live From The Astrodome (170 319-2)",
-		"artist": "George Straith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Honkytonkville",
-		"artist": "George Straith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Latest Greatest Straitest Hits (170 100-2)",
-		"artist": "George Straith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Something Special",
-		"artist": "George Straith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Troubadour",
-		"artist": "George Straith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -10707,7 +10507,7 @@
 		"albumTitle": "Evolver",
 		"artist": "John Legend",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -10723,7 +10523,7 @@
 		"albumTitle": "Live From Philadelphia (88697286202)",
 		"artist": "John Legend",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -20925,30 +20725,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Dance The Night Away",
-		"artist": "Wenche",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Here I Am",
-		"artist": "Wenche",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "I'm A Country Girl",
-		"artist": "Wenche",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
