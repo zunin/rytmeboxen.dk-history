@@ -4192,14 +4192,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Shine (digipack)",
-		"artist": "Daniel Lanois",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Rebound (7 393210 376014)",
 		"artist": "Daniel Lemma",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -6216,14 +6208,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Songbird",
-		"artist": "Eva Cassidy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Best Of (g2-10206) (papcover)",
 		"artist": "Eva Cassidy",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
@@ -7172,14 +7156,6 @@
 		"artist": "George Michael",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Ladies & Gentlemen: The Best Of George Michael (2-CD-Box)",
-		"artist": "George Michael",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -8835,14 +8811,6 @@
 		"albumTitle": "Hjertekamre",
 		"artist": "Illeborg & Lysdal",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Hjertekamre",
-		"artist": "Illeborg Og Lysdal",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -9745,14 +9713,6 @@
 	},
 	{
 		"albumTitle": "Portrait",
-		"artist": "John Williams",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The World Of (ncd 5134)",
 		"artist": "John Williams",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
@@ -14619,14 +14579,6 @@
 		"albumTitle": "Accelerate",
 		"artist": "R.E.M.",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Accelerate",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Album"
@@ -14641,22 +14593,6 @@
 	},
 	{
 		"albumTitle": "Automatic For The People",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Document",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Green",
 		"artist": "R.E.M.",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "15,00 kr.",
@@ -14680,43 +14616,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Murmur",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "New Adventures In Hi-Fi",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Out Of Time",
 		"artist": "R.E.M.",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Out Of Time",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Reconstruction Of The Fables",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "20,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -14732,7 +14636,7 @@
 		"artist": "R.E.M.",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
-		"quality": "K-3",
+		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -16437,14 +16341,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "I Do Not Want What I Haven't Got",
-		"artist": "Sinéad O'Connor",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
