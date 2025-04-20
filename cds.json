@@ -584,27 +584,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Her Hos Mig",
-		"artist": "Anne Linnet",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503015",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Min Sang",
 		"artist": "Anne Linnet",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501010",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Pige, Træd Varsomt",
-		"artist": "Anne Linnet",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503016",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -1333,14 +1317,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412118",
 		"price": "15,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Mit Livs Melodi",
-		"artist": "Bent Fabricius-Bjerre",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501031",
-		"price": "10,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -3680,27 +3656,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "I Had A Ball  Greatest & More",
-		"artist": "Cæcilie Norby",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503086",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "London / Paris",
 		"artist": "Cæcilie Norby",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502108",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "London / Paris",
-		"artist": "Cæcilie Norby",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503087",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -4360,35 +4320,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "3",
-		"artist": "Dodo And The Dodo's",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503103",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "4",
-		"artist": "Dodo And The Dodo's",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501169",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "4",
 		"artist": "Dodo And The Dodo's",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502126",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "5",
-		"artist": "Dodo And The Dodo's",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410285",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -5796,14 +5732,6 @@
 		"artist": "Flamingokvintetten",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408141",
 		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Greatest Hits (7599-25838-2)",
-		"artist": "Fleetwood Mac",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410375",
-		"price": "20,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -10114,14 +10042,6 @@
 	{
 		"albumTitle": "Hvem Kan Sige Nej Til En Engel",
 		"artist": "Kim Larsen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412532",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Hvem Kan Sige Nej Til En Engel",
-		"artist": "Kim Larsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502397",
 		"price": "20,00 kr.",
 		"quality": "K-3",
@@ -11496,14 +11416,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Hjerternes Sang",
-		"artist": "Lis Sørensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503209",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Indtil Dig Igen  Sørensen's Bedste",
 		"artist": "Lis Sørensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410660",
@@ -11517,14 +11429,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406384",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Sigøjnerblod",
-		"artist": "Lis Sørensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503212",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -12146,14 +12050,6 @@
 	{
 		"albumTitle": "Ghetto",
 		"artist": "Malurt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411137",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Ghetto",
-		"artist": "Malurt",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503232",
 		"price": "15,00 kr.",
 		"quality": "K-3",
@@ -12181,14 +12077,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503233",
 		"price": "20,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Uden Filter",
-		"artist": "Malurt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503234",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -13004,14 +12892,6 @@
 		"artist": "Michael Falch",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405487",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Mød Mig I Mørket (2-CD) (5205042)",
-		"artist": "Michael Falch",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503294",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15427,14 +15307,6 @@
 		"albumTitle": "Let's Dance, Volume 4 / Let's Dance Live (2-CD)",
 		"artist": "På Slaget 12",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412596",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Sidst I September",
-		"artist": "På Slaget 12",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12403571",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
