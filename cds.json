@@ -275,7 +275,7 @@
 		"albumTitle": "Show  Live (1-CD/1-DVD) (digipack)",
 		"artist": "Allison Moorer",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412041",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -283,7 +283,7 @@
 		"albumTitle": "The Definitive Collection (b0004416-02)",
 		"artist": "Allison Moorer",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412042",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -3168,14 +3168,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "San Francisco Days",
-		"artist": "Chris Isaak",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412358",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Cowboys Ain't Easy To Love / Paint Me Back Home In Wyoming (2 album på én cd)",
 		"artist": "Chris LeDoux",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412362",
@@ -3776,26 +3768,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "My Corner Of The Sky",
-		"artist": "Cæcilie Norby",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503088",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Queen Of Bad Excuses",
 		"artist": "Cæcilie Norby",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503089",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Draws A Circle",
-		"artist": "D.A.D.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505078",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -4332,14 +4308,6 @@
 		"artist": "Dionne Warwick",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502123",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "On The Night",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505094",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -4917,14 +4885,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409106",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Big Picture",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409107",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -6612,14 +6572,6 @@
 		"artist": "Gloria Loring",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407059",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "En Underlig Fisk",
-		"artist": "Gnags",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505139",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -17218,111 +17170,15 @@
 	{
 		"albumTitle": "Black Angel",
 		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411439",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Black Angel",
-		"artist": "Savage Rose",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505317",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Dødens Triumf",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505318",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "For Your Love",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505320",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Gadens Dronning",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505321",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Ild Og Frihed",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505322",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "In The Plain",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505323",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Månebarn",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505324",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Sangen For Livet",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505325",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Tameless",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505326",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Anthology (2-CD) (066 730-2)",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503632",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Savage Rose  Live (cmc c 00014-2)",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505327",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Savage Rose  Live (cmc c 00014-2)",
 		"artist": "Savage Rose",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505328",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Travellin'",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505329",
 		"price": "25,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
@@ -17764,14 +17620,6 @@
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505357",
 		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "200 (10-CD-box) (581634 2)",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505359",
-		"price": "100,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -21525,14 +21373,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411648",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Wanda Rocks (digipack) (signeret)",
-		"artist": "Wanda Jackson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505607",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
