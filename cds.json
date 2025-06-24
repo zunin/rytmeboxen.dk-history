@@ -9408,25 +9408,9 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "En Samling Sånger",
-		"artist": "Lisa Ekdahl",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503213",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Give Me That Slow Knowing Smile (digipack)",
 		"artist": "Lisa Ekdahl",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505202",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Give Me That Slow Knowing Smile (papcover)",
-		"artist": "Lisa Ekdahl",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410663",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -9437,30 +9421,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409224",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Med Kroppen Mot Jorden",
-		"artist": "Lisa Ekdahl",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503214",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Pärlor Av Glas",
-		"artist": "Lisa Ekdahl",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503215",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "When Did You Leave Heaven",
-		"artist": "Lisa Ekdahl / Peter Nordahl Trio",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502498",
-		"price": "10,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -10136,14 +10096,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Golden Heart",
-		"artist": "Mark Knopfler",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503245",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Sailing To Philadelphia",
 		"artist": "Mark Knopfler",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503250",
@@ -10549,30 +10501,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405487",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Blood On The Dance Floor  HIStory In The Mix",
-		"artist": "Michael Jackson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410704",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Dangerous",
-		"artist": "Michael Jackson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410705",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Greatest Hits Live (2-CD) (tl 930032/1-2)",
-		"artist": "Michael Jackson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505221",
-		"price": "15,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -14144,6 +14072,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "It's My Life (2-CD) (srcd 54242)",
+		"artist": "Sash",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505313",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "Dedicated",
 		"artist": "Sasha",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411436",
@@ -14277,6 +14213,14 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505335",
 		"price": "15,00 kr.",
 		"quality": "K-2",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Øjeblikkets Mester (1-CD/1-DVD) (digipack)",
+		"artist": "Sebastian",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505336",
+		"price": "20,00 kr.",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -14507,7 +14451,7 @@
 		"albumTitle": "3",
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503641",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -14539,7 +14483,7 @@
 		"albumTitle": "12",
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501663",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -14571,7 +14515,7 @@
 		"albumTitle": "15",
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501664",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -14579,7 +14523,7 @@
 		"albumTitle": "16",
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501665",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
