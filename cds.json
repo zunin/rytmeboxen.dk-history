@@ -144,6 +144,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Songs From Instant Star (tmc 103410) (NY CD)",
+		"artist": "Alexz Johnson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2301",
+		"price": "5,00 kr.",
+		"quality": "K-2",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "Together, Volume 1+2+3 (3-CD-set)",
 		"artist": "Alice Babs & Svend Asmussen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502012",
@@ -1339,7 +1347,7 @@
 		"albumTitle": "Midnight Mission",
 		"artist": "Big Fat Snake",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410098",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -3067,8 +3075,16 @@
 		"albumTitle": "Unplugged",
 		"artist": "Corrs",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410217",
-		"price": "5,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-2",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Unplugged",
+		"artist": "Corrs",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2402",
+		"price": "5,00 kr.",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -3840,8 +3856,8 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A Little Bit More",
-		"artist": "Dr. Hook Feat. Ray Sawyer",
+		"albumTitle": "A Little Bit More  Greatest & Latest (24199-2)",
+		"artist": "Dr. Hook feat. Ray Sawyer",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501196",
 		"price": "10,00 kr.",
 		"quality": "K-3",
@@ -3920,11 +3936,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Seven Drunken Nights (220940-205) (NY I folie)",
+		"albumTitle": "Seven Drunken Nights (220940-205)",
 		"artist": "Dubliners",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410299",
-		"price": "10,00 kr.",
-		"quality": "K-1",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2402",
+		"price": "5,00 kr.",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -5712,6 +5728,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Grand Avenue (1) (592 742-2)",
+		"artist": "Grand Avenue",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2208",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "She",
 		"artist": "Grand Avenue",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410430",
@@ -6812,6 +6836,14 @@
 		"artist": "James Last",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501495",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Undiscovered",
+		"artist": "James Morrison",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2212",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -9571,7 +9603,7 @@
 		"albumTitle": "The Book Of Secrets",
 		"artist": "Loreena McKennitt",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410675",
-		"price": "5,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -10124,6 +10156,14 @@
 		"artist": "Marmalade",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405479",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Songs About Jane",
+		"artist": "Maroon 5",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2402",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -11427,16 +11467,8 @@
 		"albumTitle": "Dreaming Out Loud (0602517547421)",
 		"artist": "One Republic",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407227",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Dreaming Out Loud (0602517547421)",
-		"artist": "One Republic",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501607",
 		"price": "5,00 kr.",
-		"quality": "K-3",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -13016,6 +13048,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Best Of  Ballade Pour Adeline (cd 153.042) (NY I folie)",
+		"artist": "Richard Clayderman",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2301",
+		"price": "5,00 kr.",
+		"quality": "K-1",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "The Collection (6063-2)",
 		"artist": "Richard Clayderman",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411368",
@@ -13984,6 +14024,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Freedom",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2203",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "In A New York Minute",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2402",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "Language Of The Heart",
 		"artist": "Sanne Salomonsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407390",
@@ -13992,11 +14048,51 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Language Of The Heart",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2206",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Sanne (1989)",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2201",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "The Album",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2203",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Unplugged",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2206",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "Where Blue Begins",
 		"artist": "Sanne Salomonsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502591",
 		"price": "10,00 kr.",
 		"quality": "K-2",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Where Blue Begins",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#4-2109",
+		"price": "5,00 kr.",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -14139,7 +14235,7 @@
 		"albumTitle": "Black Angel",
 		"artist": "Savage Rose",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505317",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15523,7 +15619,7 @@
 		"albumTitle": "Coming Up",
 		"artist": "Suede",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408569",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -16907,7 +17003,7 @@
 		"albumTitle": "How To Dismantle An Atomic Bomb",
 		"artist": "U2",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501730",
-		"price": "10,00 kr.",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -17933,6 +18029,14 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409556",
 		"price": "10,00 kr.",
 		"quality": "K-2",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "You Know Who (1) (85025)",
+		"artist": "You Know Who",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405619",
+		"price": "5,00 kr.",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
