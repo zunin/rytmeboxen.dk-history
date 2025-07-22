@@ -48,14 +48,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Abba Gold  Greatest Hits (517 007-2)",
-		"artist": "Abba",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505004",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Flowers",
 		"artist": "Ace Of Base",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410011",
@@ -2120,14 +2112,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Baby One More Time",
-		"artist": "Britney Spears",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507076",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Oops!... I Did It Again",
 		"artist": "Britney Spears",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507077",
@@ -2179,14 +2163,6 @@
 		"albumTitle": "Doo-Wops & Hooligans",
 		"artist": "Bruno Mars",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502069",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Unorthodox Jukebox",
-		"artist": "Bruno Mars",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507079",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -3573,14 +3549,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408088",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Danseorkestret (ls 81 146 cd)",
-		"artist": "Danseorkestret",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501114",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -7909,22 +7877,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502340",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "My Worlds",
-		"artist": "Justin Bieber",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507299",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "FutureSex / LoveSounds",
-		"artist": "Justin Timberlake",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505179",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -13360,22 +13312,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Good Girl Gone Bad: Reloaded",
-		"artist": "Rihanna",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507509",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Loud",
-		"artist": "Rihanna",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507510",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Dreams Of Yesterday",
 		"artist": "Rikke Bruhn",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408349",
@@ -13693,14 +13629,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507521",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Midt I En Løbetid",
-		"artist": "Rollo & King",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408379",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -14997,30 +14925,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505369",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Sinne Eeg (1) (copecd 072) (digipack)",
-		"artist": "Sinne Eeg",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507567",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Beauty Of Sadness (digipack)",
-		"artist": "Sinne Eeg",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507568",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Waiting For Dawn",
-		"artist": "Sinne Eeg",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507569",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -18696,7 +18600,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "40 Famous Composers (40-CD-box) (cascade medien  04000) (NY I folie)",
+		"albumTitle": "40 Famous Composers (40-CD-box) (cascade medien  04000) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501001",
 		"price": "95,00 kr.",
@@ -18765,6 +18669,14 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502006",
 		"price": "5,00 kr.",
 		"quality": "K-4",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Absolute Christmas (2-CD) (8412862)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22108005",
+		"price": "8,00 kr.",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -18984,7 +18896,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Alpen Schlager (3-CD-set) (t 820678) (NY I folie)",
+		"albumTitle": "Alpen Schlager (3-CD-set) (t 820678) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22306013",
 		"price": "5,00 kr.",
@@ -19016,7 +18928,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Auf Der Balleralm  Aprés-Schi-Hits Zum Mitgrölen (3-CD-set) (cd 141.039/40/41) (NY I folie)",
+		"albumTitle": "Auf Der Balleralm  Aprés-Schi-Hits Zum Mitgrölen (3-CD-set) (cd 141.039/40/41) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110009",
 		"price": "5,00 kr.",
@@ -19048,7 +18960,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Bamsesange, Volume 1 (5705643 535142) (NY I folie)",
+		"albumTitle": "Bamsesange, Volume 1 (5705643 535142) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203005",
 		"price": "5,00 kr.",
@@ -19056,7 +18968,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Bamsesange, Volume 3 (5705643 535166) (NY I folie)",
+		"albumTitle": "Bamsesange, Volume 3 (5705643 535166) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110018",
 		"price": "5,00 kr.",
@@ -19064,7 +18976,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Bamsesange, Volume 4 (5705643 535173) (NY I folie)",
+		"albumTitle": "Bamsesange, Volume 4 (5705643 535173) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203006",
 		"price": "5,00 kr.",
@@ -19072,7 +18984,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Bamsesange, Volume 5 (5705643 535180) (NY I folie)",
+		"albumTitle": "Bamsesange, Volume 5 (5705643 535180) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203008",
 		"price": "5,00 kr.",
@@ -19128,7 +19040,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Best Of Louisiana Music (mg 5015) (NY I folie)",
+		"albumTitle": "Best Of Louisiana Music (mg 5015) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502035",
 		"price": "5,00 kr.",
@@ -19136,7 +19048,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Best Of The 80's (2-CD-box) (cd 141.294/5) (NY I folie)",
+		"albumTitle": "Best Of The 80's (2-CD-box) (cd 141.294/5) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22306020",
 		"price": "5,00 kr.",
@@ -19360,7 +19272,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Chillout Moods (2-Cd) (583 776-2)",
+		"albumTitle": "Chillout Moods (2-CD) (583 776-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505012",
 		"price": "5,00 kr.",
@@ -19520,35 +19432,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Dance Chart  Best Of 2002 (2-CD)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501008",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Dance Chart, Volume 17 (2-CD)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501009",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Dance Chart, Volume 29 (2-CD)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501010",
-		"price": "8,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Dance Chart, Volume 29 (2-CD)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505014",
 		"price": "10,00 kr.",
-		"quality": "K-3",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -19696,7 +19584,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Deutsche Trucker Hits (3-CD-set) (cd 312.429) (NY I folie)",
+		"albumTitle": "Deutsche Trucker Hits (3-CD-set) (cd 312.429) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22306032",
 		"price": "5,00 kr.",
@@ -19704,7 +19592,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Deutscher Oldie Hit-Mix (2-CD-set) (cd 151.617/8) (NY I folie)",
+		"albumTitle": "Deutscher Oldie Hit-Mix (2-CD-set) (cd 151.617/8) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22306037",
 		"price": "5,00 kr.",
@@ -19712,7 +19600,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Diamanten Der Volksmusik (cd 142.413) (NY I folie)",
+		"albumTitle": "Diamanten Der Volksmusik (cd 142.413) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203020",
 		"price": "5,00 kr.",
@@ -19800,7 +19688,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Everybody Dance Now (1-CD/1-DVD) (tmc 156010) (NY I folie)",
+		"albumTitle": "Everybody Dance Now (1-CD/1-DVD) (tmc 156010) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408013",
 		"price": "5,00 kr.",
@@ -19808,7 +19696,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Everybody Dance Now, Volume 3 (1-CD/1-DVD) (tmc 157110) (NY I folie)",
+		"albumTitle": "Everybody Dance Now, Volume 3 (1-CD/1-DVD) (tmc 157110) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408015",
 		"price": "5,00 kr.",
@@ -19888,7 +19776,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Fox Party (2-CD-set) (cd 142.222/3) (NY I folie)",
+		"albumTitle": "Fox Party (2-CD-set) (cd 142.222/3) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110074",
 		"price": "5,00 kr.",
@@ -20048,7 +19936,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Hooray For Hollywood (3-CD-box) (6959) (NY I folie)",
+		"albumTitle": "Hooray For Hollywood (3-CD-box) (6959) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110084",
 		"price": "5,00 kr.",
@@ -20064,7 +19952,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Hot Reggae  I Show You How To Reggae (21033-2) (Ny I Folie)",
+		"albumTitle": "Hot Reggae  I Show You How To Reggae (21033-2) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505019",
 		"price": "10,00 kr.",
@@ -20112,7 +20000,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Jazz Café  The Soul Mix (2-Cd) (inspcd 37)",
+		"albumTitle": "Jazz Café  The Soul Mix (2-CD) (inspcd 37)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505021",
 		"price": "5,00 kr.",
@@ -20128,7 +20016,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Jeg Synger Også Med, Volume 4 (5705643 535111) (NY I folie)",
+		"albumTitle": "Jeg Synger Også Med, Volume 4 (5705643 535111) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203025",
 		"price": "5,00 kr.",
@@ -20136,7 +20024,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Jeg Synger Også Med, Volume 6 (5 705643 535135) (NY I folie)",
+		"albumTitle": "Jeg Synger Også Med, Volume 6 (5 705643 535135) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203027",
 		"price": "5,00 kr.",
@@ -20192,7 +20080,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Karma Klassisk  Velvære For Den Indre Ro (3-CD-box) (t 7346) (NY I folie)",
+		"albumTitle": "Karma Klassisk  Velvære For Den Indre Ro (3-CD-box) (t 7346) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501020",
 		"price": "5,00 kr.",
@@ -20200,7 +20088,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Kidz Hitz Winter Party, Volume 3 (1-CD/1-DVD) (tmc 156810) (NY I folie)",
+		"albumTitle": "Kidz Hitz Winter Party, Volume 3 (1-CD/1-DVD) (tmc 156810) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110098",
 		"price": "5,00 kr.",
@@ -20208,7 +20096,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Kidz Hitz, Party (tmc 155510) (1-CD/1-DVD) (NY I folie)",
+		"albumTitle": "Kidz Hitz, Party (tmc 155510) (1-CD/1-DVD) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110100",
 		"price": "5,00 kr.",
@@ -20216,7 +20104,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Kidz Hitz, Party 2  Back To School (1-CD/1-DVD) (tmc 156210) (NY I folie)",
+		"albumTitle": "Kidz Hitz, Party 2  Back To School (1-CD/1-DVD) (tmc 156210) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110105",
 		"price": "5,00 kr.",
@@ -20232,7 +20120,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Klassische Traummelodien (5-CD-box) (9 002986 140986) (NY I folie)",
+		"albumTitle": "Klassische Traummelodien (5-CD-box) (9 002986 140986) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22109031",
 		"price": "5,00 kr.",
@@ -20240,7 +20128,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Klassische Traummelodien (5-CD-box) (9 002986 140986) (NY I folie)",
+		"albumTitle": "Klassische Traummelodien (5-CD-box) (9 002986 140986) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501021",
 		"price": "5,00 kr.",
@@ -20352,7 +20240,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Krøniken 1952-1954, Volume 4+5+6 (3-CD-box) (6826) (NY I folie)",
+		"albumTitle": "Krøniken 1952-1954, Volume 4+5+6 (3-CD-box) (6826) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408020",
 		"price": "10,00 kr.",
@@ -20456,7 +20344,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Letting Go To Relax  3 Complete Albums of Lounge (3-CD-box) (play 3-010) (NY I folie)",
+		"albumTitle": "Letting Go To Relax  3 Complete Albums of Lounge (3-CD-box) (play 3-010) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22310034",
 		"price": "5,00 kr.",
@@ -20480,7 +20368,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Love Songs Of The 50's  60 Hits (3-CD-box) (t6830) (NY I folie)",
+		"albumTitle": "Love Songs Of The 50's  60 Hits (3-CD-box) (t6830) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22109037",
 		"price": "5,00 kr.",
@@ -20488,7 +20376,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Love Songs Of The 50's (3073) (NY I folie)",
+		"albumTitle": "Love Songs Of The 50's (3073) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110119",
 		"price": "5,00 kr.",
@@ -20602,7 +20490,7 @@
 	{
 		"albumTitle": "Merry Christmas (8712155 041211) (Papcover)",
 		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505032",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505033",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -20610,7 +20498,7 @@
 	{
 		"albumTitle": "Merry Christmas (8712155 041211) (Papcover)",
 		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505033",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505032",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -20640,7 +20528,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Mojo Present: I Just Cant Be Happy Today (September 2017) (Papcover) (Ny I Folie)",
+		"albumTitle": "Mojo Present: I Just Cant Be Happy Today (September 2017) (Papcover) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505035",
 		"price": "5,00 kr.",
@@ -20684,22 +20572,6 @@
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22103090",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "More Music 2010 (2-CD) (88697790282)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408022",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "More Music 2011 (2-CD) (mbo-04)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501028",
-		"price": "8,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -20754,16 +20626,16 @@
 	{
 		"albumTitle": "Most Wanted Julehits (2-CD) (535 120-2)",
 		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22409014",
-		"price": "5,00 kr.",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505036",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
 	{
 		"albumTitle": "Most Wanted Julehits (2-CD) (535 120-2)",
 		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505036",
-		"price": "10,00 kr.",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22409014",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -20834,17 +20706,17 @@
 	{
 		"albumTitle": "Mr Music Hits 1994, Volume 9",
 		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22407055",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22312072",
 		"price": "5,00 kr.",
-		"quality": "K-2",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
 		"albumTitle": "Mr Music Hits 1994, Volume 9",
 		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22312072",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22407055",
 		"price": "5,00 kr.",
-		"quality": "K-3",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -21168,7 +21040,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Partyhits Für Unterwegs (3-CD-box) (cd 312.531) (NY I folie)",
+		"albumTitle": "Partyhits Für Unterwegs (3-CD-box) (cd 312.531) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110136",
 		"price": "5,00 kr.",
@@ -21192,7 +21064,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Platinum Edition  The Greatest HipHop Of 2003 (2-Cd) (981 333-8)",
+		"albumTitle": "Platinum Edition  The Greatest HipHop Of 2003 (2-CD) (981 333-8)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505041",
 		"price": "10,00 kr.",
@@ -21208,7 +21080,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Pop & Rock Für Unterwegs (3-CD-box) (cd 312.528) (NY I folie)",
+		"albumTitle": "Pop & Rock Für Unterwegs (3-CD-box) (cd 312.528) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203033",
 		"price": "5,00 kr.",
@@ -21280,7 +21152,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Readers Digest Musik. Tusind Års Musik.  Grieg, Dworák, Sibelius: Arven Fra Nationalromantikken (3-CD-box) (mrj 050590) (NY I folie)",
+		"albumTitle": "Readers Digest Musik. Tusind Års Musik.  Grieg, Dworák, Sibelius: Arven Fra Nationalromantikken (3-CD-box) (mrj 050590) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501036",
 		"price": "5,00 kr.",
@@ -21336,7 +21208,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Remember The 90's (2-Cd) (519019 2)",
+		"albumTitle": "Remember The 90's (2-CD) (519019 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505043",
 		"price": "5,00 kr.",
@@ -21392,7 +21264,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Rock'n'roll Greatest (21063-2) (NY I folie)",
+		"albumTitle": "Rock'n'roll Greatest (21063-2) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502071",
 		"price": "5,00 kr.",
@@ -21400,7 +21272,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Rocken Ruller, Volume 3  24 Originale Hits Fra Hitlisten (2-Cd-Box) (btcd 8901)",
+		"albumTitle": "Rocken Ruller, Volume 3  24 Originale Hits Fra Hitlisten (2-CD-box) (btcd 8901)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505045",
 		"price": "5,00 kr.",
@@ -21424,7 +21296,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Schlager Von Plattenteller (142.494) (NY I folie)",
+		"albumTitle": "Schlager Von Plattenteller (142.494) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22109057",
 		"price": "5,00 kr.",
@@ -21464,7 +21336,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Shot Of Country (2-CD-box) (dgr 20008) (NY I folie)",
+		"albumTitle": "Shot Of Country (2-CD-box) (dgr 20008) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22109058",
 		"price": "5,00 kr.",
@@ -21472,7 +21344,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Sierra Madre  Die Schönsten Volkstümlichen Schlager (3-CD-box) (cd 312.522) (NY I folie)",
+		"albumTitle": "Sierra Madre  Die Schönsten Volkstümlichen Schlager (3-CD-box) (cd 312.522) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22306061",
 		"price": "5,00 kr.",
@@ -21504,7 +21376,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Smart Choice Music  The UK's Americana CD & DVD Store (Promo) (94922966087) (Papcover) (Ny I Folie)",
+		"albumTitle": "Smart Choice Music  The UK's Americana CD & DVD Store (Promo) (94922966087) (Papcover) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502075",
 		"price": "5,00 kr.",
@@ -21600,7 +21472,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Stadion Kracker (3-CD-box) (cd 312.526) (NY I folie)",
+		"albumTitle": "Stadion Kracker (3-CD-box) (cd 312.526) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203035",
 		"price": "5,00 kr.",
@@ -21632,7 +21504,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Største Klassiske Øjeblikke, Volume 2 (2-CD) (028948028276) (NY I folie)",
+		"albumTitle": "Største Klassiske Øjeblikke, Volume 2 (2-CD) (028948028276) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502084",
 		"price": "5,00 kr.",
@@ -21656,7 +21528,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Summer Hitz, Volume 3 (1-CD/1-DVD) (tmc 156110) (NY I folie)",
+		"albumTitle": "Summer Hitz, Volume 3 (1-CD/1-DVD) (tmc 156110) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408036",
 		"price": "5,00 kr.",
@@ -21664,7 +21536,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Summer Hitz, Volume 4 (1-CD/1-DVD) (tmc 157210) (NY I folie)",
+		"albumTitle": "Summer Hitz, Volume 4 (1-CD/1-DVD) (tmc 157210) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203040",
 		"price": "5,00 kr.",
@@ -21880,19 +21752,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Best Of The 80's (21021-2) (NY I folie)",
+		"albumTitle": "The Best Of The 80's (21021-2) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502095",
 		"price": "5,00 kr.",
 		"quality": "K-1",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Best Party Album In The World (2-CD) (8 46742 2)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404065",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -22080,7 +21944,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Serious Soul Collection (3-CD-box) (play 3-006) (NY I folie)",
+		"albumTitle": "The Serious Soul Collection (3-CD-box) (play 3-006) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22310055",
 		"price": "5,00 kr.",
@@ -22112,7 +21976,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Ultimate Candlelight Album (2-Cd) (8452552)",
+		"albumTitle": "The Ultimate Candlelight Album (2-CD) (8452552)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505053",
 		"price": "5,00 kr.",
@@ -22144,7 +22008,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "This Is Soul, Volume 1+2  The Essential Collcetion (2-CD-box) (40363-2/40007-2) (Ny I Folie)",
+		"albumTitle": "This Is Soul, Volume 1+2  The Essential Collcetion (2-CD-box) (40363-2/40007-2) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22011048",
 		"price": "5,00 kr.",
@@ -22152,7 +22016,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Tillykke med dagen  Brudevalsen, Kobberbryllupsvalsen, Sølvbryllupsvalsen m.fl. Ialt 15 sange (t6408) (NY I folie)",
+		"albumTitle": "Tillykke med dagen  Brudevalsen, Kobberbryllupsvalsen, Sølvbryllupsvalsen m.fl. Ialt 15 sange (t6408) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22306065",
 		"price": "5,00 kr.",
@@ -22208,7 +22072,15 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Trucker & Country Für Unterwegs (3-CD-box) (cd 312.529) (NY I folie)",
+		"albumTitle": "Trucker & Country  Christmas Fete (2-CD) (cd 246.257) (NY CD)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22109077",
+		"price": "5,00 kr.",
+		"quality": "K-2",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Trucker & Country Für Unterwegs (3-CD-box) (cd 312.529) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203041",
 		"price": "5,00 kr.",
@@ -22224,7 +22096,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Tuning Hitz, Volume 4  Snow Racing (1-CD/1-DVD) (tmc 156610) (NY I folie)",
+		"albumTitle": "Tuning Hitz, Volume 4  Snow Racing (1-CD/1-DVD) (tmc 156610) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408043",
 		"price": "5,00 kr.",
@@ -22320,7 +22192,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Volksmusik Für Unterwegs (3-CD-box) (cd 312.530) (NY I folie)",
+		"albumTitle": "Volksmusik Für Unterwegs (3-CD-box) (cd 312.530) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110181",
 		"price": "5,00 kr.",
@@ -22328,7 +22200,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Volksmusik Hit-Mix (cd 142.517) (NY I folie)",
+		"albumTitle": "Volksmusik Hit-Mix (cd 142.517) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203043",
 		"price": "5,00 kr.",
@@ -22922,6 +22794,14 @@
 	{
 		"albumTitle": "3 Sange Fra Det Nye Album + 2 Store Klassikere (Familie Journalen) (9931242) (Papcover)",
 		"artist": "Single / Maxi  Kim Larsen & Kjukken",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305100",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Single"
+	},
+	{
+		"albumTitle": "3 Sange Fra Det Nye Album + 2 Store Klassikere (Familie Journalen) (9931242) (Papcover)",
+		"artist": "Single / Maxi  Kim Larsen & Kjukken",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505079",
 		"price": "10,00 kr.",
 		"quality": "K-3",
@@ -22931,14 +22811,6 @@
 		"albumTitle": "3 Sange Fra Det Nye Album + 2 Store Klassikere (Familie Journalen) (9931242) (Papcover)",
 		"artist": "Single / Maxi  Kim Larsen & Kjukken",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505080",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "3 Sange Fra Det Nye Album + 2 Store Klassikere (Familie Journalen) (9931242) (Papcover)",
-		"artist": "Single / Maxi  Kim Larsen & Kjukken",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305100",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Single"
@@ -23178,17 +23050,17 @@
 	{
 		"albumTitle": "Territory",
 		"artist": "Single / Maxi  Sepultura",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505102",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505101",
 		"price": "5,00 kr.",
-		"quality": "K-2",
+		"quality": "K-3",
 		"type": "Single"
 	},
 	{
 		"albumTitle": "Territory",
 		"artist": "Single / Maxi  Sepultura",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505101",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505102",
 		"price": "5,00 kr.",
-		"quality": "K-3",
+		"quality": "K-2",
 		"type": "Single"
 	},
 	{
@@ -23290,7 +23162,7 @@
 	{
 		"albumTitle": "As Ugly As They Wanna Be",
 		"artist": "Single / Maxi  Ugly Kid Joe",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505108",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505107",
 		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Single"
@@ -23298,7 +23170,7 @@
 	{
 		"albumTitle": "As Ugly As They Wanna Be",
 		"artist": "Single / Maxi  Ugly Kid Joe",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505107",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505108",
 		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Single"
@@ -23306,7 +23178,7 @@
 	{
 		"albumTitle": "Neighbor",
 		"artist": "Single / Maxi  Ugly Kid Joe",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505110",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505109",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Single"
@@ -23314,7 +23186,7 @@
 	{
 		"albumTitle": "Neighbor",
 		"artist": "Single / Maxi  Ugly Kid Joe",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505109",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505110",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Single"
