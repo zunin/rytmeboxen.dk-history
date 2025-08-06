@@ -792,14 +792,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "My Everything",
-		"artist": "Ariana Grande",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503017",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Ot Serdca K Nebu",
 		"artist": "Arkona",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412067",
@@ -1029,22 +1021,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503018",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Backstreet's Back",
-		"artist": "Backstreet Boys",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502044",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Black & Blue",
-		"artist": "Backstreet Boys",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502046",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -2312,26 +2288,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "A Different Beat",
-		"artist": "Boyzone",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508075",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "By Request",
 		"artist": "Boyzone",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412209",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Said and Done",
-		"artist": "Boyzone",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508076",
-		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -7976,14 +7936,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "J.Lo",
-		"artist": "Jennifer Lopez",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507267",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Jennifer Marks (171002-2)",
 		"artist": "Jennifer Marks",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502241",
@@ -11027,14 +10979,6 @@
 		"albumTitle": "Confessions On A Dance Floor",
 		"artist": "Madonna",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505207",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Hard Candy",
-		"artist": "Madonna",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507382",
 		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Album"
@@ -14904,14 +14848,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Rated R",
-		"artist": "Rihanna",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508445",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Ringo Rama (1-CD/1-DVD) (cover er falmet)",
 		"artist": "Ringo Star",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408350",
@@ -15853,22 +15789,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410762",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Affirmation",
-		"artist": "Savage Garden",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505315",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Savage Garden (487161 2)",
-		"artist": "Savage Garden",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507532",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -17840,14 +17760,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Everything Changes",
-		"artist": "Take That",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408599",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Greatest Hits (74321 355582)",
 		"artist": "Take That",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503676",
@@ -17869,14 +17781,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410782",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Circus",
-		"artist": "Take That",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508495",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -19843,14 +19747,6 @@
 		"albumTitle": "Lily",
 		"artist": "Wendy Matthews",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411654",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Allow Us To Be Frank",
-		"artist": "Westlife",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407479",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
