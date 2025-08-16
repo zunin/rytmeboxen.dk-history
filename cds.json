@@ -3610,14 +3610,6 @@
 	{
 		"albumTitle": "Black Sunday",
 		"artist": "Cypress Hill",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508116",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Black Sunday",
-		"artist": "Cypress Hill",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508117",
 		"price": "5,00 kr.",
 		"quality": "K-4",
@@ -3652,14 +3644,6 @@
 		"artist": "Cæcilie Norby",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503089",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Call Of The Wild",
-		"artist": "D.A.D.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508119",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -3988,14 +3972,6 @@
 		"artist": "Deep Forest",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508129",
 		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Adrenaline",
-		"artist": "Deftones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508131",
-		"price": "10,00 kr.",
 		"quality": "K-4",
 		"type": "Album"
 	},
@@ -5224,22 +5200,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Introduce Yourself",
-		"artist": "Faith No More",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505123",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Real Thing",
-		"artist": "Faith No More",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508164",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "To All New Arrivals",
 		"artist": "Faithless",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507177",
@@ -5525,14 +5485,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502196",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Loco",
-		"artist": "Fun Lovinī Criminals",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508174",
-		"price": "10,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -6317,22 +6269,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505149",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Appetite For Destruction",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508199",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Use Your Illusion II",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508200",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -7360,30 +7296,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Rock Dust Light Star",
-		"artist": "Jamiroquai",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508227",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Synkronized",
-		"artist": "Jamiroquai",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502236",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Travelling Without Moving",
-		"artist": "Jamiroquai",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508228",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Alle Go'e X 3",
 		"artist": "Jan & Sunny Boys",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503167",
@@ -7451,7 +7363,7 @@
 		"albumTitle": "The Essential (2-CD) (510593 2)",
 		"artist": "Janis Joplin",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410521",
-		"price": "20,00 kr.",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -10968,7 +10880,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "No More Dreams",
+		"albumTitle": "No More Drama",
 		"artist": "Mary J. Blige",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503274",
 		"price": "10,00 kr.",
@@ -15448,14 +15360,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Colour The Small One",
-		"artist": "Sia",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507555",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Where Are My Shoes",
 		"artist": "Sidsel Ben Semmane",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501667",
@@ -16941,14 +16845,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507623",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "What's Left Is Forever",
-		"artist": "Thomas Dybdahl",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505449",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -18768,14 +18664,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Wu-Chronicles (p2 51143)",
-		"artist": "Wu Tang Clan",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508547",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "First Among Equals",
 		"artist": "Xantom",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508548",
@@ -18949,14 +18837,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411670",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Greatest Hits (7599-26846-2)",
-		"artist": "ZZ Top",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508553",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
