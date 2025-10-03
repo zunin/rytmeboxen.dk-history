@@ -1856,6 +1856,22 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Debut",
+		"artist": "Björk",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410107",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Homogenic",
+		"artist": "Björk",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507063",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "Selma Songs",
 		"artist": "Björk",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507064",
@@ -5288,51 +5304,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Chorus",
-		"artist": "Erasure",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510174",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Cowboy",
-		"artist": "Erasure",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510175",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Loveboat",
-		"artist": "Erasure",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505111",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Pop  The First 20 Hits (cd mute l2)",
 		"artist": "Erasure",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510176",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Innocents",
-		"artist": "Erasure",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505113",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Wild!",
-		"artist": "Erasure",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505114",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -8344,14 +8320,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Axis: Bold As Love",
-		"artist": "Jimi Hendrix Experience",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510244",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Jimmy Justesen Band (not on label)",
 		"artist": "Jimmy Justesen Band",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502266",
@@ -10635,7 +10603,7 @@
 		"albumTitle": "De Allerstørste Sange (3-CD/1-DVD) (r 60111-0) (digipack)",
 		"artist": "Lis Sørensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501544",
-		"price": "40,00 kr.",
+		"price": "35,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -10675,7 +10643,7 @@
 		"albumTitle": "Rose",
 		"artist": "Lis Sørensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505201",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -10683,7 +10651,7 @@
 		"albumTitle": "Under Stjernerne Et Sted",
 		"artist": "Lis Sørensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509279",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -11725,14 +11693,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508330",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "16 Hits, Volume 2 (4682cd)",
-		"artist": "McKinleys",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510314",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -12955,14 +12915,6 @@
 		"albumTitle": "Han Tog Realen Med",
 		"artist": "Niels Hausgaard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510346",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Kom Lad Os Danse",
-		"artist": "Niels Hausgaard",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510347",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -16824,22 +16776,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "#Beste (0602537197828)",
-		"artist": "Sido",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510452",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "VI",
-		"artist": "Sido",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510453",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Where Are My Shoes",
 		"artist": "Sidsel Ben Semmane",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501667",
@@ -17428,14 +17364,6 @@
 		"artist": "Sound Of Seduction",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509447",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Badmotorfinger",
-		"artist": "Soundgarden",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510471",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18533,14 +18461,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509473",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "El Camino",
-		"artist": "Thomas Helmig",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507629",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -19952,14 +19872,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Rock The Rebel / Metal The Devil",
-		"artist": "Volbeat",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510538",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Heart And Soul  New Songs From Ally McBeal feat. Vonda Shepard",
 		"artist": "Vonda Shepard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501741",
@@ -20045,14 +19957,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505613",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Bad Hair Day",
-		"artist": "Weird Al Yankovic",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510541",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
