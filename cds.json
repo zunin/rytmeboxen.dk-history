@@ -4256,14 +4256,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "L.A. Woman",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601135",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Morrison Hotel",
 		"artist": "Doors",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509107",
@@ -4285,14 +4277,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601138",
 		"price": "15,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Waiting For The Sun",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601139",
-		"price": "20,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -4780,14 +4764,6 @@
 		"artist": "Eric Carmen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502168",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "24 Nights (2-CD-box) (7599-26420-2)",
-		"artist": "Eric Clapton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601169",
-		"price": "25,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -5949,30 +5925,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601252",
 		"price": "15,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Happiness Come (jmc 200 233)",
-		"artist": "Gregory Isaacs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508196",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Lonely Days (jmc 200 205)",
-		"artist": "Gregory Isaacs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508197",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Willow Tree (jmc 200 204)",
-		"artist": "Gregory Isaacs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508198",
-		"price": "10,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -7148,14 +7100,6 @@
 		"artist": "Jessy Dixon",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509228",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Aqualung + 6 bonusnumre (4 9 5401 2)",
-		"artist": "Jethro Tull",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601316",
-		"price": "25,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15072,14 +15016,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Skrøbelige Hjerte",
-		"artist": "Thomas Kjellerup",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510505",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Sommerhus",
 		"artist": "Thomas Kjellerup",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510506",
@@ -15355,7 +15291,7 @@
 		"albumTitle": "60'er Rock (cd 82089)",
 		"artist": "Tony & The Diamonds",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508514",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15363,7 +15299,7 @@
 		"albumTitle": "In And Out Of The Real Thing",
 		"artist": "Tony & The Diamonds",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508515",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
