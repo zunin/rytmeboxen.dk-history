@@ -480,6 +480,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Verden Er Gal",
+		"artist": "Anne Grete med Peter Thorup",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601013",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "De Bedste (88697980002)",
 		"artist": "Anne Linnet",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512046",
@@ -508,14 +516,6 @@
 		"artist": "Anne Linnet",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601012",
 		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Verden Er Gal",
-		"artist": "Anne-Grete med Peter Thorup",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601013",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -11616,22 +11616,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Greatest Hits, Volume 1+2+3  The Platinum Collection (3-CD-box) (5 29883 2)",
-		"artist": "Queen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601469",
-		"price": "45,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Made In Heaven",
-		"artist": "Queen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510404",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "R. (2-CD) (papcover)",
 		"artist": "R. Kelly",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503508",
@@ -13917,22 +13901,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505415",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Love Songs  20 Classic Hits (530 037-2)",
-		"artist": "Stevie Wonder",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510475",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Song Review  A Greatest Hits Collection (530 757-2)",
-		"artist": "Stevie Wonder",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505417",
-		"price": "10,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
