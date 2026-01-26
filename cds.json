@@ -216,14 +216,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Heart In Motion",
-		"artist": "Amy Grant",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512038",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Anastacia (3) (2 513471)",
 		"artist": "Anastacia",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508012",
@@ -1416,19 +1408,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Længe Leve Livet",
-		"artist": "Birthe Kjær",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601033",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "På En Fransk Altan",
 		"artist": "Birthe Kjær",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510055",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503039",
 		"price": "10,00 kr.",
-		"quality": "K-3",
+		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -4560,33 +4544,9 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Floating",
-		"artist": "Eric Gadd",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509138",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Greatest Hits (pccd 8149)",
 		"artist": "Eric Gadd",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509139",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Life Support",
-		"artist": "Eric Gadd",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512297",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Spirit",
-		"artist": "Eric Gadd",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509141",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -6840,14 +6800,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Best Of (0777 7 80512 2 0)",
-		"artist": "Joe Cocker",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601327",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Unchain My Heart",
 		"artist": "Joe Cocker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507277",
@@ -6987,14 +6939,6 @@
 		"albumTitle": "John Lee Hooker (or 0119)",
 		"artist": "John Lee Hooker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508243",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Best Of (mcd 19507)",
-		"artist": "John Lee Hooker",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508245",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -11461,6 +11405,14 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601472",
 		"price": "5,00 kr.",
 		"quality": "K-4",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Hits (954837752-2)",
+		"artist": "Randy Crawford",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510411",
+		"price": "5,00 kr.",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
