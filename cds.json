@@ -1504,14 +1504,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Great Escape",
-		"artist": "Blur",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512147",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Bo Diddley (or 0118)",
 		"artist": "Bo Diddley",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508063",
@@ -3248,14 +3240,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Boks (6-CD/3-DVD) (r 601120-0)",
-		"artist": "De Nattergale",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512256",
-		"price": "70,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Julekalender (DVD) (alle 24 afsnit på 2-DVD) (4925809)",
 		"artist": "De Nattergale",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510121",
@@ -4093,14 +4077,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602090",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Dexter Fox",
-		"artist": "Epo-555",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507162",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -9792,30 +9768,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "En Halv Time Tidligere",
-		"artist": "Niels Hausgaard",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601436",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "I Fornuftens Land",
-		"artist": "Niels Hausgaard",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601437",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Når Alt Kommer Til Alt",
-		"artist": "Niels Hausgaard",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510349",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Century Child",
 		"artist": "Nightwish",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602273",
@@ -10853,14 +10805,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601465",
 		"price": "10,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Fat Of The Land",
-		"artist": "Prodigy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602317",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -15707,7 +15651,7 @@
 		"albumTitle": "A Perfect Love (2-CD) (radcd 80)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502004",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15731,7 +15675,7 @@
 		"albumTitle": "Absolute Christmas (2-CD) (8412862)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22108005",
-		"price": "8,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15739,7 +15683,7 @@
 		"albumTitle": "Absolute Christmas 2000 (2-CD) (8505502)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22508017",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15747,7 +15691,7 @@
 		"albumTitle": "Absolute Christmas, Volume 2 (2-CD) (844 432-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22601003",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -15770,16 +15714,8 @@
 	{
 		"albumTitle": "Absolute Greatest Love Songs (2-CD) (88697067312)",
 		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402010",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Absolute Greatest Love Songs (2-CD) (88697067312)",
-		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22508018",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -16355,7 +16291,7 @@
 		"albumTitle": "Country Collection (2-CD) (56217cd)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502050",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -16443,7 +16379,7 @@
 		"albumTitle": "Country Outlaws  Renegade Country Music (2-CD) (metrdcd 514)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502052",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -16683,7 +16619,7 @@
 		"albumTitle": "En Buket Sommerblomster (2-CD) (0946 363768 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502029",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -16899,7 +16835,7 @@
 		"albumTitle": "Harmony  Klassiske Favoritter (2-CD) (5570772)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501016",
-		"price": "8,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -16915,7 +16851,7 @@
 		"albumTitle": "Hit Coctail (2-CD) (56206cd)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502055",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -17603,7 +17539,7 @@
 		"albumTitle": "More Music, Volume 7 (2-CD) (5342145) (NY CD)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#42-2508",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -17955,7 +17891,7 @@
 		"albumTitle": "Now 39 (2-CD) (UK) (4 94687 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404026",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -17963,7 +17899,7 @@
 		"albumTitle": "Now 40 (2-CD) (UK) (4 96242-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22311065",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -17971,7 +17907,7 @@
 		"albumTitle": "Now Dance 2005 (2-CD) (3433262)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408029",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -17979,23 +17915,15 @@
 		"albumTitle": "Now That's What I Call Music (DK), Volume 18",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22310041",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Now That's What I Call Music (DK), Volume 18",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408031",
 		"price": "5,00 kr.",
-		"quality": "K-4",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
 		"albumTitle": "Now That's What I Call Music (DK), Volume 2",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22312079",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18011,7 +17939,7 @@
 		"albumTitle": "Now That's What I Call Music (DK), Volume 6",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22206046",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18019,7 +17947,7 @@
 		"albumTitle": "Now That's What I Call Music (DK), Volume 9",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404027",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18043,7 +17971,7 @@
 		"albumTitle": "O Sister Where Art Thou? (2-CD) (wsmcd 105)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502065",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18091,7 +18019,7 @@
 		"albumTitle": "Platinum Edition  The Greatest HipHop Of 2003 (2-CD) (981 333-8)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505041",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18203,7 +18131,7 @@
 		"albumTitle": "Reggae  Songs Of Freedom (2-CD) (583 837 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502068",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18331,7 +18259,7 @@
 		"albumTitle": "Rocken Ruller, Volume 4  24 Originale Hits Fra Hitlisten (2-CD-box) (btcd 9001)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22509018",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18451,7 +18379,7 @@
 		"albumTitle": "Sonic Dance Power, Volume 1 (2-CD) (966 040-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501042",
-		"price": "8,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18731,7 +18659,7 @@
 		"albumTitle": "The Best Country Album In The World Ever (2-CD) (8 31646 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22509022",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18747,7 +18675,7 @@
 		"albumTitle": "The Best Country Ballads In The World Ever (2-CD) (8 46345 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502092",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18827,7 +18755,7 @@
 		"albumTitle": "The Celtic Circle, Volume 2 (2-CD) (82876 56103 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408039",
-		"price": "8,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18835,7 +18763,7 @@
 		"albumTitle": "The Classic Country Collection (2-CD) (rca Cd 217)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502097",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18906,16 +18834,8 @@
 	{
 		"albumTitle": "The Great Country Collection (2-CD-box) (41640cd)",
 		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305080",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Great Country Collection (2-CD-box) (41640cd)",
-		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22601061",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -18995,7 +18915,7 @@
 		"albumTitle": "The No. 1 Love Album (2-CD) (535 262-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22508037",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -19131,7 +19051,7 @@
 		"albumTitle": "Top Charlie, Volume 1 (2-CD) (m 20132-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22311074",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -19139,7 +19059,7 @@
 		"albumTitle": "Top Charlie, Volume 2 (2-CD) (m 20151-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404071",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
