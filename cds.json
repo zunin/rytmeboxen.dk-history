@@ -275,7 +275,7 @@
 		"albumTitle": "Strawberry Jam (papcover)",
 		"artist": "Animal Collective",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505019",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -283,7 +283,7 @@
 		"albumTitle": "Water Curses (Maxi) (digipack)",
 		"artist": "Animal Collective",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505020",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -3840,14 +3840,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Impulsive  Plays The Music Of Eliane Elias",
-		"artist": "Eliane Elias, Bob Brockmeyer & The Danish Radio Jazz Orchestra",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507155",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Duets (518 478-2)",
 		"artist": "Elton John",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509115",
@@ -4816,6 +4808,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "The Black Box (9-CD-box)",
+		"artist": "Gasolin",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509165",
+		"price": "195,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "Chariot / Stripped (2-CD)",
 		"artist": "Gavin DeGraw",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512310",
@@ -5064,14 +5064,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Plads Til Begejstring",
-		"artist": "Gnags",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602118",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Øjne På Stilke",
 		"artist": "Gnags",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509178",
@@ -5173,14 +5165,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509182",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Veckatimest (digipack)",
-		"artist": "Grizzly Bear",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507212",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -8912,14 +8896,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Frengers",
-		"artist": "Mew",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507418",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Greatest Hits 1985-1995 (481002 2)",
 		"artist": "Michael Bolton",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#41-2510",
@@ -9011,7 +8987,7 @@
 		"albumTitle": "Pure Gershwin",
 		"artist": "Michael Feinstein",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509307",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -12112,22 +12088,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Second You Sleep",
-		"artist": "Saybia",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512519",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "These Are The Days (digipack)",
-		"artist": "Saybia",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509422",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Scars On Broadway (17580535)",
 		"artist": "Scars On Broadway",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602360",
@@ -14789,14 +14749,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510533",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Vampire Weekend (xlcd 318)",
-		"artist": "Vampire Weekend",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505575",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album"
 	},
 	{
@@ -20808,7 +20760,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Definitivt",
+		"albumTitle": "Definitivt (6216-2)",
 		"artist": "Björn Afzelius",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32505026",
 		"price": "2,00 kr.",
@@ -21088,14 +21040,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Toonage",
-		"artist": "Cartoons",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32602013",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Vibe",
 		"artist": "Caught In The Act",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32310024",
@@ -21192,14 +21136,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Sway",
-		"artist": "Colorblind",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32208011",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Hej",
 		"artist": "Connie Uldahl med John Uldahl's Trio",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501008",
@@ -21249,7 +21185,7 @@
 	},
 	{
 		"albumTitle": "Do. (466 347-2)",
-		"artist": "Craig McLachlan Check 1-2",
+		"artist": "Craig McLachlan & Check 1-2",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32306017",
 		"price": "2,00 kr.",
 		"quality": "K-4",
@@ -21517,14 +21453,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32602016",
 		"price": "2,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "We Are In There You Are Out Here",
-		"artist": "Dune",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32502021",
-		"price": "2,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -22808,19 +22736,19 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Park Bench Theories",
-		"artist": "James Scott & The Town",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32209096",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Catching Tales",
 		"artist": "Jamie Cullum",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406130",
 		"price": "2,00 kr.",
 		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Park Bench Theories",
+		"artist": "Jamie Scott & The Town",
+		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32209096",
+		"price": "2,00 kr.",
+		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -22901,14 +22829,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32310302",
 		"price": "2,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Horse In Blue  Jazz Live At Babette",
-		"artist": "Jens Krøldrup Trio",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32602032",
-		"price": "2,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -24776,14 +24696,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Tenor Arien (436 510-2)",
-		"artist": "Nessun Dorma",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406252",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Life In A Song (11661-0576-2)",
 		"artist": "New Found Road",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32602048",
@@ -24845,14 +24757,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32302029",
 		"price": "2,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Plays Mintzer (digipack)",
-		"artist": "Nordkraft Big Band",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32602050",
-		"price": "2,00 kr.",
-		"quality": "K-1",
 		"type": "Album"
 	},
 	{
