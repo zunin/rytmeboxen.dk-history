@@ -6664,14 +6664,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Irishman In America (M 20163-2)",
-		"artist": "Johnny Logan",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510255",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Reach For Me (502022 2)",
 		"artist": "Johnny Logan",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507287",
@@ -7285,14 +7277,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510270",
 		"price": "15,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Luft Under Vingerne (papcover)",
-		"artist": "Kim Larsen & Kjukken",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512370",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -8560,14 +8544,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Marie Carmen Koppel (carmen O 01-2)",
-		"artist": "Marie Carmen Koppel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510309",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Vermilion",
 		"artist": "Marie Frank",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#41-2508",
@@ -8997,6 +8973,14 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508335",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Blue Night",
+		"artist": "Michael Learns To Rock",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#41-2510",
+		"price": "5,00 kr.",
+		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -19448,7 +19432,7 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "Som Vi Husker Ham (uni 279 731 4)",
+		"albumTitle": "Som Vi Husker Ham (uni 279 731 4) (papcover)",
 		"artist": "Single / Maxi  Bamse",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22302039",
 		"price": "5,00 kr.",
@@ -19461,14 +19445,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505069",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Could It Be",
-		"artist": "Single / Maxi  Beat Club",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22302040",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Single"
 	},
 	{
@@ -19488,41 +19464,9 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "Achy Breaky Heart",
-		"artist": "Single / Maxi  Billy Ray Cyrus",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402095",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "In The Heart Of A Woman",
-		"artist": "Single / Maxi  Billy Ray Cyrus",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402096",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Achy Breaky Dans",
-		"artist": "Single / Maxi  Bjørn & Okay",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404101",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Single"
-	},
-	{
 		"albumTitle": "Giv Mig Et Svar",
 		"artist": "Single / Maxi  Bounty",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305093",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "No Matter What",
-		"artist": "Single / Maxi  Boyzone",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402098",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Single"
@@ -19533,22 +19477,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505071",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "20th Century",
-		"artist": "Single / Maxi  Brad",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404106",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Ten Dollar Bill",
-		"artist": "Single / Maxi  Cop Shoot Cop",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404113",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Single"
 	},
 	{
@@ -19568,19 +19496,11 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "The Blessing Of Sorrow",
+		"albumTitle": "The Blessing Of Sorrow (digipack)",
 		"artist": "Single / Maxi  Demons Are Real",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22302056",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Bye Bye Belinda",
-		"artist": "Single / Maxi  Die Flippers",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402109",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Single"
 	},
 	{
@@ -19600,57 +19520,9 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "Hip Today",
-		"artist": "Single / Maxi  Extreme",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22212076",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Hole Hearted",
-		"artist": "Single / Maxi  Extreme",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404142",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Hang On",
-		"artist": "Single / Maxi  Freedom",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402118",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Killing Me Softly",
-		"artist": "Single / Maxi  Fugees",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22309053",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Forever Love",
-		"artist": "Single / Maxi  Gary Barlow",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402120",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
 		"albumTitle": "We Can Do It",
 		"artist": "Single / Maxi  Gry Luka & Peter Schmeichel",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404148",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "The Only One",
-		"artist": "Single / Maxi  Gun",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402123",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Single"
@@ -19664,27 +19536,11 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "Så' Vi Klar",
-		"artist": "Single / Maxi  Hansen",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404149",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Single"
-	},
-	{
 		"albumTitle": "Come Back",
 		"artist": "Single / Maxi  Hitfingers",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402127",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Pressure Drop",
-		"artist": "Single / Maxi  Izzy Stradlin",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404159",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Single"
 	},
 	{
@@ -19717,14 +19573,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402131",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "You're OK",
-		"artist": "Single / Maxi  K.D. Lang",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402132",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Single"
 	},
 	{
@@ -19768,22 +19616,6 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "Big Boys In Red & White",
-		"artist": "Single / Maxi  Landsholdet & Big Fat Snake",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404165",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Sangen Til Mor",
-		"artist": "Single / Maxi  Lasse Helner",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402136",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
 		"albumTitle": "Udvalgte Sange Til Søndags Læsere (Promo) (3720667) (papcover)",
 		"artist": "Single / Maxi  Lis Sørensen",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505082",
@@ -19821,14 +19653,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505083",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Mysterious Woman",
-		"artist": "Single / Maxi  Marc Roberts",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22302077",
-		"price": "5,00 kr.",
-		"quality": "K-2",
 		"type": "Single"
 	},
 	{
@@ -19904,7 +19728,7 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "Broken Down: The EP",
+		"albumTitle": "Broken Down: The EP (digipack)",
 		"artist": "Single / Maxi  Pillar",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402149",
 		"price": "5,00 kr.",
@@ -19949,14 +19773,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404199",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Ved Du Hvad Hun Sagde",
-		"artist": "Single / Maxi  Rollo & King",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402153",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Single"
 	},
 	{
@@ -20008,14 +19824,6 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "I Believe You Now",
-		"artist": "Single / Maxi  SO 36",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22302094",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single"
-	},
-	{
 		"albumTitle": "Little Miss Can't Be Wrong",
 		"artist": "Single / Maxi  Spin Doctors",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404211",
@@ -20024,7 +19832,7 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "Hole In Your Soul",
+		"albumTitle": "Hole In Your Soul (digipack)",
 		"artist": "Single / Maxi  Spinkelman",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22309058",
 		"price": "5,00 kr.",
@@ -20088,14 +19896,6 @@
 		"type": "Single"
 	},
 	{
-		"albumTitle": "Loony",
-		"artist": "Single / Maxi  Toby",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22302096",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Single"
-	},
-	{
 		"albumTitle": "Som Vi Husker Ham (5099909865426)",
 		"artist": "Single / Maxi  Tommy Seebach",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505106",
@@ -20125,14 +19925,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305109",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Single"
-	},
-	{
-		"albumTitle": "Crush On You",
-		"artist": "Single / Maxi  Aaron Carter",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402169",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Single"
 	},
 	{
