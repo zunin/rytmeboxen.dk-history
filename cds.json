@@ -2192,14 +2192,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Tapestry",
-		"artist": "Carole King",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602046",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Cinemataztic",
 		"artist": "Caroline Henderson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509071",
@@ -2980,14 +2972,6 @@
 		"artist": "Damien Rice",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512251",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Definitive Collection (2-CD) (480557 9)",
-		"artist": "Dan Fogelberg",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602059",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -4819,14 +4803,6 @@
 		"albumTitle": "One Two Three Four",
 		"artist": "George Garzone",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507195",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "George Kilby Jr. (bmgk-100) (cdr)",
-		"artist": "George Kilby Jr.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602113",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -6760,14 +6736,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Le Temps D'une Chanson",
-		"artist": "Juliette Gréco",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508256",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "1100 Bel Air Place",
 		"artist": "Julio Iglesias",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512359",
@@ -8200,14 +8168,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Bizarre Fruit",
-		"artist": "M People",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508313",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Blackening",
 		"artist": "Machine Head",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602202",
@@ -9108,14 +9068,6 @@
 		"artist": "Missy Elliott",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507427",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Endless Day",
-		"artist": "Mitch Hansen Band",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507428",
-		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -10152,14 +10104,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Simple Emotions (8272822)",
-		"artist": "Peaches & Bobo",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512457",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "My Greatest Moments (2-CD) (542313-2)",
 		"artist": "Per Nielsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508415",
@@ -11016,14 +10960,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Greatest Hits (8 21914 2)",
-		"artist": "Richard Marx",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507502",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "16 Gyldne Hits (46132cd)",
 		"artist": "Richard Ragnvald",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507504",
@@ -11612,14 +11548,6 @@
 		"artist": "Sam Cooke",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512508",
 		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "A Boot And A Shoe",
-		"artist": "Sam Phillips",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505299",
-		"price": "10,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
 	},
@@ -12304,7 +12232,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Definitive Simon & garfunkel (mood cd21)",
+		"albumTitle": "The Definitive Simon & Garfunkel (mood cd21)",
 		"artist": "Simon & Garfunkel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508474",
 		"price": "10,00 kr.",
@@ -14488,10 +14416,10 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Everything Picture (2-CD) (papcover)",
+		"albumTitle": "Everything Picture (2-CD) (papcover) (cover er lidt slidt)",
 		"artist": "Ultrasound",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505568",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Album"
 	},
@@ -20592,14 +20520,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Sail Along Silvr'y Moon (32 408)",
-		"artist": "Captain Cook",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32502016",
-		"price": "2,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "In Concert (430 433-2)",
 		"artist": "Carreras Domingo Pavarotti",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32505035",
@@ -21077,14 +20997,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32602017",
 		"price": "2,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Very Best Of Mambo (10014022)",
-		"artist": "Edmundo Ros",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32309042",
-		"price": "2,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -21755,14 +21667,6 @@
 		"albumTitle": "Grand Avenue (1) (592 742-2)",
 		"artist": "Grand Avenue",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32512021",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "She",
-		"artist": "Grand Avenue",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32512022",
 		"price": "2,00 kr.",
 		"quality": "K-4",
 		"type": "Album"
@@ -22507,14 +22411,6 @@
 		"albumTitle": "Piano-Swing-Live, Caféen, Musikhuset Aarhus",
 		"artist": "Joehs Ipsen",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32508035",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Camp (jdw001)",
-		"artist": "Joey Wright",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32205069",
 		"price": "2,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -23544,14 +23440,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "White Turns Blue",
-		"artist": "Maria Mena",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32505100",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Svært At Være Gudinde",
 		"artist": "Maria Montell",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406219",
@@ -24229,14 +24117,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32310102",
 		"price": "2,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Rejsedage",
-		"artist": "Neighbours",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501107",
-		"price": "2,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -25104,14 +24984,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Something To Be (7567-93435-2)",
-		"artist": "Rob Thomas",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501153",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Swing When You're Winning",
 		"artist": "Robbie Williams",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32512052",
@@ -25141,14 +25013,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501154",
 		"price": "2,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Robson & Jerome (74321 32390 2)",
-		"artist": "Robson & Jerome",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32602061",
-		"price": "2,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -25555,14 +25419,6 @@
 		"albumTitle": "Trouble",
 		"artist": "Scott McKeon",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501171",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Time Is A Friend (digipack)",
-		"artist": "Seán Needham",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32302042",
 		"price": "2,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
