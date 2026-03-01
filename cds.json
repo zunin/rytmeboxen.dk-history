@@ -474,6 +474,14 @@
 	{
 		"albumTitle": "Aquarium",
 		"artist": "Aqua",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512050",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Aquarium",
+		"artist": "Aqua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510023",
 		"price": "5,00 kr.",
 		"quality": "K-4",
@@ -828,6 +836,14 @@
 		"artist": "Beach Boys",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602023",
 		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "1  27 No. Singles On 1 CD (5 29325 2)",
+		"artist": "Beatles",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512091",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -3600,14 +3616,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Sylvia's Mother (pwks 4046)",
-		"artist": "Dr. Hook & The Medicine Show",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509108",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "A Little Bit More  Greatest & Latest (24199-2)",
 		"artist": "Dr. Hook feat. Ray Sawyer",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510143",
@@ -5045,14 +5053,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601249",
 		"price": "15,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "International Superhits (9362-48145-2)",
-		"artist": "Green Day",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601251",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -7805,14 +7805,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508301",
 		"price": "5,00 kr.",
 		"quality": "K-1",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Hybrid Theory",
-		"artist": "Linkin Park",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602185",
-		"price": "20,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -13261,14 +13253,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602438",
 		"price": "10,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Toxicity",
-		"artist": "System Of A Down",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602439",
-		"price": "20,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
