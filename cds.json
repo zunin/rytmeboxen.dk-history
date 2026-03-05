@@ -56,6 +56,14 @@
 		"type": "Album"
 	},
 	{
+		"albumTitle": "Big Ones",
+		"artist": "Aerosmith",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509003",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album"
+	},
+	{
 		"albumTitle": "Philharmonics (plasr 195)",
 		"artist": "Agnes Obel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507008",
@@ -7648,14 +7656,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Alpha Han",
-		"artist": "Jokeren",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512356",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "This Side Up",
 		"artist": "Jon",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602154",
@@ -8557,22 +8557,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601371",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Cassiopeia",
-		"artist": "L.O.C.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510278",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Inkarneret",
-		"artist": "L.O.C.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510279",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -13010,14 +12994,6 @@
 	{
 		"albumTitle": "All My Love  Rocazino's Bedste (526 947-2)",
 		"artist": "Rocazino",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507514",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "All My Love  Rocazino's Bedste (526 947-2)",
-		"artist": "Rocazino",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602342",
 		"price": "10,00 kr.",
 		"quality": "K-3",
@@ -14728,14 +14704,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Fush Ju Mang",
-		"artist": "Smash Mouth",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602396",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Celebration",
 		"artist": "Smokie",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510464",
@@ -14832,14 +14800,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Ego Trippin",
-		"artist": "Snoop Dogg",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512538",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Eyes Open",
 		"artist": "Snow Patrol",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602401",
@@ -14888,14 +14848,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Flow My Firetear",
-		"artist": "Sort Sol",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602407",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Glamourpuss",
 		"artist": "Sort Sol",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602408",
@@ -14909,14 +14861,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603502",
 		"price": "15,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Snakecharmer",
-		"artist": "Sort Sol",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505389",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -15819,7 +15763,7 @@
 		"albumTitle": "Greatest Hits (74321 355582)",
 		"artist": "Take That",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603540",
-		"price": "5,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -16496,14 +16440,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Lad Os Flyve Til En Stjerne (260 104)",
-		"artist": "To",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603565",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Mad Mad World",
 		"artist": "Tom Cochrane",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505471",
@@ -16664,14 +16600,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Past To Present 1977-1990",
-		"artist": "Toto",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512576",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Seventh One",
 		"artist": "Toto",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512577",
@@ -16812,14 +16740,6 @@
 		"artist": "Troggs",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509494",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Forklædt Som Voksen",
-		"artist": "Troo.L.S Orgi-E",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507651",
-		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
