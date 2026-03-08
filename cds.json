@@ -608,30 +608,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Anthems Of Rebellion",
-		"artist": "Arch Enemy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512051",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Doomsday Machine",
-		"artist": "Arch Enemy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512052",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Rise Of The Tyrant",
-		"artist": "Arch Enemy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512053",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Sugar Sugar (16221cd)",
 		"artist": "Archies",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602012",
@@ -2704,38 +2680,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "16",
-		"artist": "Chicago",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603096",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Are You Dead Yet?",
-		"artist": "Children Of Bodom",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512213",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Hatebreeder",
-		"artist": "Children Of Bodom",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512215",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Something Wild",
-		"artist": "Children Of Bodom",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512216",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Impossibilly Of Reason (2-CD)",
 		"artist": "Chimaira",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512217",
@@ -2768,7 +2712,7 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "The Hits  From His Smokie & Solo Years (2-Cd) (5051865507123)",
+		"albumTitle": "The Hits  From His Smokie & Solo Years (2-CD) (5051865507123)",
 		"artist": "Chris Norman",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601060",
 		"price": "15,00 kr.",
@@ -2797,22 +2741,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512221",
 		"price": "10,00 kr.",
 		"quality": "K-4",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "On The Beach (2292-42375-2)",
-		"artist": "Chris Rea",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510098",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Road To Hell",
-		"artist": "Chris Rea",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512222",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -3200,38 +3128,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Bitter Suites To Succubi (spt-15207-2)",
-		"artist": "Cradle Of Faith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512235",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Godspeed On The Devil's Thunder (2-CD) (papcover)",
-		"artist": "Cradle Of Faith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512237",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Nymphetamine + 6 bonus (2-CD)",
-		"artist": "Cradle Of Faith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512238",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Thornography",
-		"artist": "Cradle Of Faith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512239",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Born To Do It",
 		"artist": "Craig David",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603111",
@@ -3427,6 +3323,14 @@
 		"albumTitle": "Amanti Eroi",
 		"artist": "Daniele Stefani",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509091",
+		"price": "5,00 kr.",
+		"quality": "K-2",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Sommerens Danske Sange (pccd 8062)",
+		"artist": "Danmarks Radios Pigekor",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601076",
 		"price": "5,00 kr.",
 		"quality": "K-2",
 		"type": "Album"
@@ -5817,7 +5721,7 @@
 	},
 	{
 		"albumTitle": "Singing The Glory Down",
-		"artist": "Good Suns",
+		"artist": "Good Sons",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602119",
 		"price": "10,00 kr.",
 		"quality": "K-3",
@@ -6541,38 +6445,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512341",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "A Sense Of Purpose (1-CD/1-DVD) (digipack)",
-		"artist": "In Flames",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601288",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Come Clarity (1-CD/1-DVD) (digipack)",
-		"artist": "In Flames",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601289",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Reroute To Remain",
-		"artist": "In Flames",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601290",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Soundtrack To Your Escape (digipack)",
-		"artist": "In Flames",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601291",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -9024,14 +8896,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Soul Searching Sun (digipack)",
-		"artist": "Life Of Agony",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602183",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Silent Majority",
 		"artist": "Life Sex & Death",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509274",
@@ -10552,14 +10416,6 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Back For Good",
-		"artist": "Modern Talking",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510329",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Persona",
 		"artist": "Mokira",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512430",
@@ -10748,46 +10604,6 @@
 		"artist": "Muddy Waters",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601430",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "By The People, For The People",
-		"artist": "Mudvayne",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602248",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "L.D. 50",
-		"artist": "Mudvayne",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602249",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Lost And Found",
-		"artist": "Mudvayne",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602250",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The Beginning Of All Things To End (cover er svagt falmet)",
-		"artist": "Mudvayne",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602251",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "The End Of All Things To Come (2-CD)",
-		"artist": "Mudvayne",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602252",
-		"price": "25,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -11077,14 +10893,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602276",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Bleach",
-		"artist": "Nirvana",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602279",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -11472,43 +11280,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Cowboys From Hell (cover er svagt falmet)",
-		"artist": "Pantera",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602297",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Far Beyond Driven",
-		"artist": "Pantera",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602298",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Reinventing The Steel",
-		"artist": "Pantera",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602299",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "The Great Southern Trendkill",
 		"artist": "Pantera",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602300",
 		"price": "20,00 kr.",
 		"quality": "K-2",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Vulgar Display Of Power (cover er svagt falmet)",
-		"artist": "Pantera",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602302",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
@@ -12633,7 +12409,7 @@
 	},
 	{
 		"albumTitle": "A Perfect Match",
-		"artist": "Real Thing With The Bohuslän Big Band",
+		"artist": "Real Thing with The Bohuslän Big Band",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508440",
 		"price": "10,00 kr.",
 		"quality": "K-2",
@@ -12731,7 +12507,7 @@
 		"albumTitle": "Mine Favoritter (24190-2)",
 		"artist": "Richard Ragnvald",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603419",
-		"price": "10,00 kr.",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
 	},
@@ -12741,6 +12517,14 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603421",
 		"price": "10,00 kr.",
 		"quality": "K-2",
+		"type": "Album"
+	},
+	{
+		"albumTitle": "Mit Stjernetegn",
+		"artist": "Richard Ragnvald",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603420",
+		"price": "5,00 kr.",
+		"quality": "K-3",
 		"type": "Album"
 	},
 	{
@@ -13707,14 +13491,6 @@
 		"albumTitle": "Surfacing",
 		"artist": "Sarah McLachlan",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12505312",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "Life Goes On",
-		"artist": "Sash",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508458",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album"
@@ -15552,27 +15328,11 @@
 		"type": "Album"
 	},
 	{
-		"albumTitle": "Hypnotize (digipack)",
-		"artist": "System Of A Down",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602436",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album"
-	},
-	{
 		"albumTitle": "Steal This Album! (uden front cover)",
 		"artist": "System Of A Down",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602437",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album"
-	},
-	{
-		"albumTitle": "System Of A Down (1) (491209 2)",
-		"artist": "System Of A Down",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602438",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album"
 	},
 	{
