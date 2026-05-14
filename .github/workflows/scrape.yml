@@ -20,6 +20,7 @@ jobs:
       run: |-
         deno run \
           --allow-net \
+          --allow-env \
           --allow-write=./cds.json \
           --allow-read \
           index.ts
