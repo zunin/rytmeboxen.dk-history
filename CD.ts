@@ -3,7 +3,6 @@ import type { HistoryEntry } from "./HistoryEntry.ts";
 
 export class CD {
   formatter: Intl.NumberFormat;
-
   historyEntry: HistoryEntry | null = null;
 
   getArtistName(text: string): { artist: string; artistNameRemainder: string } {

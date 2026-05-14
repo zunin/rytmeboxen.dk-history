@@ -21,6 +21,7 @@ jobs:
         deno run \
           --allow-net \
           --allow-write=./cds.json \
+          --allow-read \
           index.ts
     - name: Commit and push if it changed
       run: |-

@@ -1,0 +1,20 @@
+# Deno
+.deno/
+deno.lock
+
+# Dependencies
+node_modules/
+
+# Output data (generated)
+cds.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

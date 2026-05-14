@@ -2,6 +2,7 @@
   "nodeModulesDir": "auto",
   "imports": {
     "@std/async": "jsr:@std/async@^1.0.6",
-    "@std/assert": "jsr:@std/assert@^1.0.12"
+    "@std/assert": "jsr:@std/assert@^1.0.12",
+    "musicbrainz-api": "npm:musicbrainz-api@0.21.0"
   }
 }
