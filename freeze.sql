@@ -16,11 +16,40 @@ COPY (
 -- Step 2: Attach the DuckLake catalog (creates the file if it doesn't exist)
 ATTACH 'ducklake:rytmeboxen.ducklake' AS lake (DATA_PATH 'parquet/');
 
--- Step 3: First run only — create the table schema from the Parquet structure
-CREATE TABLE IF NOT EXISTS lake.cds AS
-    SELECT * FROM 'parquet/cds-{{DATE}}.parquet'
-    WITH NO DATA;
+-- Step 3: Ensure the table exists with the correct schema.
+-- We use VARCHAR for all musicbrainz fields. DuckDB's Parquet reader returns
+-- inconsistent types (BLOB vs VARCHAR) for nested strings, so we cast on insert.
+DROP TABLE IF EXISTS lake.cds;
+CREATE TABLE lake.cds (
+    artist VARCHAR,
+    albumTitle VARCHAR,
+    price VARCHAR,
+    origin VARCHAR,
+    quality VARCHAR,
+    type VARCHAR,
+    musicbrainz STRUCT(
+        releaseGroupId VARCHAR,
+        artist VARCHAR,
+        albumTitle VARCHAR,
+        type VARCHAR
+    )
+);
 
--- Step 4: Register the new Parquet file in the lake (metadata only, no data copy).
--- Each file has a unique date-based name, so duplicate registration is impossible.
-CALL ducklake_add_data_files('lake', 'cds', 'parquet/cds-{{DATE}}.parquet');
+-- Step 4: Insert all snapshots into the lake, casting nested struct fields to VARCHAR.
+-- DuckDB's Parquet reader mixes BLOB and VARCHAR for nested strings, so we normalize
+-- them on insert. This works for both migration (all files) and fresh runs.
+INSERT INTO lake.cds
+SELECT
+    artist,
+    albumTitle,
+    price,
+    origin,
+    quality,
+    type,
+    struct_pack(
+        releaseGroupId := musicbrainz.releaseGroupId::VARCHAR,
+        artist := musicbrainz.artist::VARCHAR,
+        albumTitle := musicbrainz.albumTitle::VARCHAR,
+        type := musicbrainz.type::VARCHAR
+    ) AS musicbrainz
+FROM 'parquet/cds-*.parquet';
