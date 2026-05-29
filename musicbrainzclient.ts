@@ -159,7 +159,25 @@ export class MusicBrainzClient {
 
             const [searchResult] = sortedReleaseGroupSearchResult;
             searchResult["primary-type"];
-            if (searchResult) {
+            if (searchResult && searchResult.score >= 70) {
+                const matchedArtist = searchResult["artist-credit"]
+                    .map((x) => x.artist.name)
+                    .join(", ");
+                
+                if (matchedArtist === "Various Artists" || matchedArtist === "[unknown]") {
+                    console.warn(
+                        `[queryArtistForReleaseGroup] Skipping generic artist "${matchedArtist}" for "${entry.artist}"`,
+                    );
+                    return null;
+                }
+                
+                const isArtistMatch = this.isArtistMatch(entry.artist, artist);
+                if (!isArtistMatch) {
+                    console.warn(
+                        `[queryArtistForReleaseGroup] Artist mismatch: "${entry.artist}" vs "${matchedArtist}", skipping`,
+                    );
+                    return null;
+                }
                 await delay(200);
                 const hit = {
                     ...entry,
@@ -225,6 +243,41 @@ export class MusicBrainzClient {
             .map((a) => a.name)
             .sort(compareSimilarity(cdArtist))
             .map((name) => artists.filter((a) => a.name === name)[0]);
+    }
+
+    private isArtistMatch(entryArtist: string, artist: IArtistMatch): boolean {
+        const normalize = (str: string) =>
+            str
+                .toUpperCase()
+                .trim()
+                .replace(/[-‐‑−–—]/g, "-")
+                .replace(/\s+/g, " ")
+                .replace(/\b&\b/g, " AND ")
+                .replace(/'/g, "");
+        
+        const normalizedEntry = normalize(entryArtist);
+        const normalizedArtistName = normalize(artist.name);
+        
+        if (normalizedEntry === normalizedArtistName) {
+            return true;
+        }
+        
+        if (normalizedEntry.includes(normalizedArtistName) || normalizedArtistName.includes(normalizedEntry)) {
+            return true;
+        }
+        
+        const aliases = artist.aliases ?? [];
+        for (const alias of aliases) {
+            const normalizedAlias = normalize(alias.name);
+            if (normalizedEntry === normalizedAlias) {
+                return true;
+            }
+            if (normalizedEntry.includes(normalizedAlias) || normalizedAlias.includes(normalizedEntry)) {
+                return true;
+            }
+        }
+        
+        return false;
     }
 
     /**
