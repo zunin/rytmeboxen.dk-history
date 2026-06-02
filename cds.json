@@ -4307,20 +4307,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Bleed The Fifth",
-		"artist": "Divine Heresy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601121",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8f79f88c-6e15-3db1-84e1-01acd3023321",
-			"albumTitle": "Bleed the Fifth",
-			"artist": "Divine Heresy",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Divinyls (4) (cdvus 30)",
 		"artist": "Divinyls",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602068",
@@ -4426,15 +4412,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601132",
 		"price": "10,00 kr.",
 		"quality": "K-1",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "A Collection (6-CD-box) (8122797626)",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605162",
-		"price": "90,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -7188,20 +7165,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mister Asylum",
-		"artist": "Highly Suspect",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601277",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7f92331d-7447-4867-8766-a91ebcade956",
-			"albumTitle": "Mister Asylum",
-			"artist": "Highly Suspect",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "The Boy Who Died Wolf",
@@ -17403,20 +17366,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Under Reprisal",
-		"artist": "Threat Signal",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602455",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "85e86a1a-6ec3-339e-b002-9f848f286265",
-			"albumTitle": "Under Reprisal",
-			"artist": "Threat Signal",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Honeyburst",
 		"artist": "Tim Christensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502619",
@@ -19020,24 +18969,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Absolute Greatest Love Songs (2-CD) (88697067312)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402010",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Absolute Hits Of The 50's (2-CD) (8461192)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22601004",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Absolute Let's Dance, Opus 2",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22407007",
@@ -19169,15 +19100,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408004",
 		"price": "8,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Beat,Twist & Rock 'n' Roll (2-CD-box) (466973-2)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22601007",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -19461,15 +19383,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Dansk Melodi Grand Prix 2010",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22312026",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Diana, Princess Of Wales  Tribute (2-CD) (489333 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402061",
@@ -19713,7 +19626,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Jul Med Dansk Slagerparade  10 Dejlige Julesange (tewacd 2110) (Papcover)",
+		"albumTitle": "Jul Med Dansk Slagerparade  10 Dejlige Julesange (tewacd 2110) (papcover)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505022",
 		"price": "5,00 kr.",
@@ -19731,7 +19644,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Julens Dejligste Sange  Ude Og Hjemme (uhjul 99-1) (Papcover)",
+		"albumTitle": "Julens Dejligste Sange  Ude Og Hjemme (uhjul 99-1) (papcover)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505023",
 		"price": "5,00 kr.",
@@ -19740,7 +19653,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Julens Sange  Ude Og Hjemme 2002 (Papcover)",
+		"albumTitle": "Julens Sange  Ude Og Hjemme 2002 (papcover)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505024",
 		"price": "5,00 kr.",
@@ -19956,7 +19869,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Make Some Noise  The Amnesty International Campaign To Save Darfur  Presents John Lennon (2-CD) (9362-44963-2) (papcover)",
+		"albumTitle": "Make Some Noise  The Amnesty International Campaign To Save Darfur  Presents John Lennon (2-CD) (9362-44963-2) (spec.cover)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22103078",
 		"price": "5,00 kr.",
@@ -19974,7 +19887,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Masterpieces Of Rock (8712155 005589) (Papcover)",
+		"albumTitle": "Masterpieces Of Rock (8712155 005589) (pap1)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505031",
 		"price": "5,00 kr.",
@@ -19983,16 +19896,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Mega Jukebox Top 100, Volume 2 (4-CD-box) (01 9140.6)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22108061",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Merry Christmas (8712155 041211) (Papcover)",
+		"albumTitle": "Merry Christmas (8712155 041211) (papcover)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505032",
 		"price": "5,00 kr.",
@@ -20032,15 +19936,6 @@
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#42-2508",
 		"price": "10,00 kr.",
-		"quality": "K-1",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mojo Present: I Just Cant Be Happy Today (September 2017) (Papcover) (NY i folie)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505035",
-		"price": "5,00 kr.",
 		"quality": "K-1",
 		"type": "Album",
 		"musicbrainz": {}
@@ -20559,7 +20454,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Smart Choice Music  The UK's Americana CD & DVD Store (Promo) (94922966087) (Papcover) (NY i folie)",
+		"albumTitle": "Smart Choice Music  The UK's Americana CD & DVD Store (Promo) (94922966087) (papcover) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502075",
 		"price": "5,00 kr.",
@@ -21126,15 +21021,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Trucker & Country Für Unterwegs (3-CD-box) (cd 312.529) (NY i folie)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22203041",
-		"price": "5,00 kr.",
-		"quality": "K-1",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Tuning Hitz, Volume 3 (1-CD/1-DVD) (tmc 156410) (NY CD)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22306073",
@@ -21297,7 +21183,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Zeit Für Ballett-Music (2-CD) (papcover) (0825646-6259-2-5)",
+		"albumTitle": "Zeit Für Ballett-Music (2-CD) (spec.cover) (0825646-6259-2-5)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501056",
 		"price": "5,00 kr.",
@@ -21324,7 +21210,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Everywhere (Papcover)",
+		"albumTitle": "Everywhere (papcover)",
 		"artist": "Single / Maxi  Adam Beverly",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22302036",
 		"price": "5,00 kr.",
@@ -21477,7 +21363,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Julens Dejlige Sange (Hjemmet) (Papcover)",
+		"albumTitle": "Julens Dejlige Sange (Hjemmet) (papcover)",
 		"artist": "Single / Maxi  Gustav Winckler",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305094",
 		"price": "5,00 kr.",
@@ -21504,7 +21390,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Free Sampler (Papcover)",
+		"albumTitle": "Free Sampler (papcover) (NY i folie)",
 		"artist": "Single / Maxi  Jewel",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22409046",
 		"price": "5,00 kr.",
@@ -21540,7 +21426,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Kandis Jul (Papcover)",
+		"albumTitle": "Kandis Jul (papcover)",
 		"artist": "Single / Maxi  Kandis",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402133",
 		"price": "5,00 kr.",
@@ -21549,7 +21435,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Lev Nu Livet (Papcover)",
+		"albumTitle": "Lev Nu Livet (papcover)",
 		"artist": "Single / Maxi  Kandis",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402134",
 		"price": "5,00 kr.",
@@ -21558,13 +21444,18 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "3 Sange Fra Det Nye Album + 2 Store Klassikere (Familie Journalen) (9931242) (Papcover)",
+		"albumTitle": "3 Sange Fra Det Nye Album + 2 Store Klassikere (Familie Journalen) (9931242) (papcover)",
 		"artist": "Single / Maxi  Kim Larsen & Kjukken",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305100",
-		"price": "10,00 kr.",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505079",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Single",
-		"musicbrainz": {}
+		"musicbrainz": {
+			"releaseGroupId": "4f3cb056-6518-4192-a9c9-eea092f73d28",
+			"albumTitle": "self-titled",
+			"artist": "Bells Larsen",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Hockey Og Rock",
@@ -21606,15 +21497,6 @@
 		"albumTitle": "Nothingness",
 		"artist": "Single / Maxi  Living Colour",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404169",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Endless Love (Papcover)",
-		"artist": "Single / Maxi  Luther Vandross & Mariah Carey",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505083",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Single",
@@ -21689,7 +21571,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "De Største Hits + Helt Nyt Nummer (Hjemmet) (Papcover)",
+		"albumTitle": "De Største Hits + Helt Nyt Nummer (Hjemmet) (papcover)",
 		"artist": "Single / Maxi  Peter Belli",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305102",
 		"price": "5,00 kr.",
@@ -21915,7 +21797,7 @@
 		}
 	},
 	{
-		"albumTitle": "Don't Believe (Papcover)",
+		"albumTitle": "Don't Believe (papcover)",
 		"artist": "Single / Maxi  Zididada",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22305109",
 		"price": "5,00 kr.",
