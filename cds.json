@@ -132,15 +132,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Alannah Myles (1) (7567-81956-2)",
-		"artist": "Alannah Myles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502010",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Rockinghorse",
 		"artist": "Alannah Myles",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502011",
@@ -1288,15 +1279,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Best Of The Best (24082-2)",
-		"artist": "Bellamy Brothers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502051",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Welcome To The Cruel World",
 		"artist": "Ben Harper",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507053",
@@ -1392,15 +1374,6 @@
 		"artist": "Betty Boo",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410094",
 		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hjerte Til Salg (2-CD) (9714-02)",
-		"artist": "Bifrost",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605049",
-		"price": "25,00 kr.",
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
@@ -2439,15 +2412,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The River (2-CD)",
-		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503055",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Tunnel Of Love",
 		"artist": "Bruce Springsteen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503056",
@@ -2782,20 +2746,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Razorblade Suitcase",
-		"artist": "Bush",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410153",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fa1bffd2-e990-3d24-adc8-cbcc8edf49bc",
-			"albumTitle": "Razorblade Suitcase",
-			"artist": "Bush",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "A Present For Everyone",
@@ -4219,20 +4169,6 @@
 		}
 	},
 	{
-		"albumTitle": "Brothers In Arms",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605150",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b02f651e-32a1-30ae-bc23-070b59170278",
-			"albumTitle": "Brothers in Arms",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Communiqué",
 		"artist": "Dire Straits",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605151",
@@ -4624,20 +4560,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hotel California (7559-60509-2)",
-		"artist": "Eagles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605178",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "91bf707c-6c33-4efd-83ca-e4c88f14bcaa",
-			"albumTitle": "Hotel California",
-			"artist": "Eagles",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Hotel California (7559-60509-2)",
@@ -8873,20 +8795,6 @@
 		}
 	},
 	{
-		"albumTitle": "Justified",
-		"artist": "Justin Timberlake",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512360",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "424620c6-e416-3ce8-bfcc-d5c59952456d",
-			"albumTitle": "Justified",
-			"artist": "Justin Timberlake",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "16 Hits (4651cd)",
 		"artist": "Jørgen Ingmann",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501512",
@@ -9501,15 +9409,6 @@
 			"artist": "Kill II This",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Sam's Town",
-		"artist": "Killers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409194",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Drømmeland",
@@ -11142,20 +11041,6 @@
 		}
 	},
 	{
-		"albumTitle": "Mechanical Animals",
-		"artist": "Marilyn Manson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602219",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0b30588f-b838-3aa8-a0b5-3cd07a45902e",
-			"albumTitle": "Mechanical Animals",
-			"artist": "Marilyn Manson",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Smells Like Children (492 641-2)",
 		"artist": "Marilyn Manson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501568",
@@ -11774,15 +11659,6 @@
 		"albumTitle": "Hits (72438 4144821)",
 		"artist": "Mike & The Mechanics",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406235",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "M6",
-		"artist": "Mike & The Mechanics",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406236",
 		"price": "2,00 kr.",
 		"quality": "K-4",
 		"type": "Album",
@@ -13103,24 +12979,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Sheriff Songs (digipack)",
-		"artist": "Peter Viskinde",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503480",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Under The Moon",
-		"artist": "Peter Viskinde",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411285",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Both Sides",
 		"artist": "Phil Collins",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503485",
@@ -14155,20 +14013,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Sufferer & The Witness",
-		"artist": "Rise Against",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602340",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "005b84a0-ecd6-39f1-b2f6-6eb48756b268",
-			"albumTitle": "The Sufferer & The Witness",
-			"artist": "Rise Against",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Saturday Night Sunday Morning",
@@ -15321,24 +15165,6 @@
 		}
 	},
 	{
-		"albumTitle": "2",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503640",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "3",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503641",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "13",
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411456",
@@ -15389,24 +15215,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501665",
 		"price": "15,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Da Mor Var Dreng",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12404309",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Shu-Bi-40",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503649",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -17422,15 +17230,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Twenty Four Seven",
-		"artist": "Tina Turner",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410790",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Wildest Dreams",
 		"artist": "Tina Turner",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411589",
@@ -18522,15 +18321,6 @@
 			"artist": "Wham!",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "To Lose My Life",
-		"artist": "White Lies",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408620",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Astro-Creep: 2000",
