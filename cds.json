@@ -36,29 +36,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Highway To Hell",
-		"artist": "AC/DC",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605002",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f85647ec-a69b-3b0a-ad04-bb6076c4dcf1",
-			"albumTitle": "Highway to Hell",
-			"artist": "AC/DC",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Live (2-CD-box) (digipack ) (510 773-2)",
-		"artist": "AC/DC",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605003",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Happy Nation  The Album",
 		"artist": "Ace Of Base",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603002",
@@ -1201,47 +1178,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Live At The BBC (2-CD-box) (8 31796 2)",
-		"artist": "Beatles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512095",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Beatles / 1962-1966 (2-CD) (red album) (spec.cover)",
-		"artist": "Beatles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605045",
-		"price": "40,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Beatles / 1967-1970 (2-CD) (blue album) (spec.cover)",
-		"artist": "Beatles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605046",
-		"price": "35,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "With The Beatles",
-		"artist": "Beatles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512097",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a63dc65f-09f2-359b-a10e-648f00ecd96c",
-			"albumTitle": "With The Beatles",
-			"artist": "The Beatles",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Real",
 		"artist": "Belinda Carlisle",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602027",
@@ -2157,20 +2093,6 @@
 		}
 	},
 	{
-		"albumTitle": "Crush",
-		"artist": "Bon Jovi",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512159",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6024045a-2d30-3ab5-8eb2-b6e5f61a78d3",
-			"albumTitle": "Crush",
-			"artist": "Bon Jovi",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Lost Highway",
 		"artist": "Bon Jovi",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412197",
@@ -2178,20 +2100,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "These Days",
-		"artist": "Bon Jovi",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601037",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0dd13464-edfd-3466-bb16-f63ca268ab37",
-			"albumTitle": "These Days",
-			"artist": "Bon Jovi",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Heart & Soul  13 Rock Classics (5350092)",
@@ -2389,65 +2297,10 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Born In The U.S.A.",
-		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605081",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e476a451-bfb1-4756-98e8-08bd671021cf",
-			"albumTitle": "Born in the U.S.A.",
-			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Essential (2-CD) (88697973592)",
-		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410140",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Tunnel Of Love",
-		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503056",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Wrecking Ball (spec.cover)",
-		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605086",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
-			"albumTitle": "[untitled]",
-			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "18 Til I Die",
 		"artist": "Bryan Adams",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412243",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Anthology 1980-2005 (2-CD) (9875797)",
-		"artist": "Bryan Adams",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605087",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -2506,20 +2359,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Reckless",
-		"artist": "Bryan Adams",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510078",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fe1d2bcd-cdb6-333b-b2c6-8389e5890f04",
-			"albumTitle": "Reckless",
-			"artist": "Bryan Adams",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "So Far So Good",
@@ -3522,15 +3361,6 @@
 		}
 	},
 	{
-		"albumTitle": "The Very Best Of (523 752-2)",
-		"artist": "Cream",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512242",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Creamy (5221112)",
 		"artist": "Creamy",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412420",
@@ -3544,33 +3374,6 @@
 		"artist": "Creamy",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406107",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Best Of  24 CCR Classics (fan-30870-02)",
-		"artist": "Creedence Clearwater Revival",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605121",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Chronicle  The 20 Greatest Hits (cdccr 2)",
-		"artist": "Creedence Clearwater Revival",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605122",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Chronicle, Volume 2  20 Great CCR Classics (cdccr 3)",
-		"artist": "Creedence Clearwater Revival",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605123",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -4023,15 +3826,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Laila (531 820-2)",
-		"artist": "Derek & The Dominos",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601104",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Supernatural",
 		"artist": "Des'ree",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410269",
@@ -4146,15 +3940,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Alchemy  Dire Straits Live (2-CD) (818 243-2)",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605149",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Brothers In Arms",
 		"artist": "Dire Straits",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605150",
@@ -4164,34 +3949,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "b02f651e-32a1-30ae-bc23-070b59170278",
 			"albumTitle": "Brothers in Arms",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Communiqué",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605151",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7e1ada24-6fb0-3b23-a671-9cdaf865c515",
-			"albumTitle": "Communiqué",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Money For Nothing",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605155",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8af3b92c-34b7-3182-b132-1b952637f7a6",
-			"albumTitle": "Money for Nothing",
 			"artist": "Dire Straits",
 			"type": "Album"
 		}
@@ -4211,20 +3968,6 @@
 		}
 	},
 	{
-		"albumTitle": "On The Night",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605157",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2f8a4b5a-f4f4-364b-b4ac-74fbc9c14b8c",
-			"albumTitle": "On the Night",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Graduate",
 		"artist": "Diva",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406151",
@@ -4238,24 +3981,6 @@
 		"artist": "Divinyls",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602068",
 		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Dizzy Mizz Lizzy (1)",
-		"artist": "Dizzy Mizz Lizzy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603135",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Best Of / Live in Aarhus '96 (2-CD) (5398472)",
-		"artist": "Dizzy Mizz Lizzy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605159",
-		"price": "25,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -4384,15 +4109,6 @@
 		"artist": "Doors",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605165",
 		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Very Best Of The Doors (2-CD) (081227999582)",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605167",
-		"price": "25,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -4549,43 +4265,6 @@
 			"releaseGroupId": "b6c3799f-0646-4619-a25c-95653181a8bb",
 			"albumTitle": "Untitled",
 			"artist": "Until the Dead Walk",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Eagles Live (2-CD-box) (960 591-2)",
-		"artist": "Eagles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605176",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hotel California (7559-60509-2)",
-		"artist": "Eagles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605178",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "91bf707c-6c33-4efd-83ca-e4c88f14bcaa",
-			"albumTitle": "Hotel California",
-			"artist": "Eagles",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Long Run (7559-60560-2)",
-		"artist": "Eagles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605180",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1a265de4-136d-3414-adf5-b0913ca2aa15",
-			"albumTitle": "The Long Run",
-			"artist": "Eagles",
 			"type": "Album"
 		}
 	},
@@ -5170,15 +4849,6 @@
 		}
 	},
 	{
-		"albumTitle": "Complete Clapton (2-CD) (1746193)",
-		"artist": "Eric Clapton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501259",
-		"price": "30,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "From The Cradle",
 		"artist": "Eric Clapton",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501260",
@@ -5283,29 +4953,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Time Pieces  The Best Of (800 014-2) (cover er lidt slidt)",
-		"artist": "Eric Clapton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601183",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Unplugged (9362-45024-2)",
-		"artist": "Eric Clapton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501265",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "61c4a210-6e90-3d41-b6c1-fd2c7e4fb6ac",
-			"albumTitle": "Unplugged",
-			"artist": "Eric Clapton",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Unplugged (9362-45024-2)",
