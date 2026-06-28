@@ -482,15 +482,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "De Store & De Stille (2-CD) (cmc 6464-2)",
-		"artist": "Anne Dorte Michelsen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605019",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Så Stille Som Sne",
 		"artist": "Anne Dorte Michelsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406013",
@@ -2765,6 +2756,20 @@
 			"releaseGroupId": "29bf2002-9d33-336f-a57b-0a2e8d524616",
 			"albumTitle": "[untitled]",
 			"artist": "SSAB Songs",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "For The Love Of You",
+		"artist": "Candy Dulfer",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507089",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d658dcff-1918-3f5a-8af2-b1b7d6d054cc",
+			"albumTitle": "For the Love of You",
+			"artist": "Candy Dulfer",
 			"type": "Album"
 		}
 	},
@@ -8116,24 +8121,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Som Han Var, Volume 2",
-		"artist": "John Mogensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411086",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Som Han Var, Volume 3",
-		"artist": "John Mogensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512353",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Very Best Of (5 703976 100174) (NY CD)",
 		"artist": "John Paul Young",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601338",
@@ -11071,15 +11058,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405494",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Scandinavian Moods",
-		"artist": "Michala Petri",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503304",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
