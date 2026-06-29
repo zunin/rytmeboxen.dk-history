@@ -2667,20 +2667,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "A Present For Everyone",
-		"artist": "Busted",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405164",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0304fcea-aa44-39a1-88bd-63806e85298a",
-			"albumTitle": "A Present for Everyone",
-			"artist": "Busted",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Afzelius",
 		"artist": "Bygrem & Råstam",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512192",
@@ -14127,20 +14113,6 @@
 		}
 	},
 	{
-		"albumTitle": "Supernatural",
-		"artist": "Santana",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603455",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "70e23797-9da2-33bb-be6f-a85e7b581b69",
-			"albumTitle": "Supernatural",
-			"artist": "Santana",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "La Luna",
 		"artist": "Sarah Brightman",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411432",
@@ -14613,15 +14585,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Stærk Tobak (3-CD-box) (4615cd)",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603489",
-		"price": "15,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Where Are My Shoes",
 		"artist": "Sidsel Ben Semmane",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501667",
@@ -14663,15 +14626,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605419",
 		"price": "15,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Definitive Simon & Garfunkel (mood cd21)",
-		"artist": "Simon & Garfunkel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12508474",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
