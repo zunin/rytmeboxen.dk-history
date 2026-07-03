@@ -2377,13 +2377,18 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Live Live Live (397 094-2)",
+		"albumTitle": "Into The Fire",
 		"artist": "Bryan Adams",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603070",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602043",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
-		"musicbrainz": {}
+		"musicbrainz": {
+			"releaseGroupId": "21708a32-5788-34fa-b43d-8e548ae6d7f8",
+			"albumTitle": "Into the Fire",
+			"artist": "Bryan Adams",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "So Far So Good",
@@ -3509,34 +3514,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Special",
-		"artist": "D.A.D.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605129",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
-			"albumTitle": "Woman Titles",
-			"artist": "Hot Dad",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Early Years (2-CD) (4029758216927) (består af de 2 første studie album + Standing On The Never Ever (EP) + Unreleased tracks) (digipack)",
-		"artist": "D.A.D.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605130",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
-			"albumTitle": "Woman Titles",
-			"artist": "Hot Dad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Greatest Hits (471861 2)",
 		"artist": "Dan Fogelberg",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501090",
@@ -4597,38 +4574,11 @@
 		}
 	},
 	{
-		"albumTitle": "Greatest Hits 1970-2002 (2-CD) (440 063 478-2)",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607073",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Made In England",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410312",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Big Picture",
 		"artist": "Elton John",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406067",
 		"price": "2,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The One",
-		"artist": "Elton John",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501224",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -6479,34 +6429,6 @@
 			"releaseGroupId": "abcc21e4-16fc-31a3-864b-4d69ae81e2b4",
 			"albumTitle": "Dragging a Dead Deer up a Hill",
 			"artist": "Grouper",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Don't Give Me Names",
-		"artist": "Guano Apes",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605248",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9a3641db-6324-3db1-a406-075a2336e8bb",
-			"albumTitle": "Don’t Give Me Names",
-			"artist": "Guano Apes",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Proud Like A God",
-		"artist": "Guano Apes",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605249",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8883ab44-931f-3d27-acfd-06df1dda4a49",
-			"albumTitle": "Proud Like a God",
-			"artist": "Guano Apes",
 			"type": "Album"
 		}
 	},
@@ -10812,9 +10734,9 @@
 	{
 		"albumTitle": "Friværdi",
 		"artist": "Magtens Korridorer",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607165",
-		"price": "20,00 kr.",
-		"quality": "K-3",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607166",
+		"price": "10,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {
 			"releaseGroupId": "80196e8e-9f05-3737-a358-4ac3cd47bb12",
@@ -15879,15 +15801,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Language Of The Heart",
-		"artist": "Sanne Salomonsen",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406307",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Sanne (1989)",
 		"artist": "Sanne Salomonsen",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409076",
@@ -16475,15 +16388,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "13",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411456",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "14",
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502597",
@@ -16590,9 +16494,9 @@
 	{
 		"albumTitle": "The Essential (2-CD) (88697751022)",
 		"artist": "Simon & Garfunkel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607391",
-		"price": "20,00 kr.",
-		"quality": "K-3",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607392",
+		"price": "15,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -17511,7 +17415,7 @@
 	{
 		"albumTitle": "Classic  The Universal Masters Collection (112672-2)",
 		"artist": "Steppenwolf",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607411",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607412",
 		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
