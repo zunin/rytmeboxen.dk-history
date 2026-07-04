@@ -1688,15 +1688,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Debut",
-		"artist": "Björk",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410107",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Kun For Sjov",
 		"artist": "Bjørn & Johnny",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409048",
@@ -3387,15 +3378,6 @@
 		"artist": "Craig David",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502099",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Very Best Of (523 752-2)",
-		"artist": "Cream",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512242",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -6919,15 +6901,6 @@
 		}
 	},
 	{
-		"albumTitle": "Greatest Hits (2-CD) (7243 582012 2 2)",
-		"artist": "Hollies",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501453",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Blast",
 		"artist": "Holly Johnson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501459",
@@ -8905,20 +8878,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hopes And Fears",
-		"artist": "Keane",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12507310",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b74d25cf-dcb5-3d19-992c-964fc0c72ba7",
-			"albumTitle": "Hopes and Fears",
-			"artist": "Keane",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Perfect Symmetry",
@@ -12291,20 +12250,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Honey I'm Home",
-		"artist": "Nanna",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510337",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f9409c00-dae8-309b-899b-ec192cdf717b",
-			"albumTitle": "Honey I'm home",
-			"artist": "Nanna",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Rocking Horse",
@@ -18963,15 +18908,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Traveling Vilburys Collection (2-CD/1-DVD) (r2 167804)",
-		"artist": "Traveling Wilburys",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603574",
-		"price": "35,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Vol. 1",
 		"artist": "Traveling Wilburys",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607454",
@@ -19980,15 +19916,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406363",
 		"price": "2,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Før Vi Fik Børn  17 Charmerende Sange Fra 1980-83",
-		"artist": "Voxpop",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607493",
-		"price": "20,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -26775,15 +26702,6 @@
 		"albumTitle": "The Gift",
 		"artist": "Susan Boyle",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409082",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Synger Evert Taube",
-		"artist": "Sven-Bertil Taube",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406335",
 		"price": "2,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
