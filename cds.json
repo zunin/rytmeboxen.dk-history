@@ -15272,20 +15272,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Beautiful World",
-		"artist": "Take That",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605440",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "39d2f154-d773-3c51-9954-8ef86657766a",
-			"albumTitle": "Beautiful World",
-			"artist": "Take That",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Progress",
 		"artist": "Take That",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32310259",
@@ -15293,20 +15279,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Take That & Party",
-		"artist": "Take That",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605441",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e6b8ac74-94bd-3a04-ab68-a8094740d460",
-			"albumTitle": "Take That & Party",
-			"artist": "Take That",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Once In A Lifetime  The Best Of (7 80593 2)",
