@@ -3645,20 +3645,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "L.A. Woman",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605163",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7be633bd-d1f6-3d89-8939-803ae0ed0de8",
-			"albumTitle": "L.A. Woman",
-			"artist": "The Doors",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Morrison Hotel (cover er svagt falmet)",
 		"artist": "Doors",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601136",
@@ -8391,15 +8377,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "IV (2-CD) (Deluxe Edition) (8122796446) (spec.cover)",
-		"artist": "Led Zeppelin",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605348",
-		"price": "35,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Remasters (2-CD) (7567-80415-2)",
 		"artist": "Led Zeppelin",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605349",
@@ -12889,24 +12866,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "No Security (8 46740 2)",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607340",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Singles Collection  The London Years (3-CD-set) (820 905/6/7-2)",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607344",
-		"price": "55,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Steel Wheels",
 		"artist": "Rolling Stones",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601489",
@@ -15281,15 +15240,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Once In A Lifetime  The Best Of (7 80593 2)",
-		"artist": "Talking Heads",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607431",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Stop Making Sense (522 4532)",
 		"artist": "Talking Heads",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607432",
@@ -16547,34 +16497,6 @@
 		}
 	},
 	{
-		"albumTitle": "Back On Top",
-		"artist": "Van Morrison",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603589",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0bb66830-c02a-3d93-ba43-8fc21dce98ea",
-			"albumTitle": "Back on Top",
-			"artist": "Van Morrison",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Days Like This",
-		"artist": "Van Morrison",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603590",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "defa7bc5-d4ee-36b8-a190-22b49067034c",
-			"albumTitle": "Days Like This",
-			"artist": "Van Morrison",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Down The Road",
 		"artist": "Van Morrison",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603591",
@@ -16585,20 +16507,6 @@
 			"releaseGroupId": "e3418ce7-0a9c-3b2c-ae91-42e24aedb9d2",
 			"albumTitle": "Down the Road",
 			"artist": "Van Morrison",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Irish Heartbeat",
-		"artist": "Van Morrison",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607475",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "24344dad-3fc0-39dc-b2f9-8220fe65718a",
-			"albumTitle": "Irish Heartbeat",
-			"artist": "Van Morrison, The Chieftains",
 			"type": "Album"
 		}
 	},
@@ -16637,20 +16545,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Healing Game",
-		"artist": "Van Morrison",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605459",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0fbbc213-48e1-3612-bc9d-151db8a2b18d",
-			"albumTitle": "The Healing Game",
-			"artist": "Van Morrison",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "The Healing Game",
