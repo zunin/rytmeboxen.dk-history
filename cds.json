@@ -396,15 +396,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Skibe Uden Sejl (2-CD) (200712)",
-		"artist": "Anne Grete",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409015",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Skibe Uden Sejl (4934212)",
 		"artist": "Anne Grete",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503013",
@@ -412,20 +403,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Verden Er Gal",
-		"artist": "Anne Grete med Peter Thorup",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601013",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "06a6884e-7fa1-3cb1-98fa-ce48acc73737",
-			"albumTitle": "Verden er gal",
-			"artist": "Anne Grete",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Barndommens Gade",
