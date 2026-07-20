@@ -6558,20 +6558,6 @@
 		}
 	},
 	{
-		"albumTitle": "Electric Ladyland",
-		"artist": "Jimi Hendrix Experience",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601323",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "47ba2d59-5544-34a4-b108-dc08c0956298",
-			"albumTitle": "Electric Ladyland",
-			"artist": "The Jimi Hendrix Experience",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "The Singles Collection 1984-1990 (828226-2)",
 		"artist": "Jimmy Somerville",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605280",
@@ -12849,20 +12835,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Scrapbog (9602.01)",
-		"artist": "Rugsted Kreutzfeldt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601493",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "971957c3-8502-3aab-ac15-880098c82135",
-			"albumTitle": "Scrapbog - 18 Af De Største",
-			"artist": "Rugsted & Kreutzfeldt",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Everything You See (digipack)",
 		"artist": "Runrig",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411415",
@@ -15960,20 +15932,6 @@
 		}
 	},
 	{
-		"albumTitle": "Alle Vore Håb",
-		"artist": "Tøsedrengene",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512583",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5027a83f-5f33-4f87-8c4c-8276cbd5b0f0",
-			"albumTitle": "Alle vore håb",
-			"artist": "Tøsedrengene",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Det Bedste (512 574-2)",
 		"artist": "Tøsedrengene",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503700",
@@ -18489,42 +18447,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Mr Music Hits 1996, Volume 10",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607067",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1996, Volume 11",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607068",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1996, Volume 12",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607069",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1997, Volume 1",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607070",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Mr Music Hits 1997, Volume 10",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607071",
@@ -18552,42 +18474,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Mr Music Hits 1997, Volume 2",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607074",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1997, Volume 3",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607075",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1997, Volume 4",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607076",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1997, Volume 5",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607077",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Mr Music Hits 1997, Volume 6",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607078",
@@ -18606,126 +18492,9 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Mr Music Hits 1997, Volume 8",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607080",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Mr Music Hits 1997, Volume 9",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607081",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 1",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607082",
-		"price": "5,00 kr.",
-		"quality": "K-1",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 10",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607083",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 11",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607084",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 12",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607085",
-		"price": "5,00 kr.",
-		"quality": "K-1",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 2",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607086",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 3",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607087",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 4",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607088",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 5",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607089",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 6",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607090",
-		"price": "5,00 kr.",
-		"quality": "K-1",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 7",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607091",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 8",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607092",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1998, Volume 9",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607093",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -18746,15 +18515,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607095",
 		"price": "5,00 kr.",
 		"quality": "K-1",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Mr Music Hits 1999, Volume 11",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607096",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -21157,15 +20917,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406049",
 		"price": "2,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Slow Town (digipack)",
-		"artist": "Davenport",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406129",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
