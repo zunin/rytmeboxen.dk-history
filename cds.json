@@ -96,28 +96,10 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Rockinghorse",
-		"artist": "Alannah Myles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502011",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Den Forsvundne Skat (cover er vandskadet)",
 		"artist": "Alberte",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602005",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Tju Bang Chokolademand (Det Er Mig, Der Bestemmer Her)",
-		"artist": "Alberte",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512024",
-		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -403,20 +385,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Barndommens Gade",
-		"artist": "Anne Linnet",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603021",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "91b8200d-9433-3cd4-966b-477f3bd1c3c9",
-			"albumTitle": "Barndommens Gade",
-			"artist": "Anne Linnet",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Jeg Er Jo Lige Her",
@@ -1013,20 +981,6 @@
 			"releaseGroupId": "eb453cb9-6643-318d-a578-8216980ee70a",
 			"albumTitle": "E·S·P",
 			"artist": "Bee Gees",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Real",
-		"artist": "Belinda Carlisle",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602027",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "202b4412-9b84-3b3c-b7d3-c35be92e7cc5",
-			"albumTitle": "Real",
-			"artist": "Belinda Carlisle",
 			"type": "Album"
 		}
 	},
@@ -1976,15 +1930,6 @@
 		"albumTitle": "So Far So Good",
 		"artist": "Bryan Adams",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410143",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Best Of Me (490 522-2)",
-		"artist": "Bryan Adams",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510079",
 		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Album",
@@ -3303,20 +3248,6 @@
 		}
 	},
 	{
-		"albumTitle": "Money For Nothing",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605155",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8af3b92c-34b7-3182-b132-1b952637f7a6",
-			"albumTitle": "Money for Nothing",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "On Every Street",
 		"artist": "Dire Straits",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605156",
@@ -3387,6 +3318,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406151",
 		"price": "10,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Divinyls (4) (cdvus 30)",
+		"artist": "Divinyls",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602068",
+		"price": "15,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -3899,15 +3839,6 @@
 		"albumTitle": "Collectors Gold, Volume 3 (pd 90574(3)-3)",
 		"artist": "Elvis Presley",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603157",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Elvis 30 # 1 Hits (rca 07863 68079-2)",
-		"artist": "Elvis Presley",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607075",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -5134,20 +5065,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Rabalderstræde Forever",
-		"artist": "Gasolin",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603206",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7e5465f0-73c6-36c2-a4f9-4b72d13eccd9",
-			"albumTitle": "Rabalderstræde Forever",
-			"artist": "Gasolin'",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Stakkels Jim (4)",
 		"artist": "Gasolin",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605229",
@@ -5456,29 +5373,6 @@
 		"artist": "Gudrun",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12403072",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "G n' R Lies",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605252",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b1b42d92-bbd0-349d-b2f8-ee4e6ef1bd9c",
-			"albumTitle": "G N’ R Lies",
-			"artist": "Guns N’ Roses",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Greatest Hits (0602498621080) (digipack)",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605253",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -7637,20 +7531,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Sange Fra Glemmebogen (digipack)",
-		"artist": "Kim Larsen & Kjukken",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607134",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4f3cb056-6518-4192-a9c9-eea092f73d28",
-			"albumTitle": "self-titled",
-			"artist": "Bells Larsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Kiss The Forest (Fønix)",
 		"artist": "Kim Menzer & Lars Trier",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409198",
@@ -7673,24 +7553,6 @@
 		"artist": "Kim Sjøgren & His Little Mermaid Orchestra",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501061",
 		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Love Moves",
-		"artist": "Kim Wilde",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501526",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Now & Forever (front cover er vandskadet)",
-		"artist": "Kim Wilde",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503196",
-		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -8109,15 +7971,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "De Stille Timer",
-		"artist": "Lene Siel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605351",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Før Mig Til Havet",
 		"artist": "Lene Siel",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406185",
@@ -8177,15 +8030,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406186",
 		"price": "2,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Nu Tændes Tusind Julelys",
-		"artist": "Lene Siel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410637",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -8443,29 +8287,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Kun Os To (987 307 8)",
-		"artist": "Lis Sørensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607153",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Kærtegn",
-		"artist": "Lis Sørensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607154",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "57df91e7-a6d1-3fa3-86f0-2574ddc89c31",
-			"albumTitle": "Kærtegn",
-			"artist": "Lis Sørensen",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Lis Sørensen (1) (826 392-2)",
@@ -8792,15 +8613,6 @@
 		"albumTitle": "Echoes",
 		"artist": "Maggie Reilly",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409228",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Midnight Sun",
-		"artist": "Maggie Reilly",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503222",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -11060,15 +10872,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Both Sides",
-		"artist": "Phil Collins",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503485",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "But Seriously",
 		"artist": "Phil Collins",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502567",
@@ -11076,34 +10879,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Love Songs (2-CD) (2564 61884-2)",
-		"artist": "Phil Collins",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605398",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "676aa432-21fb-43bc-ac98-efb7f6710ae8",
-			"albumTitle": "\"Untitled Compilation\" Compilation",
-			"artist": "Phil Western",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Testify",
-		"artist": "Phil Collins",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510383",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b0a928dc-45c3-3735-ad13-82f5c7cd3b04",
-			"albumTitle": "Testify",
-			"artist": "Phil Collins",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Famous, Rich & Beautiful",
@@ -15492,20 +15267,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Vol. 1",
-		"artist": "Traveling Wilburys",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607454",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7bfb7661-aef3-3f43-b625-542726cb078d",
-			"albumTitle": "Traveling Wilburys, Vol. 1",
-			"artist": "Traveling Wilburys",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "The Invisible Band",
