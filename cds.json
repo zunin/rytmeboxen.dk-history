@@ -9023,20 +9023,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Leviathan",
-		"artist": "Mastodon",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605381",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7902c486-f670-3336-9850-b4112079d9e6",
-			"albumTitle": "Leviathan",
-			"artist": "Mastodon",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "The Rose Has Teeth In The Mouth Of A Beast",
 		"artist": "Matmos",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512405",
@@ -11456,15 +11442,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409298",
 		"price": "10,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Rage Against The Machine (1)",
-		"artist": "Rage Against The Machine",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607298",
-		"price": "20,00 kr.",
-		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
