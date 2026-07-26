@@ -146,15 +146,6 @@
 		}
 	},
 	{
-		"albumTitle": "Still Me Still Now",
-		"artist": "Amy Diamond",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32408022",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Anastacia (3) (2 513471)",
 		"artist": "Anastacia",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501001",
@@ -895,15 +886,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602019",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Strike",
-		"artist": "Baseballs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412100",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -1803,29 +1785,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512166",
 		"price": "25,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Baby One More Time",
-		"artist": "Britney Spears",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602040",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "faeb8741-2ca0-3ca6-8a1a-70bab1e67c82",
-			"albumTitle": "…Baby One More Time",
-			"artist": "Britney Spears",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Greatest Hits: My Prerogative (82876 66004 2)",
-		"artist": "Britney Spears",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503053",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -3322,15 +3281,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Divinyls (4) (cdvus 30)",
-		"artist": "Divinyls",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602068",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Dizzy Mizz Lizzy (1)",
 		"artist": "Dizzy Mizz Lizzy",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603135",
@@ -4094,20 +4044,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Era (2)",
-		"artist": "Era",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602092",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fe3fd207-1d2f-34b0-a7be-05ebc1f0c613",
-			"albumTitle": "Era 2",
-			"artist": "Era",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Erann (0117312meg)",
 		"artist": "Erann DD",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607077",
@@ -4415,20 +4351,6 @@
 			"releaseGroupId": "44130482-59d9-30e7-a583-a4b689266302",
 			"albumTitle": "Tutte storie",
 			"artist": "Eros Ramazzotti",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Dying Is Your Latest Fashion",
-		"artist": "Escape The Fate",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601188",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5700fc38-daf1-3893-aba4-c38c655dd7c7",
-			"albumTitle": "Dying Is Your Latest Fashion",
-			"artist": "Escape the Fate",
 			"type": "Album"
 		}
 	},
@@ -7292,20 +7214,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Breakaway",
-		"artist": "Kelly Clarkson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605321",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0d0ddce6-a611-3dc0-923c-60ac3da72ad8",
-			"albumTitle": "Breakaway",
-			"artist": "Kelly Clarkson",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "My December",
 		"artist": "Kelly Clarkson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605322",
@@ -7613,15 +7521,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605334",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Eye To The Telescope",
-		"artist": "KT Tunstall",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503201",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -8407,15 +8306,6 @@
 		"artist": "Little Village",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502504",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Ramt I Natten",
-		"artist": "Lizzie",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502508",
-		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -9471,15 +9361,6 @@
 		"artist": "Miles Davis",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607209",
 		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Breakout (1-CD/1-DVD)",
-		"artist": "Miley Cyrus",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501584",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
