@@ -196,24 +196,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Romanza",
-		"artist": "Andrea Bocelli",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502015",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Sogno",
-		"artist": "Andrea Bocelli",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502016",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Gullin On Guitar",
 		"artist": "Andreas Pettersson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605015",
@@ -3051,15 +3033,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Laila (531 820-2)",
-		"artist": "Derek & The Dominos",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601104",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "8 Days Of Christmas",
 		"artist": "Destiny's Child",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605146",
@@ -3344,29 +3317,6 @@
 		"artist": "Dolly Parton",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607063",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Building The Perfect Beast",
-		"artist": "Don Henley",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510138",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cb763b61-26ae-3fbb-80ff-946275a4e697",
-			"albumTitle": "Building the Perfect Beast",
-			"artist": "Don Henley",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The End Of The Innocence",
-		"artist": "Don Henley",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501181",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -4425,20 +4375,6 @@
 		}
 	},
 	{
-		"albumTitle": "Be Yourself Tonight",
-		"artist": "Eurythmics",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602097",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c40266f2-4f32-3dde-a639-6672ed7a4e6c",
-			"albumTitle": "Be Yourself Tonight",
-			"artist": "Eurythmics",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Ultimate Collection (82876748412)",
 		"artist": "Eurythmics",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605208",
@@ -5046,33 +4982,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501344",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Ladies & Gentlemen: The Best Of George Michael (2-CD-Box) (491705 2)",
-		"artist": "George Michael",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607092",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Older",
-		"artist": "George Michael",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503140",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Songs From The Last Century",
-		"artist": "George Michael",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503142",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -6298,20 +6207,6 @@
 			"releaseGroupId": "d0b1e21e-cef6-4575-8d92-1afea1894ca3",
 			"albumTitle": "Axis: Bold as Love",
 			"artist": "The Jimi Hendrix Experience",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Singles Collection 1984-1990 (828226-2)",
-		"artist": "Jimmy Somerville",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605280",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8a25f10c-0435-4b14-aa38-87321c18aa8c",
-			"albumTitle": "5 Original Albums",
-			"artist": "Jimmy Smith",
 			"type": "Album"
 		}
 	},
@@ -8165,20 +8060,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Du Ka' Få Mig Til Alt",
-		"artist": "Lis Sørensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607152",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "808a2369-9041-3fed-a372-eb1b8ed2ba4f",
-			"albumTitle": "Du ka' få mig til alt",
-			"artist": "Lis Sørensen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Hjerternes Sang",
 		"artist": "Lis Sørensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503209",
@@ -8418,20 +8299,6 @@
 			"releaseGroupId": "001c2db4-68d0-34ba-80e0-992628859eba",
 			"albumTitle": "Ecstasy",
 			"artist": "Lou Reed",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Songs For Drella",
-		"artist": "Lou Reed / John Cale",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510295",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "97d100a8-e42c-38ff-8ae5-eb31331fd82b",
-			"albumTitle": "Songs for Drella",
-			"artist": "Lou Reed, John Cale",
 			"type": "Album"
 		}
 	},
@@ -11987,20 +11854,6 @@
 		}
 	},
 	{
-		"albumTitle": "Beggars Banquet",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607324",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6e672bbd-7c7f-32f8-8335-c603be99d13b",
-			"albumTitle": "Beggars Banquet",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Bridges To Babylon",
 		"artist": "Rolling Stones",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607326",
@@ -12024,20 +11877,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "0c977adb-6dd3-330c-9acb-a40d2104a539",
 			"albumTitle": "Emotional Rescue",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Exile On Main St.",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607329",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4838a3c9-fd2b-30a5-83eb-e32545b5d7fc",
-			"albumTitle": "Exile on Main St.",
 			"artist": "The Rolling Stones",
 			"type": "Album"
 		}
@@ -12747,15 +12586,6 @@
 		"artist": "Script",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411447",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "De Største Hits (2-CD) (88697618052)",
-		"artist": "Sebastian",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607374",
-		"price": "25,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -13767,15 +13597,6 @@
 		}
 	},
 	{
-		"albumTitle": "Vogt Dig For Efterligninger",
-		"artist": "Starfuckers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607405",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Set Yourself On Fire (digipack)",
 		"artist": "Stars",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605427",
@@ -14676,15 +14497,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Past Forward (3-CD/1-DVD-box)",
-		"artist": "Thomas Helmig",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607437",
-		"price": "35,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Say When",
 		"artist": "Thomas Helmig",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502617",
@@ -14708,15 +14520,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501720",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Årene Går  De Største Af De Første (74321535622)",
-		"artist": "Thomas Helmig",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607438",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -16432,19 +16235,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Songs For Drella",
+		"artist": "Lou Reed / John Cale",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510295",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "97d100a8-e42c-38ff-8ae5-eb31331fd82b",
+			"albumTitle": "Songs for Drella",
+			"artist": "Lou Reed, John Cale",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "100 Country Classics (4-CD-set) (var009/010/011/012)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502002",
 		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "100 Danske Hits (6-CD-box) (88697563262)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607002",
-		"price": "30,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
