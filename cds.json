@@ -306,6 +306,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Wonder Wheel",
+		"artist": "Ann-Louise",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#41-2506",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Hot Hot",
 		"artist": "Ann-Mette Elten",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502024",
@@ -2413,15 +2422,6 @@
 			"artist": "Chris de Burgh",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "The Hits  From His Smokie & Solo Years (2-CD) (5051865507123)",
-		"artist": "Chris Norman",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601060",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "New Light Through Old Windows  The Best Of (2292-43841-2)",
@@ -5518,15 +5518,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Whatever Gets You Through The Night",
-		"artist": "Henning Stærk",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412498",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Hjertets Vagabonder / Som Sol Og Måne (2 album på én CD)",
 		"artist": "Henrik Strube",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603228",
@@ -6293,15 +6284,6 @@
 		"albumTitle": "The Best Of (0777 7 80512 2 0)",
 		"artist": "Joe Cocker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503175",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Complete Collection (2-CD) (74321 882302)",
-		"artist": "John Denver",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509239",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -7611,20 +7593,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "I En Sommernat",
-		"artist": "Lars Lilholt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603303",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "11b0f6dc-489a-48fd-981b-5ab3e3eb5775",
-			"albumTitle": "I en sommernat",
-			"artist": "Lars Lilholt",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Jens Langkniv",
 		"artist": "Lars Lilholt",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411106",
@@ -8303,6 +8271,20 @@
 		}
 	},
 	{
+		"albumTitle": "Songs For Drella",
+		"artist": "Lou Reed / John Cale",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510295",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "97d100a8-e42c-38ff-8ae5-eb31331fd82b",
+			"albumTitle": "Songs for Drella",
+			"artist": "Lou Reed, John Cale",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Lucy Pearl (8 49393 2)",
 		"artist": "Lucy Pearl",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501550",
@@ -8974,15 +8956,6 @@
 			"artist": "Michael Falch",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Mød Mig I Mørket (2-CD) (5205042)",
-		"artist": "Michael Falch",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503294",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Mød Mig I Mørket (2-CD) (5205042)",
@@ -10520,15 +10493,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Rock And Roll  Live (pccd 8070)",
-		"artist": "Peter Belli",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607270",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Synger Julens Sange  Ude & Hjemme (papcover)",
 		"artist": "Peter Belli",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510372",
@@ -11900,15 +11864,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Hot Rocks 1964-1971 (2-CD) (882 334-2)",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607334",
-		"price": "30,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "It's Only Rock 'n' Roll",
 		"artist": "Rolling Stones",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607335",
@@ -12646,15 +12601,6 @@
 		}
 	},
 	{
-		"albumTitle": "Øjeblikkets Mester (1-CD/1-DVD) (88697944632) (spec.cover)",
-		"artist": "Sebastian",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607378",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Now Here Is Nowhere (48544-2) (cover er vandskadet)",
 		"artist": "Secret Machines",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603465",
@@ -12821,29 +12767,6 @@
 			"artist": "Astral & Shit",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "A Second Gone",
-		"artist": "Shot Gone",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607385",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0435c873-03f0-4ca1-b392-3db2b4b03d8a",
-			"albumTitle": "A Second Gone",
-			"artist": "Shot Gone",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Red E",
-		"artist": "Shot Gone",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607386",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "13",
@@ -15726,20 +15649,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Light  The Head",
-		"artist": "Vocal Art",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607492",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2bbe100a-0538-4efd-b3ce-f2c9049bcaba",
-			"albumTitle": "Untitled",
-			"artist": "만수대예술단",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Heart And Soul  New Songs From Ally McBeal feat. Vonda Shepard",
 		"artist": "Vonda Shepard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501741",
@@ -16233,20 +16142,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Songs For Drella",
-		"artist": "Lou Reed / John Cale",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510295",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "97d100a8-e42c-38ff-8ae5-eb31331fd82b",
-			"albumTitle": "Songs for Drella",
-			"artist": "Lou Reed, John Cale",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "100 Country Classics (4-CD-set) (var009/010/011/012)",
@@ -21004,15 +20899,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "All I Ever Wanted",
-		"artist": "Kristine Blond",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408235",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Be Cool (digipack)",
 		"artist": "L.D.M. & D' S.P.L.I.F. Click",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501073",
@@ -21062,15 +20948,6 @@
 		"artist": "Lis Sørensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412567",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Bred Dine Nådesvinger (5706893 329024) (digipack)",
-		"artist": "Lise Petersen",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409051",
-		"price": "2,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
