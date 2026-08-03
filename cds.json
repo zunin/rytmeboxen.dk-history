@@ -658,20 +658,6 @@
 		}
 	},
 	{
-		"albumTitle": "Riding With The King",
-		"artist": "B.B. King & Eric Clapton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605030",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "866529e9-0ca2-35fa-8c6f-65ec1424ff0e",
-			"albumTitle": "Riding With the King",
-			"artist": "B.B. King, Eric Clapton",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Version 2.0",
 		"artist": "B.Boys",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605031",
@@ -956,15 +942,6 @@
 			"artist": "Bee Gees",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Best Of The Best (24082-2)",
-		"artist": "Bellamy Brothers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502051",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Svantes Viser + to ekstra numre",
@@ -3621,20 +3598,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Elisabedst  Hits, Remix & Nyt Fra Elisabeth (recd 9606)",
-		"artist": "Elisabeth",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605183",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d308f201-ec53-4ec6-8a15-d340c9c3b2fb",
-			"albumTitle": "Untitled IX",
-			"artist": "DNOC, Saint Elisabeth",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "The Big Picture",
@@ -10729,15 +10692,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Asfalt (digipack)",
-		"artist": "Poul Krebs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607280",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Dansen, Månen & Vejen",
 		"artist": "Poul Krebs",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503494",
@@ -11743,15 +11697,6 @@
 			"artist": "Roger McGuinn",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "In The Flesh (2-CD/1-DVD) (82876842682)",
-		"artist": "Roger Waters",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607321",
-		"price": "35,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "All-Time Favorites (cdl-57419)",
@@ -14074,15 +14019,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Troen & Ingen (digipack)",
-		"artist": "Søren Huss",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607428",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Flying Dreams",
 		"artist": "Søren Hyldgaard",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32306077",
@@ -16225,9 +16161,45 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Absolute Music, Volume 1",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22601005",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Absolute Music, Volume 6",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607011",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Absolute Music, Volume 7",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22407019",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Absolute Music, Volume 7",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22407019",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Absolute Music, Volume 10",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22509002",
 		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -16248,24 +16220,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607009",
 		"price": "15,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Absolute Music, Volume 6",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607011",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Absolute Music, Volume 7",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22407019",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -16666,72 +16620,9 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) (2-CD) 1963-67 (Egmont)",
+		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1963-67 (Egmont)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607021",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1964-68 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607023",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1969-71 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607024",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1971-73 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607025",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1972-74 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607026",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1974-76 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607027",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1975-77 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607028",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1977-79 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607029",
 		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -16741,42 +16632,6 @@
 		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1978-80 (Egmont)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607030",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1980-82 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607031",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1981-83 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607032",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1983-85 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607033",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1984-86 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607034",
 		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -16993,15 +16848,6 @@
 		"albumTitle": "Great Composers (2-CD-box) (540721)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501015",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Great Love Songs (3-CD-set) (bx 858402/12/22)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22309012",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
