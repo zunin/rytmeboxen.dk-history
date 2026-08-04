@@ -269,20 +269,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Strawberry Jam (spec.cover)",
-		"artist": "Animal Collective",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605016",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "369a66a8-ca08-3a70-8c36-208891f1c979",
-			"albumTitle": "Self Titled 2007",
-			"artist": "The Way an Animal Operates",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Water Curses (Maxi) (digipack)",
 		"artist": "Animal Collective",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605017",
@@ -1812,20 +1798,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "b3559cb2-d7ad-32eb-a17e-54a873ce4122",
 			"albumTitle": "Tunnel of Love",
-			"artist": "Bruce Springsteen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Wrecking Ball (spec.cover)",
-		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605086",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
-			"albumTitle": "[untitled]",
 			"artist": "Bruce Springsteen",
 			"type": "Album"
 		}
@@ -3568,15 +3540,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Into The Wild (digipack)",
-		"artist": "Eddie Vedder",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605181",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Europop",
 		"artist": "Eiffel 65",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607071",
@@ -4465,20 +4428,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Real Thing",
-		"artist": "Faith No More",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601200",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1ba7c980-4882-31fb-9918-12791f59d303",
-			"albumTitle": "The Real Thing",
-			"artist": "Faith No More",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "The Very Best Definitive Ultimative Greatest Hits Collection (2-CD) (5186544012)",
 		"artist": "Faith No More",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601201",
@@ -5147,20 +5096,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Dragging A Dead Deer Up A Hill",
-		"artist": "Grouper",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512322",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "abcc21e4-16fc-31a3-864b-4d69ae81e2b4",
-			"albumTitle": "Dragging a Dead Deer up a Hill",
-			"artist": "Grouper",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Quiet Storm",
@@ -8234,20 +8169,6 @@
 		}
 	},
 	{
-		"albumTitle": "Songs For Drella",
-		"artist": "Lou Reed / John Cale",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510295",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "97d100a8-e42c-38ff-8ae5-eb31331fd82b",
-			"albumTitle": "Songs for Drella",
-			"artist": "Lou Reed, John Cale",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Lucy Pearl (8 49393 2)",
 		"artist": "Lucy Pearl",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501550",
@@ -9557,20 +9478,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "6ae11dfd-4dc8-3b0b-be8c-456d6254ac9f",
 			"albumTitle": "Freedom",
-			"artist": "Neil Young",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Harvest",
-		"artist": "Neil Young",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607230",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b25419cf-71bf-3a54-8cd4-2161c61056a0",
-			"albumTitle": "Harvest",
 			"artist": "Neil Young",
 			"type": "Album"
 		}
