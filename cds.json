@@ -4301,15 +4301,6 @@
 		}
 	},
 	{
-		"albumTitle": "Ultimate Collection (82876748412)",
-		"artist": "Eurythmics",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605208",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Husker Du? (cd 81442)",
 		"artist": "Eva Madsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605209",
@@ -4892,15 +4883,6 @@
 		"albumTitle": "Givinī Up On A Good Man",
 		"artist": "George Adams",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501344",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Open All Night (cover har lille skade og er lidt falmet)",
-		"artist": "Georgia Satellites",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605238",
 		"price": "10,00 kr.",
 		"quality": "K-2",
 		"type": "Album",
@@ -8842,15 +8824,6 @@
 		}
 	},
 	{
-		"albumTitle": "Mød Mig I Mørket (2-CD) (5205042)",
-		"artist": "Michael Falch",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503294",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Dangerous",
 		"artist": "Michael Jackson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607200",
@@ -9001,15 +8974,6 @@
 			"artist": "Mike + the Mechanics",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Hits (72438 4144821)",
-		"artist": "Mike & The Mechanics",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406235",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "I'm A Rocker",
@@ -10413,15 +10377,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "You're The Inspiration  A Collection (0037122edl)",
-		"artist": "Peter Cetera",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406475",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Who Are You? (5710261 051134) (digipack)",
 		"artist": "Peter Christian",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603387",
@@ -10774,20 +10729,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Loose Screw",
-		"artist": "Pretenders",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601461",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d34772f9-55f1-3499-922e-7ec09efd5933",
-			"albumTitle": "Loose Screw",
-			"artist": "Pretenders",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "The Singles (242229-2)",
@@ -11832,20 +11773,6 @@
 			"releaseGroupId": "2474f3ca-ad79-3f5c-8e35-265015d3ad85",
 			"albumTitle": "Das große Leben",
 			"artist": "Rosenstolz",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Avalon",
-		"artist": "Roxy Music",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607358",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4b51d75c-ca0e-3ea7-9950-639eda1f7d1a",
-			"albumTitle": "Avalon",
-			"artist": "Roxy Music",
 			"type": "Album"
 		}
 	},
@@ -15827,15 +15754,6 @@
 		"artist": "Yaki-Da",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408622",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Wanted",
-		"artist": "Yazz",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409550",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
