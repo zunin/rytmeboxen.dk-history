@@ -3689,15 +3689,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "His 27 Best Songs (spcd 010787)",
-		"artist": "Elvis Presley",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410318",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Hound Dog (74198)",
 		"artist": "Elvis Presley",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605186",
@@ -4000,15 +3991,6 @@
 			"artist": "Eric Clapton",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Complete Clapton (2-CD) (1746193)",
-		"artist": "Eric Clapton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605198",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "From The Cradle",
@@ -12566,15 +12548,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "14",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502597",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "15",
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501664",
@@ -16441,114 +16414,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22405012",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1963-67 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607021",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1978-80 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607030",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1985-87 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607035",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1986-88 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607036",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1987-88 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607037",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1987-89 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607038",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1989-91 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607039",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1990-92 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607040",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1991-93 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607041",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1992-94 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607042",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1993-95 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607043",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Det Bedste Af Dansk Musik (2-CD) 1994-96 (Egmont)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607044",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
