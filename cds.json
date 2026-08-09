@@ -1,19 +1,5 @@
 [
 	{
-		"albumTitle": "Highway To Hell",
-		"artist": "AC/DC",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605002",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f85647ec-a69b-3b0a-ad04-bb6076c4dcf1",
-			"albumTitle": "Highway to Hell",
-			"artist": "AC/DC",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Happy Nation  The Album",
 		"artist": "Ace Of Base",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603002",
@@ -914,20 +900,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "E·S·P",
-		"artist": "Bee Gees",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607022",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "eb453cb9-6643-318d-a578-8216980ee70a",
-			"albumTitle": "E·S·P",
-			"artist": "Bee Gees",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Svantes Viser + to ekstra numre",
@@ -7968,24 +7940,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Affection",
-		"artist": "Lisa Stansfield",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410667",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Real Love",
-		"artist": "Lisa Stansfield",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410668",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "20 Greatest Hits (50640)",
 		"artist": "Little Richard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603316",
@@ -8363,15 +8317,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409052",
 		"price": "2,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Emotions",
-		"artist": "Mariah Carey",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501560",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -10223,15 +10168,6 @@
 		}
 	},
 	{
-		"albumTitle": "When A Man Loves A Woman (peg cd 045)",
-		"artist": "Percy Sledge",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503443",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Fire",
 		"artist": "Pernille Gunvad",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411279",
@@ -11869,20 +11805,6 @@
 		}
 	},
 	{
-		"albumTitle": "3",
-		"artist": "Rugsted & Kreutzfeldt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512500",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "eb9f6aba-7f36-4715-a7dc-71e5c9da1b8e",
-			"albumTitle": "3",
-			"artist": "Rugsted & Kreutzfeldt",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Scrapbog (519055 2)",
 		"artist": "Rugsted Kreutzfeldt",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603441",
@@ -12020,15 +11942,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Live 1993 (8278882)",
-		"artist": "Sandmen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607365",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Sleepyhead",
 		"artist": "Sandmen",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409073",
@@ -12068,20 +11981,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Ingen Engel",
-		"artist": "Sanne Salomonsen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603449",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8079913f-1f94-31ee-be47-b99d265de336",
-			"albumTitle": "Ingen engel",
-			"artist": "Sanne Salomonsen",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Language Of The Heart",
@@ -12394,15 +12293,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607379",
 		"price": "20,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "String Of Hits (7 48278 2)",
-		"artist": "Shadows",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509423",
-		"price": "10,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -14383,20 +14273,6 @@
 			"releaseGroupId": "a2ab0378-af3b-444e-8932-7faaad168418",
 			"albumTitle": "Whispers",
 			"artist": "Tina Dickow",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Break Every Rule",
-		"artist": "Tina Turner",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603563",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b7cda27a-6174-3b99-aaf9-d2420a62319c",
-			"albumTitle": "Break Every Rule",
-			"artist": "Tina Turner",
 			"type": "Album"
 		}
 	},
