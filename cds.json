@@ -283,20 +283,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Pindsvin I Pigsko",
-		"artist": "Allan Olsen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605011",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7225e54c-6f1f-3b6b-a584-231f241c46da",
-			"albumTitle": "Pindsvin i pigsko",
-			"artist": "Allan Olsen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Colour To The Moon",
 		"artist": "Allan Taylor",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608023",
@@ -2311,20 +2297,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Under The Red Sky",
-		"artist": "Bob Dylan",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605071",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8d231aa3-4a4e-306a-a3f9-4421e846bb1a",
-			"albumTitle": "Under the Red Sky",
-			"artist": "Bob Dylan",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Natural Mystic",
 		"artist": "Bob Marley",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509048",
@@ -2821,20 +2793,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Bęte Noire",
-		"artist": "Bryan Ferry",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605091",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "084f18a8-5242-3e84-8fdb-01a6905410f2",
-			"albumTitle": "Bête Noire",
-			"artist": "Bryan Ferry",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Taxi",
@@ -3453,20 +3411,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Blue Cafe",
-		"artist": "Chris Rea",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608131",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "63d9d456-0c7a-3bc2-869f-d8da0e7c5593",
-			"albumTitle": "The Blue Cafe",
-			"artist": "Chris Rea",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "The Road To Hell",
 		"artist": "Chris Rea",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608132",
@@ -3991,20 +3935,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Early Years (2-CD) (4029758216927) (består af de 2 første studie album + Standing On The Never Ever (EP) + Unreleased tracks) (digipack)",
-		"artist": "D.A.D.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608155",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
-			"albumTitle": "Woman Titles",
-			"artist": "Hot Dad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Puzzle",
 		"artist": "Dada",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608156",
@@ -4240,20 +4170,6 @@
 		}
 	},
 	{
-		"albumTitle": "Heroes",
-		"artist": "David Bowie",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608167",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1f5ef8d3-10ca-30eb-b41e-85b16987d412",
-			"albumTitle": "“Heroes”",
-			"artist": "David Bowie",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Hunky Dory",
 		"artist": "David Bowie",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608168",
@@ -4263,20 +4179,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "743b0b2e-a23a-3182-950e-232f8cb0dfb7",
 			"albumTitle": "Hunky Dory",
-			"artist": "David Bowie",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Station To Station",
-		"artist": "David Bowie",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608169",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "686cdbd1-b400-32d8-8cb8-9317a2e41a58",
-			"albumTitle": "Station to Station",
 			"artist": "David Bowie",
 			"type": "Album"
 		}
@@ -4824,15 +4726,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512273",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Very Best Of (88697060742)",
-		"artist": "Dolly Parton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607063",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -7163,20 +7056,6 @@
 		}
 	},
 	{
-		"albumTitle": "Black Wolf",
-		"artist": "Hanne Boel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608247",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "368fe5f4-6d90-30e4-8ed2-7e37066d226e",
-			"albumTitle": "Black Wolf",
-			"artist": "Hanne Boel",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Dark Passion",
 		"artist": "Hanne Boel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412494",
@@ -8560,15 +8439,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Blue Wild Angel  Live At The Isle Of Wight (2-CD) (113 086-2) (digipack)",
-		"artist": "Jimi Hendrix",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608298",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Experience Hendrix  The Best Of (111 671-2)",
 		"artist": "Jimi Hendrix",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608299",
@@ -8604,15 +8474,6 @@
 			"artist": "Jimmy Page & Robert Plant",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Live At The Greek (2-CD) (spv 091-72022 dcd)",
-		"artist": "Jimmy Page & The Black Crowes",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608301",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "The Album",
@@ -8740,20 +8601,6 @@
 			"releaseGroupId": "037f7615-6b81-473f-9283-51932b3efb42",
 			"albumTitle": "Concerto Retitled",
 			"artist": "Joe Zawinul",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Ballad Of John Henry",
-		"artist": "Joe Bonamassa",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608316",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d8e78928-1936-39df-9017-d36cb3419baf",
-			"albumTitle": "The Ballad of John Henry",
-			"artist": "Joe Bonamassa",
 			"type": "Album"
 		}
 	},
@@ -9111,20 +8958,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Rock 'n' Roll",
-		"artist": "John Lennon",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608339",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "316bd588-952e-34b0-aeff-b8fd43ef9cf8",
-			"albumTitle": "Rock ’n’ Roll",
-			"artist": "John Lennon",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "The John Lennon Collection (0777 7 91516 2)",
 		"artist": "John Lennon",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605297",
@@ -9318,20 +9151,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Den Blinde Lotterisælger Sidder Ganske Stille På Et Flerfarvet Lysstofrør Og Kigger Opmærksomt Ud Mod Havet",
-		"artist": "Johnny Madsen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607111",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8e621f0f-725c-3b79-9bf2-a0be98ebbd0b",
-			"albumTitle": "Den blinde lotterisælger sidder ganske stille på et flerfarvet lysstofrør og kigger opmærksomt ud mod havet",
-			"artist": "Johnny Madsen",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "En Sang Og En Guitar",
@@ -10258,15 +10077,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Come Dancing With The Kinks  The Best Of The Kinks 1977-1986 (0124532ere)",
-		"artist": "Kinks",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605327",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Jul Med Kirsten Siggaard (Hjemmet) (papcover)",
 		"artist": "Kirsten Siggaard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509262",
@@ -10889,15 +10699,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Live In London (2-CD) (88697692492)",
-		"artist": "Leonard Cohen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605361",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Essential (2-CD) (497995 2)",
 		"artist": "Leonard Cohen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502478",
@@ -10933,15 +10734,6 @@
 		"albumTitle": "Spirit Of Freedom (platcd 417)",
 		"artist": "Les Humphries Singers",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605363",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Best Of (16300cd)",
-		"artist": "Les Humphries Singers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602180",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -12938,15 +12730,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "A Place In My Heart  The Very Best Of (2-CD) (542 727-2)",
-		"artist": "Nana Mouskouri",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503328",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Passport",
 		"artist": "Nana Mouskouri",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412589",
@@ -13096,20 +12879,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Unplugged (9362-45310-2)",
-		"artist": "Neil Young",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607233",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7de89e5d-f573-3626-8eff-5e57925380b6",
-			"albumTitle": "Unplugged",
-			"artist": "Neil Young",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Live Rust (7599-27250-2)",
@@ -15274,15 +15043,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Pirates",
-		"artist": "Rickie Lee Jones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503548",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Sound Loaded",
 		"artist": "Ricky Martin",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411370",
@@ -15353,20 +15113,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Native Americans",
-		"artist": "Robbie Robertson & The Red Road Ensemble",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605402",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a95864a1-9f7a-3cfe-8727-ca276cfbb38e",
-			"albumTitle": "Music for the Native Americans",
-			"artist": "Robbie Robertson, The Red Road Ensemble",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Escapology",
@@ -15642,20 +15388,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "d7ef7347-c582-3109-a54a-9bc6cde8ee45",
 			"albumTitle": "Bridges to Babylon",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Emotional Rescue",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607328",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0c977adb-6dd3-330c-9acb-a40d2104a539",
-			"albumTitle": "Emotional Rescue",
 			"artist": "The Rolling Stones",
 			"type": "Album"
 		}
@@ -17884,20 +17616,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Other Side Of The Mirror",
-		"artist": "Stevie Nicks",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608525",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bbbcf716-fdce-3083-b7df-2efc938611d1",
-			"albumTitle": "The Other Side of the Mirror",
-			"artist": "Stevie Nicks",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Song Review  A Greatest Hits Collection (530 757-2)",
@@ -20891,15 +20609,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "60 Hits Of The 60's (3-CD-box) (not3cd114)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22602002",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "A Perfect Love (2-CD) (radcd 80)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502004",
@@ -22587,15 +22296,6 @@
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22601053",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Rock & Roll History (3-CD-box) (gss 5352)",
-		"artist": "Opsamling",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22602010",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -24779,15 +24479,6 @@
 		"albumTitle": "Woodstock, Volume 1 (2-CD) (7567-80593-2)",
 		"artist": "Soundtrack",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607126",
-		"price": "30,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Woodstock, Volume 2 (2-CD) (7567-80594-2)",
-		"artist": "Soundtrack",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607127",
 		"price": "30,00 kr.",
 		"quality": "K-2",
 		"type": "Album",
