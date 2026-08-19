@@ -1787,20 +1787,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Kærlighed Til Folket",
-		"artist": "Bliglad",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512135",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "85d7c605-33c3-3210-bed6-f4a43fe269a1",
-			"albumTitle": "Kærlighed til folket",
-			"artist": "BliGlad",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Bedtime Prayers",
 		"artist": "Blinded Colody",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512136",
@@ -11760,20 +11746,6 @@
 		}
 	},
 	{
-		"albumTitle": "I Danmark Er Jeg Født",
-		"artist": "Natasja",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607224",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bde9300c-3233-3028-aaff-bc2085675008",
-			"albumTitle": "I Danmark er jeg født",
-			"artist": "Natasja",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Hush Hush",
 		"artist": "Nathalie Nordnes",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603356",
@@ -18109,15 +18081,6 @@
 		}
 	},
 	{
-		"albumTitle": "All That You Can't Leave Behind",
-		"artist": "U2",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410799",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "How To Dismantle An Atomic Bomb",
 		"artist": "U2",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608575",
@@ -18143,48 +18106,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Rattle And Hum",
-		"artist": "U2",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607469",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fa236320-8ab3-3d4c-8c63-c4a35f76f4b2",
-			"albumTitle": "Rattle and Hum",
-			"artist": "U2",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Joshua Tree",
-		"artist": "U2",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607470",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6f3e9fa6-be7a-3de8-a2b2-2072ece8a54d",
-			"albumTitle": "The Joshua Tree",
-			"artist": "U2",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Unforgettable Fire",
-		"artist": "U2",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607471",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c84d00f4-afd3-3184-be62-6ae5f135aa38",
-			"albumTitle": "The Unforgettable Fire",
-			"artist": "U2",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Promises & Lies",
