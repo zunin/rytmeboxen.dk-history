@@ -3938,15 +3938,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Dizzy Mizz Lizzy (1)",
-		"artist": "Dizzy Mizz Lizzy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603135",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Best Of / Live in Aarhus '96 (2-CD) (5398472)",
 		"artist": "Dizzy Mizz Lizzy",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605159",
@@ -14290,20 +14281,6 @@
 		}
 	},
 	{
-		"albumTitle": "A Bigger Bang",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601482",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6d1a87c3-9e11-36d8-8c41-3e11b974fde7",
-			"albumTitle": "A Bigger Bang",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Bridges To Babylon",
 		"artist": "Rolling Stones",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607326",
@@ -14334,20 +14311,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "It's Only Rock 'n' Roll",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607335",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cc0ef7ba-01f1-3faf-8238-b63369ff5d2b",
-			"albumTitle": "It’s Only Rock ’n Roll",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Jump Back  The Best Of The Rolling Stones 71-93 (8 39321 2)",
@@ -15066,20 +15029,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Ronja Røverdatter",
-		"artist": "Sebastian",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607377",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6cd43d04-de6a-4e64-a6f9-3980e408054f",
-			"albumTitle": "Ronja Røverdatter Soundtrack",
-			"artist": "Sebastian",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Tusind Og En Nat",
@@ -19174,15 +19123,6 @@
 			"artist": "ZZ Top",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Fuld Af Løgn",
-		"artist": "Østkyst Hustlers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411671",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "100 Country Classics (4-CD-set) (var009/010/011/012)",
