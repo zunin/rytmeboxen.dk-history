@@ -1070,20 +1070,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Runaway Horses",
-		"artist": "Belinda Carlisle",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608057",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "74a6c7a8-a3c0-3c8b-bd9b-db6595f4cfd9",
-			"albumTitle": "Runaway Horses",
-			"artist": "Belinda Carlisle",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Welcome To The Cruel World",
 		"artist": "Ben Harper",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608058",
@@ -9572,15 +9558,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Live 10/1 94",
-		"artist": "Led Zeppelin Jam",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605350",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Bästa Vänner",
 		"artist": "Lena Philipsson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608378",
@@ -12877,15 +12854,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411293",
 		"price": "10,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "16 Hits (4649cd)",
-		"artist": "Pia Raug",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608460",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -17099,52 +17067,6 @@
 		"albumTitle": "To Brune Øjne (ls 81322)",
 		"artist": "Tennessee",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411556",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Southside",
-		"artist": "Texas",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608549",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "521d3cad-5141-31c7-9522-f684deadd0b0",
-			"albumTitle": "Southside",
-			"artist": "Texas",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Greatest Hits (548 264-2) (digipack)",
-		"artist": "Texas",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608550",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "442a8c14-7eaa-4f95-bd16-b003e9d107dc",
-			"albumTitle": "Untitled+Demo",
-			"artist": "texas pandaa",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Hush",
-		"artist": "Texas",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32407024",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "White On Blonde",
-		"artist": "Texas",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411559",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
