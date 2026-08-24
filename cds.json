@@ -6533,15 +6533,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Hjertets Vagabonder / Som Sol Og Måne (2 album på én CD)",
-		"artist": "Henrik Strube",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603228",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Songs From Cinema Café",
 		"artist": "Her Personal Pain",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411073",
@@ -9099,15 +9090,6 @@
 		}
 	},
 	{
-		"albumTitle": "Kiss The Forest (Fønix)",
-		"artist": "Kim Menzer & Lars Trier",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409198",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Over The Rainbow",
 		"artist": "Kim Sjøgren",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501059",
@@ -9359,15 +9341,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502441",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Et Ekko Af Sommer  Live",
-		"artist": "Lars Lilholt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412548",
-		"price": "15,00 kr.",
-		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -13044,20 +13017,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Fri Som Et Forår",
-		"artist": "Poul Krebs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607283",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8bebe32f-3fd2-3f43-b59a-528a26032639",
-			"albumTitle": "Fri Som Et Forår",
-			"artist": "Poul Krebs",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Kosmorama",
 		"artist": "Poul Krebs",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411302",
@@ -13074,20 +13033,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Langt Fra En Ordentlig By",
-		"artist": "Poul Krebs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607285",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "4cc68c8a-68e1-3502-8b0d-702fbab56d98",
-			"albumTitle": "Langt fra en ordentlig by",
-			"artist": "Poul Krebs",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Magnolia Tales (kfcd 2011#1) (NY CD) (digipack)",
@@ -13147,15 +13092,6 @@
 		"albumTitle": "Strejfer",
 		"artist": "Poul Krebs",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501628",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Striber Af Lys (skrevet på CD)",
-		"artist": "Poul Krebs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608464",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -17995,20 +17931,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Kald Mig Liva",
-		"artist": "Ulla Henningsen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603587",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "02a278ee-7f94-33c8-bcea-2e11bb3175fe",
-			"albumTitle": "Kald mig Liva",
-			"artist": "Ulla Henningsen",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Everything Picture (2-CD) (spec.cover) (cover er lidt slidt)",
