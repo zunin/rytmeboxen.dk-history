@@ -13589,15 +13589,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Mer' End Kærlighed (NY i folie)",
-		"artist": "Rasmus Seebach",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603412",
-		"price": "20,00 kr.",
-		"quality": "K-1",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Chain Gang Of Love",
 		"artist": "Raveonettes",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607302",
@@ -15926,20 +15917,6 @@
 			"releaseGroupId": "bd41dfaa-754b-314a-b45b-1d75f6055e92",
 			"albumTitle": "Glamourpuss",
 			"artist": "Sort Sol",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Sort Sol (11-CD-box) (uni 2 76406 6)",
-		"artist": "Sort Sol",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607403",
-		"price": "225,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bc30a1e9-422c-4075-8f3e-3ef40daeb2d5",
-			"albumTitle": "We Have Dozens of Titles",
-			"artist": "Gastr del Sol",
 			"type": "Album"
 		}
 	},
