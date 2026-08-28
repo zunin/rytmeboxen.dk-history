@@ -2939,20 +2939,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Deaf Dumb Blind",
-		"artist": "Clawfinger",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607049",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e1d15295-8531-3a0b-a447-e18017b43797",
-			"albumTitle": "Deaf Dumb Blind",
-			"artist": "Clawfinger",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Greatest Hits Live, Volume 1 (81774)",
 		"artist": "Clazz",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410199",
@@ -6036,43 +6022,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12403072",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Chinese Democracy",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608241",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cdfb0664-26b5-3475-88f5-dd6ccd4d74ce",
-			"albumTitle": "Chinese Democracy",
-			"artist": "Guns N’ Roses",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "G n' R Lies",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608242",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b1b42d92-bbd0-349d-b2f8-ee4e6ef1bd9c",
-			"albumTitle": "G N’ R Lies",
-			"artist": "Guns N’ Roses",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Greatest Hits (0602498621080)",
-		"artist": "Guns n' Roses",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608243",
-		"price": "20,00 kr.",
-		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -11506,24 +11455,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Moonjam's Greatest (recd 7606)",
-		"artist": "Moonjam",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510333",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Moonjam's Greatest (recd 7606)",
-		"artist": "Moonjam",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510333",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Saxophonesongs, Volume II",
 		"artist": "Moonjam",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410716",
@@ -11788,20 +11719,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "91fdfd77-a868-3678-b9f2-11ad92118955",
 			"albumTitle": "Ragged Glory",
-			"artist": "Neil Young, Crazy Horse",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Rust Never Sleeps",
-		"artist": "Neil Young With Crazy Horse",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607238",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a710c7c7-46e6-36ca-9c3c-87c8e79f8daf",
-			"albumTitle": "Rust Never Sleeps",
 			"artist": "Neil Young, Crazy Horse",
 			"type": "Album"
 		}
@@ -13121,15 +13038,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Troubadurens Bedste (2-CD) (cd 81580)",
-		"artist": "Povl Dissing & Benny Andersen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607291",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Last Of The Independents",
 		"artist": "Pretenders",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608465",
@@ -13379,15 +13287,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "In Time  The Best Of R.E.M. 1988-2003 (9362-48381-2)",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607295",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Monster",
 		"artist": "R.E.M.",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411335",
@@ -13409,38 +13308,6 @@
 			"artist": "R.E.M.",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Out Of Time",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607297",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "400a5fdd-e616-3598-a9bf-cd8275cb53d0",
-			"albumTitle": "Out of Time",
-			"artist": "R.E.M.",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Reveal",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405546",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Up",
-		"artist": "R.E.M.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409298",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Up",
@@ -13553,20 +13420,6 @@
 			"releaseGroupId": "bbb3f6ec-9d18-4745-95bd-5a6a43b025b2",
 			"albumTitle": "2016‐02‐10: XL Center, Hartford, CT, USA",
 			"artist": "Bruce Springsteen, The E Street Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Før Vi Mødte Dig",
-		"artist": "Rasmus Seebach",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608475",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "54e07aa9-d085-42e5-9152-d985abc71329",
-			"albumTitle": "Før vi mødte dig",
-			"artist": "Rasmus Seebach",
 			"type": "Album"
 		}
 	},
@@ -13702,15 +13555,6 @@
 			"artist": "The Real Thing",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "I'm With You (spec.cover)",
-		"artist": "Red Hot Chili Peppers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607309",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Show World",
@@ -14838,15 +14682,6 @@
 			"artist": "The Savage Rose",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "The Second You Sleep",
-		"artist": "Saybia",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411443",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Reconstruction",
@@ -15978,20 +15813,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Pocket Full Of Kryptonite",
-		"artist": "Spin Doctors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510474",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "3e769959-3fd1-34da-925e-943605b32307",
-			"albumTitle": "Pocket Full of Kryptonite",
-			"artist": "Spin Doctors",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Self-Destructive Pattern",
@@ -17896,15 +17717,6 @@
 		"artist": "UFO",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406559",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "As Ugly As They Wanna Be (868 823-2)",
-		"artist": "Ugly Kid Joe",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602480",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
