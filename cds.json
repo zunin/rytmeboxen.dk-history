@@ -14266,20 +14266,6 @@
 		}
 	},
 	{
-		"albumTitle": "Dødens Triumf",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603459",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c7d726f5-c358-3f71-aea2-853f4ba8d12e",
-			"albumTitle": "Dødens triumf",
-			"artist": "The Savage Rose",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Tameless",
 		"artist": "Savage Rose",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607373",
@@ -14606,20 +14592,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Shu-Bi-40",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607388",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2de6e242-7260-3dbc-8ea1-19ead84808e4",
-			"albumTitle": "Shu•bi•40",
-			"artist": "Shu•bi•dua",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Where Are My Shoes",
@@ -17896,15 +17868,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410806",
 		"price": "5,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Jorden Snurrar (mlpcd 1925)",
-		"artist": "Wizex",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608586",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
