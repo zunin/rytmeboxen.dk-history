@@ -620,15 +620,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Aquarium",
-		"artist": "Aqua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502030",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Aquarius",
 		"artist": "Aqua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607015",
@@ -1068,20 +1059,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Welcome To The Cruel World",
-		"artist": "Ben Harper",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608058",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "19275b23-b00f-38c2-9728-9f57e8af8995",
-			"albumTitle": "Welcome to the Cruel World",
-			"artist": "Ben Harper",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Svantes Viser",
@@ -2019,15 +1996,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Best (473522 2)",
-		"artist": "Bonnie Tyler",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608108",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Efteruddannelse: Værd At Arbejde Med",
 		"artist": "Bootles",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608109",
@@ -2562,20 +2530,6 @@
 			"releaseGroupId": "1ec51a07-54ae-3f4a-92fd-2a82aa125767",
 			"albumTitle": "Cinemataztic",
 			"artist": "Caroline Henderson",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Only Yesterday (397 060-2)",
-		"artist": "Carpenters",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412302",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b2ea1aa0-a90c-3dc7-9b41-4c148c32644e",
-			"albumTitle": "September",
-			"artist": "September",
 			"type": "Album"
 		}
 	},
@@ -6120,34 +6074,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Oyster",
-		"artist": "Heather Nova",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608253",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ae97844b-c27e-38c7-8d84-5b26f5ce3f36",
-			"albumTitle": "Oyster",
-			"artist": "Heather Nova",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Wodnderlust  Live (1013242)",
-		"artist": "Heather Nova",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608254",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ab70db2a-f9e1-4dee-81f6-0b3795c7a0f6",
-			"albumTitle": "UNTITLED SUMMER 2023",
-			"artist": "Nova",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Boogie Nights (22507cd)",
 		"artist": "Heatwave",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503157",
@@ -7285,15 +7211,6 @@
 		"artist": "Jette Torp",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406140",
 		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Ultimate Collection (2-CD) (74321 41087 2)",
-		"artist": "Jim Reeves",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501500",
-		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -8741,15 +8658,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Heart Of The Matter (pcd1-7023)",
-		"artist": "Kenny Rogers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412527",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Love Collection (1013-2)",
 		"artist": "Kenny Rogers",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412528",
@@ -9959,15 +9867,6 @@
 		"artist": "Lutricia McNeal",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608404",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Stand By Your Man (or 0048)",
-		"artist": "Lynn Anderson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603322",
-		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -13553,15 +13452,6 @@
 		}
 	},
 	{
-		"albumTitle": "A Perfect Day  His Greatest Hits & More (74321 37156 2)",
-		"artist": "Roger Whittaker",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501159",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "All-Time Favorites (cdl-57419)",
 		"artist": "Roger Whittaker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412599",
@@ -13601,15 +13491,6 @@
 		"albumTitle": "The Danish Collection (2-CD) (hp 200713)",
 		"artist": "Roger Whittaker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12403645",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Very Best Of (2-CD) (848 996-2)",
-		"artist": "Roger Whittaker",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607322",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -17403,15 +17284,6 @@
 			"artist": "Nico",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Undskyld",
-		"artist": "Venter På Far",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406562",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Vupti",
