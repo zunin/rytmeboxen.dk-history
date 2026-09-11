@@ -4362,20 +4362,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Big Big World",
-		"artist": "Emilia",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32310281",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "491e9ed4-7e71-327d-8c69-8e8d7a06cafc",
-			"albumTitle": "Big Big World",
-			"artist": "Emilia",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Emotions (recd 9707)",
 		"artist": "Emotions",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410325",
@@ -10677,15 +10663,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Elements  The Best Of (8 39069 2)",
-		"artist": "Mike Oldfield",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603346",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Ommadawn",
 		"artist": "Mike Oldfield",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509316",
@@ -14211,15 +14188,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Gold Collection (8 37197 2)",
-		"artist": "Sheena Easton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503637",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Churn",
 		"artist": "Shihad",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408446",
@@ -16288,15 +16256,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Country Side Of Tina Turner (2110cd)",
-		"artist": "Tina Turner",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608558",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Wildest Dreams",
 		"artist": "Tina Turner",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411589",
@@ -17403,15 +17362,6 @@
 		}
 	},
 	{
-		"albumTitle": "Is There Something On Your Mind (grf 032)",
-		"artist": "Willie Nelson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509531",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Superhits, Volume 2 (508049 2)",
 		"artist": "Willie Nelson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608585",
@@ -17732,6 +17682,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Absolute Let's Dance, Opus 13",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610024",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Absolute Let's Dance, Opus 2",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22407007",
@@ -17762,6 +17721,24 @@
 		"albumTitle": "Absolute Music, Volume 5",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608005",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Absolute Music, Volume 5",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608005",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Absolute Music, Volume 6",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607011",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -17813,6 +17790,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Absolute Music, Volume 10",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22509002",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Absolute Music, Volume 13",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22407028",
@@ -17822,10 +17808,37 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Absolute Music, Volume 14",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610028",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Absolute Music, Volume 15",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610029",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Absolute Music, Volume 20",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608009",
 		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Absolute Music, Volume 24",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610030",
+		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
@@ -17957,6 +17970,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Best Of 2009 (2-CD) (1021092)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610031",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Best Of Moviestar (3-CD-box) (5215632)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22512005",
@@ -18052,6 +18074,33 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408008",
 		"price": "5,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Classical Favourites (3-CD-box) (556 898-2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610032",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Classical Moments (2-CD) (6019-2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610033",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Con Amore (2-CD) (88697944642)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610034",
+		"price": "5,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -18182,6 +18231,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Dansk Melodi Grand Prix 2009",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610035",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Diana, Princess Of Wales  Tribute (2-CD) (489333 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402061",
@@ -18221,6 +18279,15 @@
 		"albumTitle": "Fantastiske 80'ere (2-CD) (4987782)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22311039",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Favourite Overtures From The World Of Operetta (3-CD-box) (g99002sd3)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610036",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -18281,6 +18348,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Glanz Des Barock (2-CD-box) (delta 24 067)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610037",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Great Composers (2-CD-box) (540721)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610038",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Greatest Hits 1999 (mmcd ex 00-01)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22607050",
@@ -18326,6 +18411,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Harmony  Klassiske Favoritter (2-CD) (5570772)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610039",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Harmony Voices  Songs Of The Dreams (2-CD) (8 10216 2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610040",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Hit Coctail (2-CD) (56206cd)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502055",
@@ -18347,6 +18450,15 @@
 		"albumTitle": "Hits Of The 60's, Volume 2 (2144cd)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22402075",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Hooked On Classics (2-CD) (tv001-2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610041",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -18383,6 +18495,15 @@
 		"albumTitle": "Jul Med Dansk Slagerparade  10 Dejlige Julesange (tewacd 2110) (papcover)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505022",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Julehøytid  Tradisjonelle Og Klassiske Julefavoritter (3-CD-set) (Naxos 8.503111/N)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610042",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -18434,9 +18555,54 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Klassische Traummelodien (5-CD-box) (9 002986 140986) (NY i folie)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610043",
+		"price": "5,00 kr.",
+		"quality": "K-1",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Klassisk A-Z (2-CD-box) (az003/4)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22103041",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Klassiske Favoritter  De Smukkeste Klassiske Mesterværker (3-CD-box) (5260872)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610045",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Klassiske Favoritter (3-CD-box) (Naxos kla 001/2/3n)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610046",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Klassiske Favoritter (3-CD-set) (Naxos 8.550521n+2n+3n)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610047",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Klassiske Favoritter, Volume 2 (3-CD-box) (kla 004+5+6n)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610048",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -18938,6 +19104,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Musical Favourites (2-CD-box) (01200042)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610049",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Musical Favourites (2-CD-box) (01200042) (5706238301234) (Elap)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610050",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Musical Greatest (2-CD) (pccd 8099)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22103194",
@@ -18968,6 +19152,15 @@
 		"albumTitle": "No. 1 Hits (2-CD) (do 991142)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404024",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Nocturne  Musik I Sommernatten (2-CD) (1791 2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610051",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -19028,6 +19221,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Opera, Volume 1 (1-CD/1-DVD) (5051865285120)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610052",
+		"price": "5,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Partyhits Für Unterwegs (3-CD-box) (cd 312.531) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22110136",
@@ -19073,6 +19275,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Readers Digest Musik. Tusind Års Musik.  Grieg, Dworák, Sibelius: Arven Fra Nationalromantikken (3-CD-box) (mrj 050590) (NY i folie)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610053",
+		"price": "5,00 kr.",
+		"quality": "K-1",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Real Country (2-CD) (6089-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404035",
@@ -19087,6 +19298,24 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502068",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Relax, Volume 1: Smooth Classics (3-CD-box) (88697223782)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610054",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Relax, Volume 3: Smooth Classics (3-CD-box) (88697224832)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610055",
+		"price": "5,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -19172,6 +19401,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Shine The Complete Classics (2-CD) (456403-2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610056",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Shot Of Country (2-CD-box) (dgr 20008) (NY i folie)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22109058",
@@ -19199,6 +19437,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Smooth Classics  Violin Concertos & Nocturnes (2-CD) (106.3060-2b)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610057",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Spice Girls Present The Best Power Album Ever (2-CD) (8 44238 2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22409031",
@@ -19213,6 +19460,24 @@
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22408033",
 		"price": "15,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Største Klassiske Øjeblikke, Volume 1 (2-CD) (028948028245)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610058",
+		"price": "5,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Største Klassiske Øjeblikke, Volume 2 (2-CD) (028948028276) (NY i folie)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610059",
+		"price": "5,00 kr.",
+		"quality": "K-1",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -19289,6 +19554,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Tears From Heaven (2-CD) (0902668606-2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610060",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Tempted  18 Of Today Classic Hits (516 305-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22509020",
@@ -19310,6 +19584,15 @@
 		"albumTitle": "That Loving Feeling, Volume 5 (2-CD-box) (din cd 28)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22310047",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The A To Z Of Opera (2-CD) (Naxos 8.555037-38)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610061",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -19415,6 +19698,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Colour Of Classics (2-CD) (459 328-2) (Deutsche Grammophon)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610062",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "The Complete Classical Collection (3-CD-box) (4150cd)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501046",
@@ -19424,9 +19716,27 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Complete Classical Collection (3-CD-box) (4528cd)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610063",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "The Complete Musical Collection (3-CD-box) (24025-2)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22501048",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Complete Opera Collection (3-CD-box) (4912-1cd)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610064",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -19463,6 +19773,15 @@
 		"albumTitle": "The Greatest Novelty Songs (3-CD-box) (day3cd077) (digipack)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22309034",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Greatest Opera Show On Earth (2-CD) (458118-2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610065",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -19553,6 +19872,15 @@
 		"albumTitle": "The Ultimate Candlelight Album (2-CD) (8452552)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505053",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Ultimate Opera Album, Volume 1 (2-CD) (842 525-2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610066",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -19658,6 +19986,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Unsere Schönsten Weinachtslieder (2-CD-box) (71989)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610067",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Verdens Bedste Duetter (3-CD-box) (88697984602) (cover har lille revne)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22509027",
@@ -19670,6 +20007,15 @@
 		"albumTitle": "Vh1 Divas  Live (491778 9) (digipack)",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22502103",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Voices Of Angels (3-CD-box) (Naxos 8.503071a/b/c)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610068",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -19769,6 +20115,24 @@
 		"albumTitle": "Young Stars, Volume 6",
 		"artist": "Opsamling",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22312083",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Your Favourite Christmas Carols (2-CD-box) (12088-2)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610069",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Zeit Für Ballett-Music (2-CD) (spec.cover) (0825646-6259-2-5)",
+		"artist": "Opsamling",
+		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22610070",
 		"price": "5,00 kr.",
 		"quality": "K-4",
 		"type": "Album",
