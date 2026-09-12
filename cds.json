@@ -3383,20 +3383,6 @@
 		}
 	},
 	{
-		"albumTitle": "Busted Stuff",
-		"artist": "Dave Matthews Band",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608165",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c4ac1ce8-e53d-3657-b159-76f8f62c8241",
-			"albumTitle": "Busted Stuff",
-			"artist": "Dave Matthews Band",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "A New Day At Midnight",
 		"artist": "David Gray",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503095",
@@ -5701,15 +5687,6 @@
 		"artist": "Grant Langston",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501402",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Lovers Lingo",
-		"artist": "Greene",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601252",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -15398,29 +15375,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Dog Man Star",
-		"artist": "Suede",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411538",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Head Music",
-		"artist": "Suede",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602425",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "50177617-cbef-3792-a2c7-268e0ace3db9",
-			"albumTitle": "Head Music",
-			"artist": "Suede",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Suede (1) (473735 2)",
