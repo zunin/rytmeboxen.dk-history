@@ -3442,15 +3442,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Julekalender (DVD) (alle 24 afsnit på 2-DVD) (4925809)",
-		"artist": "De Nattergale",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510121",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Kiss Me Honey, Honey",
 		"artist": "Dean Brothers",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603125",
@@ -3651,20 +3642,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Brothers In Arms",
-		"artist": "Dire Straits",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605150",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b02f651e-32a1-30ae-bc23-070b59170278",
-			"albumTitle": "Brothers in Arms",
-			"artist": "Dire Straits",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Graduate",
@@ -4346,34 +4323,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "EV3",
-		"artist": "En Vogue",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605190",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d55dd1eb-253b-30e1-9dd9-8e136b63a3f6",
-			"albumTitle": "EV3",
-			"artist": "En Vogue",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Funky Divas",
-		"artist": "En Vogue",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608199",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6ec45cd6-66d5-3d6e-93f3-ad3320055dca",
-			"albumTitle": "Funky Divas",
-			"artist": "En Vogue",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "The Cross Of Changes (2)",
@@ -10259,15 +10208,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Northern Star",
-		"artist": "Melanie C",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411166",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Nouveaux Horizons (276 994 4)",
 		"artist": "Melissa Nkonda",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510317",
@@ -14087,15 +14027,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Come On Over",
-		"artist": "Shania Twain",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409078",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "A Few Small Repairs",
 		"artist": "Shawn Colvin",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607383",
@@ -16688,32 +16619,9 @@
 		}
 	},
 	{
-		"albumTitle": "Down The Road",
-		"artist": "Van Morrison",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603591",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e3418ce7-0a9c-3b2c-ae91-42e24aedb9d2",
-			"albumTitle": "Down the Road",
-			"artist": "Van Morrison",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Super Hits (498952 2)",
 		"artist": "Van Morrison",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607476",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Bang Masters (468309 2)",
-		"artist": "Van Morrison",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607477",
 		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -16736,20 +16644,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Healing Game",
-		"artist": "Van Morrison",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605459",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0fbbc213-48e1-3612-bc9d-151db8a2b18d",
-			"albumTitle": "The Healing Game",
-			"artist": "Van Morrison",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Too Long In Exile",
