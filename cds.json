@@ -18,11 +18,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Bigger, Better, Faster, More",
+		"artist": "4 Non Blondes",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610001",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0d26ee11-05f3-3a02-ba40-1414fa325554",
+			"albumTitle": "Bigger, Better, Faster, More!",
+			"artist": "4 Non Blondes",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "4Lyn (549 871-2)",
 		"artist": "4Lyn",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512003",
 		"price": "25,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Love Songs (pwks 564)",
+		"artist": "Abba",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610002",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -123,6 +146,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Like Red On A Rose",
+		"artist": "Alan Jackson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610006",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "22ee5d09-7dd1-3789-b7f2-b93b85296aef",
+			"albumTitle": "Like Red on a Rose",
+			"artist": "Alan Jackson",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "When Somebody Loves You",
+		"artist": "Alan Jackson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610007",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "80f35202-be3a-3a80-8d70-552ad3241099",
+			"albumTitle": "When Somebody Loves You",
+			"artist": "Alan Jackson",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Jagged Little Pill",
 		"artist": "Alanis Morissette",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502008",
@@ -132,6 +183,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Supposed Former Infatuation Junkie",
+		"artist": "Alanis Morissette",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610008",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d0d7a3a4-b419-3e50-b032-3255c830765e",
+			"albumTitle": "Supposed Former Infatuation Junkie",
+			"artist": "Alanis Morissette",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Under Rug Swept",
+		"artist": "Alanis Morissette",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610009",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ffa5355a-6bbb-37c8-bc34-3d76fac6c555",
+			"albumTitle": "Under Rug Swept",
+			"artist": "Alanis Morissette",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Alannah Myles (1) (7567-81956-2)",
 		"artist": "Alannah Myles",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502010",
@@ -139,6 +218,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Den Forsvundne Skat",
+		"artist": "Alberte",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610010",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "84db8c5f-17d7-37bf-8d69-38056841ac71",
+			"albumTitle": "Den forsvundne skat",
+			"artist": "Alberte",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Den Forsvundne Skat (cover er vandskadet)",
@@ -235,6 +328,15 @@
 			"artist": "Allan Taylor",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Anastacia (3) (2 513471)",
+		"artist": "Anastacia",
+		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501001",
+		"price": "2,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Anastacia (3) (2 513471)",
@@ -383,6 +485,20 @@
 		}
 	},
 	{
+		"albumTitle": "Dreams",
+		"artist": "Ann Lee",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610012",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d44822d0-f0b3-336f-a66c-a5213051319f",
+			"albumTitle": "Dreams",
+			"artist": "Ann Lee",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Love In Another Language",
 		"artist": "Ann-Louise",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412054",
@@ -428,6 +544,52 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "De Store & De Stille (2-CD) (cmc 6464-2)",
+		"artist": "Anne Dorte Michelsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610013",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Den Ordløse Time",
+		"artist": "Anne Dorte Michelsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610015",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3d26ea9a-c25e-344a-9773-e9e4f59fdfef",
+			"albumTitle": "Den ordløse time",
+			"artist": "Anne Dorte Michelsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Elskerindens Have",
+		"artist": "Anne Dorte Michelsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610016",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Fred Hviler Over Land Og By",
+		"artist": "Anne Dorte Michelsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610017",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4cfa4046-b841-33c1-8b76-d941016e549e",
+			"albumTitle": "Fred hviler over land og by",
+			"artist": "Anne Dorte Michelsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Så Stille Som Sne",
 		"artist": "Anne Dorte Michelsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406013",
@@ -453,6 +615,47 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Lad Det Swinge",
+		"artist": "Anne Herdorf",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610018",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Det' Så Dansk",
+		"artist": "Anne Linnet",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610019",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Her Hos Mig",
+		"artist": "Anne Linnet",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610020",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Jeg Er Jo Lige Her",
+		"artist": "Anne Linnet",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605021",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0d7286cf-87ae-38d3-925b-e66ec62c9d2a",
+			"albumTitle": "Jeg er jo lige her",
+			"artist": "Anne Linnet",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Jeg Er Jo Lige Her",
@@ -487,15 +690,38 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "En Elsker",
-		"artist": "Anne Linnet / Marquis de Sade",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602010",
+		"albumTitle": "Nattog Til Venus  De Bedste Sange, Volume 1 (2-CD)",
+		"artist": "Anne Linnet",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603023",
 		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Pige, Træd Varsomt",
+		"artist": "Anne Linnet",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610025",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
 		"musicbrainz": {
-			"releaseGroupId": "5397975a-49c9-37bd-a179-018896a5d46d",
-			"albumTitle": "En elsker",
+			"releaseGroupId": "11430c10-0a0f-38fb-80a7-73ccfc339c93",
+			"albumTitle": "Pige træd varsomt",
+			"artist": "Anne Linnet",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Univers 2",
+		"artist": "Anne Linnet",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610028",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3fd63041-8464-4641-b6d2-ebd6409e0368",
+			"albumTitle": "Univers 2",
 			"artist": "Anne Linnet, Marquis de Sade",
 			"type": "Album"
 		}
@@ -606,6 +832,20 @@
 		}
 	},
 	{
+		"albumTitle": "Aquarius",
+		"artist": "Aqua",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607015",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "587d87a6-4836-3860-89d7-8c26aefdd9bc",
+			"albumTitle": "Aquarius",
+			"artist": "Aqua",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "A Rose Is Still A Rose (07822 18987 2)",
 		"artist": "Aretha Franklin",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512055",
@@ -692,6 +932,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "1bfc87a6-8cc9-4cff-a955-ce886ee314dc",
 			"albumTitle": "Before the Dinosaurs",
+			"artist": "Aura Dione",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Columbine",
+		"artist": "Aura",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610032",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5d071bd0-dabc-49d0-8cfc-515000fef14c",
+			"albumTitle": "Columbine",
 			"artist": "Aura Dione",
 			"type": "Album"
 		}
@@ -820,11 +1074,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Backstreet's Back",
+		"artist": "Backstreet Boys",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610033",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "92ca640f-9098-3d39-a348-9f1f307c4043",
+			"albumTitle": "Backstreet’s Back",
+			"artist": "Backstreet Boys",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "O Universo Musical de Baden Powell (2-CD) (digipack)",
 		"artist": "Baden Powell",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608046",
 		"price": "25,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Bamse's Allerbedste (pocd 2602)",
+		"artist": "Bamse",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610034",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -836,6 +1113,62 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Lige Nu",
+		"artist": "Bamse",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610035",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1f5654ff-340d-40aa-811c-48c8f797a01a",
+			"albumTitle": "Lige nu!",
+			"artist": "Flemming Bamse Jørgensen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "16",
+		"artist": "Bamses Venner",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610036",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d4d38efd-0640-37b0-967a-4aba5c8dad8d",
+			"albumTitle": "16",
+			"artist": "Bamses Venner",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Forår",
+		"artist": "Bamses Venner",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610037",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "048b7daa-e679-4c7c-8963-6681743b9c75",
+			"albumTitle": "Forår",
+			"artist": "Bamses Venner",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Sutsko",
+		"artist": "Bamses Venner",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610038",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "da8dfcaf-180e-3e16-8486-9cab44dfe064",
+			"albumTitle": "Sutsko",
+			"artist": "Bamses Venner",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "The Last Waltz (2-CD) (266 076)",
@@ -866,6 +1199,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608051",
 		"price": "5,00 kr.",
 		"quality": "K-1",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Essential (2-CD) (506257 2)",
+		"artist": "Barbra Streisand",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610039",
+		"price": "20,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -1015,6 +1357,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Danish Collection (2-CD) (5242992)",
+		"artist": "Bellamy Brothers",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610040",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2cb62475-bb7e-3aaf-bb9a-3c3756f8afc6",
+			"albumTitle": "Chose Your Own Title*",
+			"artist": "Kerosene Brothers",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Svantes Viser",
 		"artist": "Benny Andersen & Povl Dissing",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608059",
@@ -1050,6 +1406,15 @@
 			"artist": "Ajax Ray O'Vaque",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Jukebox (986 651-7)",
+		"artist": "Bent Fabric",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610041",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Mit Livs Melodi",
@@ -1132,20 +1497,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Cheap Thrills",
-		"artist": "Big Brother & The Holding Company",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608064",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "02de8887-e93b-3ea6-8b6d-de072a159bba",
-			"albumTitle": "Cheap Thrills",
-			"artist": "Big Brother & the Holding Company",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Beautiful Thing",
@@ -1417,11 +1768,48 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Birthe",
+		"artist": "Birthe Kjær",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610043",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4518e666-57d9-4f1d-93d4-e152a10e62e8",
+			"albumTitle": "Birthe",
+			"artist": "Birthe Kjær",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Hvorfor Er Kærligheden Rød?",
+		"artist": "Birthe Kjær",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610044",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b5acfd6c-62b5-4f70-87ad-56e556dd57df",
+			"albumTitle": "Hvorfor er kærligheden rød?",
+			"artist": "Birthe Kjær",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Lys I Mørket",
 		"artist": "Birthe Kjær",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503035",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Længe Leve Livet",
+		"artist": "Birthe Kjær",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610045",
+		"price": "15,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -1433,6 +1821,38 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "På En Fransk Altan",
+		"artist": "Birthe Kjær",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503039",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Smile (6781032)",
+		"artist": "Birthe Kjær",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610047",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Som En Fugl I Det Fri",
+		"artist": "Birthe Kjær",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610048",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c27660fe-96c0-4e32-9d55-6993bb7e7c3d",
+			"albumTitle": "Som En Fugl I Det Fri",
+			"artist": "Birthe Kjær",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Største Hits (ls1005cd)",
@@ -1494,9 +1914,27 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Går I Luften",
+		"artist": "Bjørn & Okay",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610049",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Største Hits (js 43497)",
 		"artist": "Bjørn & Okay",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603053",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Så Kører Vi",
+		"artist": "Bjørn & Okay",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610050",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -1569,6 +2007,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Tusen Bitar",
+		"artist": "Björn Afzelius",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610051",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "14d27dd7-a29d-33f9-a688-72bacb0e5df7",
+			"albumTitle": "Tusen bitar",
+			"artist": "Björn Afzelius",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Malmöinspilningarna 1993",
@@ -1656,6 +2108,20 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The E.N.D.",
+		"artist": "Black Eyed Peas",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610053",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bb022fc8-55f5-4f4d-82d9-0b504099a3b1",
+			"albumTitle": "The E•N•D",
+			"artist": "Black Eyed Peas",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Turn Blue (spec.cover)",
@@ -1967,6 +2433,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Cooley High Harmony",
+		"artist": "Boyz II Men",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610055",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Ultimate Love Songs Collection 1993-2001 (44007 609828)",
+		"artist": "Boyzone",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605075",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "The Ultimate Love Songs Collection 1993-2001 (44007 609828)",
 		"artist": "Boyzone",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605075",
@@ -2088,6 +2572,71 @@
 		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Greatest Hits (478 555-2)",
+		"artist": "Bruce Springsteen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610057",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "06f671c4-bffd-4f2d-acef-6ed1400a41d6",
+			"albumTitle": "[untitled]",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Human Touch",
+		"artist": "Bruce Springsteen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610058",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "220de9c6-fa5f-39e3-ae89-1faf8a8bbc67",
+			"albumTitle": "Human Touch",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Human Touch",
+		"artist": "Bruce Springsteen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610059",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "220de9c6-fa5f-39e3-ae89-1faf8a8bbc67",
+			"albumTitle": "Human Touch",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Nebraska",
+		"artist": "Bruce Springsteen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610060",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Ghost Of Tom Joad",
+		"artist": "Bruce Springsteen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610061",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "46ab3187-496d-3565-900e-57d89bacd22c",
+			"albumTitle": "The Ghost of Tom Joad",
+			"artist": "Bruce Springsteen",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "18 Til I Die",
@@ -2303,6 +2852,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Razorblade Suitcase",
+		"artist": "Bush",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610063",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fa1bffd2-e990-3d24-adc8-cbcc8edf49bc",
+			"albumTitle": "Razorblade Suitcase",
+			"artist": "Bush",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "The Very Best Of (463189 2)",
 		"artist": "Byrds",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605099",
@@ -2315,6 +2878,15 @@
 			"artist": "The Byrds",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Skygger & Magi  Syregrønne Evergreens, Volume 2",
+		"artist": "C.V. Jørgensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610065",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "The Opposite From Within",
@@ -2391,6 +2963,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Gran Turismo",
+		"artist": "Cardigans",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610066",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "80f8c2b9-c92a-32bf-a267-6119bc80f513",
+			"albumTitle": "Gran Turismo",
+			"artist": "The Cardigans",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Super Extra Gravity",
+		"artist": "Cardigans",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610067",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7f423853-9496-3d0a-ab98-92de1d942aa4",
+			"albumTitle": "Super Extra Gravity",
+			"artist": "The Cardigans",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Blue Suede Shoes (22525cd)",
 		"artist": "Carl Perkins",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603082",
@@ -2414,15 +3014,6 @@
 		}
 	},
 	{
-		"albumTitle": "Her Greatest Hits (cedpc 86043)",
-		"artist": "Carole King",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605106",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Cinemataztic",
 		"artist": "Caroline Henderson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502072",
@@ -2447,6 +3038,20 @@
 			"releaseGroupId": "1ec51a07-54ae-3f4a-92fd-2a82aa125767",
 			"albumTitle": "Cinemataztic",
 			"artist": "Caroline Henderson",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Carnival Ride",
+		"artist": "Carrie Underwood",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610068",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "00df7500-453d-3339-8ae7-0633e6e59093",
+			"albumTitle": "Carnival Ride",
+			"artist": "Carrie Underwood",
 			"type": "Album"
 		}
 	},
@@ -2706,6 +3311,20 @@
 		}
 	},
 	{
+		"albumTitle": "The Road To Hell",
+		"artist": "Chris Rea",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608132",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a0c737b5-b41c-36c2-bacb-4538c68e1748",
+			"albumTitle": "The Road to Hell",
+			"artist": "Chris Rea",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Watching You",
 		"artist": "Christina",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608133",
@@ -2769,6 +3388,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Use Your Brain",
+		"artist": "Clawfinger",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610071",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Greatest Hits Live, Volume 1 (81774)",
 		"artist": "Clazz",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410199",
@@ -2787,6 +3415,43 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Professionel Bla Bla",
+		"artist": "Clemens",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610072",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Miss You Nights",
+		"artist": "Cliff Richard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610073",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f2df83cc-8fae-411d-95f5-2d7b0a49092b",
+			"albumTitle": "Miss You Nights",
+			"artist": "Cliff Richard",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Miss You Nights",
+		"artist": "Cliff Richard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610074",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f2df83cc-8fae-411d-95f5-2d7b0a49092b",
+			"albumTitle": "Miss You Nights",
+			"artist": "Cliff Richard",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "My Danish Collection (50999 2538542)",
 		"artist": "Cliff Richard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503078",
@@ -2801,6 +3466,70 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503078",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Real  As I Wanna Be (4974062)",
+		"artist": "Cliff Richard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610075",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Album",
+		"artist": "Cliff Richard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610078",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "81159d4a-60dd-3e72-84c5-9ed5005f4cd9",
+			"albumTitle": "The Album",
+			"artist": "Cliff Richard",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Danish Collection (2-CD) (7 88114 2)",
+		"artist": "Cliff Richard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610079",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Whole Story  His Greatest Hits (2-CD) (5 29322 2)",
+		"artist": "Cliff Richard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610080",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Together",
+		"artist": "Cliff Richard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610081",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f4325a47-63c3-3a6b-b7c5-28863f42cb01",
+			"albumTitle": "Together With Cliff Richard",
+			"artist": "Cliff Richard",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Wanted",
+		"artist": "Cliff Richard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610082",
+		"price": "15,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -2824,6 +3553,20 @@
 			"releaseGroupId": "b68cf960-5a45-327d-915e-3361e02ea699",
 			"albumTitle": "Dark Days",
 			"artist": "Coal Chamber",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Best Of (469206 2)",
+		"artist": "Cock Robin",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610083",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2113de38-5a7c-4c46-99f0-a10c50c40427",
+			"albumTitle": "Untitled",
+			"artist": "Cock Tribe",
 			"type": "Album"
 		}
 	},
@@ -2987,6 +3730,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "God Shuffled Hes Feet",
+		"artist": "Crash Test Dummies",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610085",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b1423cce-11a2-31c8-a678-5717b91bcc03",
+			"albumTitle": "An Untitled Winter",
+			"artist": "Flight Crash Companion",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Creamy (5221112)",
 		"artist": "Creamy",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608146",
@@ -3028,29 +3785,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "3a31800f-1916-3f4c-a7ae-26b783d00670",
 			"albumTitle": "Cosmo’s Factory",
-			"artist": "Creedence Clearwater Revival",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Creedence Clearwater Revival (1)",
-		"artist": "Creedence Clearwater Revival",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608149",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Green River",
-		"artist": "Creedence Clearwater Revival",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608150",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "6c08878c-d6a1-37b6-84c3-9566748545c1",
-			"albumTitle": "Green River",
 			"artist": "Creedence Clearwater Revival",
 			"type": "Album"
 		}
@@ -3106,6 +3840,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "First Conversation",
+		"artist": "Cæcilie Norby",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610088",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6edf5025-e5b0-3395-a0f8-95ac16ab9568",
+			"albumTitle": "First Conversation",
+			"artist": "Cæcilie Norby",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Queen Of Bad Excuses",
 		"artist": "Cæcilie Norby",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608154",
@@ -3116,6 +3864,71 @@
 			"releaseGroupId": "cea6cf89-cf0f-3107-b7d2-8fc754010b88",
 			"albumTitle": "Queen of Bad Excuses",
 			"artist": "Cæcilie Norby",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Queen Of Bad Excuses",
+		"artist": "Cæcilie Norby",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608154",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cea6cf89-cf0f-3107-b7d2-8fc754010b88",
+			"albumTitle": "Queen of Bad Excuses",
+			"artist": "Cæcilie Norby",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Everything Glows",
+		"artist": "D.A.D.",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610090",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
+			"albumTitle": "Woman Titles",
+			"artist": "Hot Dad",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Riskin' It All",
+		"artist": "D.A.D.",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610091",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
+			"albumTitle": "Woman Titles",
+			"artist": "Hot Dad",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Simpatico",
+		"artist": "D.A.D.",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610092",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Early Years (2-CD) (4029758216927) (består af de 2 første studie album + Standing On The Never Ever (EP) + Unreleased tracks) (digipack)",
+		"artist": "D.A.D.",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610093",
+		"price": "25,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
+			"albumTitle": "Woman Titles",
+			"artist": "Hot Dad",
 			"type": "Album"
 		}
 	},
@@ -3201,6 +4014,15 @@
 		"artist": "Danser Med Drenge",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408093",
 		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Vores Bedste (2-CD) (cdstumm13)",
+		"artist": "Danser Med Drenge",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610095",
+		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -3354,6 +4176,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Det Ka' Jo Aldrig Gå Værre End Hiel Gal",
+		"artist": "De Nattergale",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610096",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Hva' Har Vi Da Gjort ... Siden Vi Ska' Ha'et Så Godt",
+		"artist": "De Nattergale",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607055",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Hva' Har Vi Da Gjort ... Siden Vi Ska' Ha'et Så Godt",
 		"artist": "De Nattergale",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607055",
@@ -3375,6 +4215,15 @@
 			"artist": "De Nattergale",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Nu Ka' Det Vist Ik' Bli' Meget Bedre",
+		"artist": "De Nattergale",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503098",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Nu Ka' Det Vist Ik' Bli' Meget Bedre",
@@ -3434,6 +4283,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Billy B.",
+		"artist": "Dear",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610099",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3c62e343-70cb-3a54-8b05-12b78a0f655c",
+			"albumTitle": "Billy B",
+			"artist": "Dear",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Home",
@@ -3588,6 +4451,38 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Love Over Gold",
+		"artist": "Dire Straits",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610100",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "935dde7e-8390-39fa-8e0d-1350db96bc3f",
+			"albumTitle": "Love Over Gold",
+			"artist": "Dire Straits",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Sultans Of Swing  The Very Best Of Dire Straits (558 658-2) (der er skrevet på cover og CD)",
+		"artist": "Dire Straits",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610101",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Private Investigations  The Best Of (2-CD) (9877475)  (front cover er vandskadet)",
+		"artist": "Dire Straits & Mark Knopfler",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610102",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Graduate",
 		"artist": "Diva",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406151",
@@ -3638,6 +4533,52 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Backwoods Barbie",
+		"artist": "Dolly Parton",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610109",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "adb12dfe-a804-384f-b280-7593196be067",
+			"albumTitle": "Backwoods Barbie",
+			"artist": "Dolly Parton",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Dolly Parton (cd 154.885)",
+		"artist": "Dolly Parton",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610110",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "For God And Country",
+		"artist": "Dolly Parton",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610111",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4b264a26-52bd-3d8f-8d13-9a1aadbc97c6",
+			"albumTitle": "For God and Country",
+			"artist": "Dolly Parton",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Best There Is (7551744760-2)",
+		"artist": "Dolly Parton",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610114",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Inside Job",
 		"artist": "Don Henley",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608186",
@@ -3677,20 +4618,6 @@
 		"quality": "K-1",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Absolutely Live (7559-61972-2)",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608188",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f02e01d9-a8a7-3530-bd4f-bc5b60f3b777",
-			"albumTitle": "Absolutely Live",
-			"artist": "The Doors",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Morrison Hotel (cover er svagt falmet)",
@@ -3758,6 +4685,20 @@
 			"releaseGroupId": "aadcc38b-65ee-304c-8f99-151422695c33",
 			"albumTitle": "Dubb",
 			"artist": "Doug MacLeod",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Rice & Curry",
+		"artist": "Dr. Bombay",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610116",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "71cc2b78-de1d-3ef2-8dc3-d257c597d3dd",
+			"albumTitle": "Rice & Curry",
+			"artist": "Dr. Bombay",
 			"type": "Album"
 		}
 	},
@@ -3884,6 +4825,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Rockferry",
+		"artist": "Duffy",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610117",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3b614664-fec0-345c-be59-364333ffedae",
+			"albumTitle": "Rockferry",
+			"artist": "Duffy",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Digital Dutch",
 		"artist": "Dutch Swing College Band",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605174",
@@ -3917,6 +4872,29 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608193",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Hotel California (7559-60509-2)",
+		"artist": "Eagles",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610120",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "91bf707c-6c33-4efd-83ca-e4c88f14bcaa",
+			"albumTitle": "Hotel California",
+			"artist": "Eagles",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Very Best Of (9548-32375-2)",
+		"artist": "Eagles",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610121",
+		"price": "20,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -3983,6 +4961,61 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Sotto Voce",
+		"artist": "Elisabeth",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610122",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f074b928-36e6-4166-af7f-fa910fe8957f",
+			"albumTitle": "Sotto Voce",
+			"artist": "Elisabeth",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Duets (518 478-2)",
+		"artist": "Elton John",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610123",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Greatest Hits (brcd14)",
+		"artist": "Elton John",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610124",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Peachtree Road (SACD)",
+		"artist": "Elton John",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610126",
+		"price": "25,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Songs From The West Coast",
+		"artist": "Elton John",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610128",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e5fa9446-4c0e-3eef-afb5-c2c1f67bb0d1",
+			"albumTitle": "Songs From the West Coast",
+			"artist": "Elton John",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "The Big Picture",
@@ -4255,9 +5288,27 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "MCMXC a.D. (1)",
+		"artist": "Enigma",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610129",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "The Cross Of Changes (2)",
 		"artist": "Enigma",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605191",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Screen Behind The Mirror",
+		"artist": "Enigma",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610130",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -4278,11 +5329,53 @@
 		}
 	},
 	{
+		"albumTitle": "A Day Without Rain",
+		"artist": "Enya",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608200",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ac954fa2-8c31-3667-aa2d-8be1e93c54bc",
+			"albumTitle": "A Day Without Rain",
+			"artist": "Enya",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "And Winter Came...",
+		"artist": "Enya",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610133",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "289a0459-65d8-305a-aa7d-15b6e7ee329c",
+			"albumTitle": "And Winter Came…",
+			"artist": "Enya",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Paint The Sky With Stars  The Best Of Enya (3984 20895 2)",
 		"artist": "Enya",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605192",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a1e948b1-808f-35f8-a799-c5322670aab9",
+			"albumTitle": "Enya",
+			"artist": "Enya",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Celts",
+		"artist": "Enya",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610135",
+		"price": "10,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {
 			"releaseGroupId": "a1e948b1-808f-35f8-a799-c5322670aab9",
@@ -4322,6 +5415,24 @@
 		"albumTitle": "Erann (0117312meg)",
 		"artist": "Erann DD",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607077",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Greatest Hits (88691974982)",
+		"artist": "Erann DD",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610137",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Greatest Hits (88691974982)",
+		"artist": "Erann DD",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610138",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -4529,6 +5640,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Natten til mandag",
+		"artist": "Erik Grip",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510178",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Velkommen I Det Grønne (4643cd)",
 		"artist": "Erik Grip",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608210",
@@ -4662,6 +5782,15 @@
 		}
 	},
 	{
+		"albumTitle": "Esther Brohus (1) (estcd 101)",
+		"artist": "Esther Brohus",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610140",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Heart Of Desert Longing",
 		"artist": "Esther Brohus",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501283",
@@ -4674,6 +5803,29 @@
 			"artist": "Ester Brohus",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Heart Of Desert Longing",
+		"artist": "Esther Brohus",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501283",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4ba8d4cf-0628-3297-a13a-024f1c4574bf",
+			"albumTitle": "Heart of Desert Longing",
+			"artist": "Ester Brohus",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Letter",
+		"artist": "Esther Brohus",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610142",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Before The Rain",
@@ -4768,6 +5920,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605211",
 		"price": "20,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Do. (ebtcd-001) (signeret)",
+		"artist": "Everybody's Talking",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610143",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -4891,6 +6052,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Five (74321 589762)",
+		"artist": "Five",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610144",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b8a438a5-8262-3e44-a681-9d6c679569e8",
+			"albumTitle": "Untitled",
+			"artist": "Five Pointe O",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Untitled",
 		"artist": "Five Pointe 0",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601210",
@@ -4931,6 +6106,57 @@
 			"artist": "Fleetwood Mac",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Always On My Mind",
+		"artist": "Flemming Bamse Jørgensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610145",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "03b9533d-dc4c-3645-aa27-edd538a88d90",
+			"albumTitle": "Always on My Mind",
+			"artist": "Flemming Bamse Jørgensen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Be My Guest",
+		"artist": "Flemming Bamse Jørgensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610146",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1ae9b0b8-b0e7-306a-ab32-d38cb2d56256",
+			"albumTitle": "Be My Guest",
+			"artist": "Flemming Bamse Jørgensen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Love Me Tender",
+		"artist": "Flemming Bamse Jørgensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610147",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "27ba0dac-1f0b-3e85-b4a2-ab65f71076df",
+			"albumTitle": "Love Me Tender",
+			"artist": "Flemming Bamse Jørgensen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Stand By Me (5206272)",
+		"artist": "Flemming Bamse Jørgensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607087",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Stand By Me (5206272)",
@@ -5011,6 +6237,20 @@
 			"releaseGroupId": "d0645c49-21a6-3f40-9df7-5f7e0a7188ed",
 			"albumTitle": "You Could Have It So Much Better",
 			"artist": "Franz Ferdinand",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Freddie Mercury Album",
+		"artist": "Freddie Mercury",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610150",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e05fe30d-54e3-31a9-9f80-755893d58ef4",
+			"albumTitle": "The Freddie Mercury Album",
+			"artist": "Freddie Mercury",
 			"type": "Album"
 		}
 	},
@@ -5138,6 +6378,20 @@
 		}
 	},
 	{
+		"albumTitle": "Beautiful Garbage",
+		"artist": "Garbage",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610152",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "03180207-e2c6-37aa-9426-5a59be7557cf",
+			"albumTitle": "beautifulgarbage",
+			"artist": "Garbage",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Garbage (1) (74321 29597-2)",
 		"artist": "Garbage",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406217",
@@ -5221,6 +6475,24 @@
 		}
 	},
 	{
+		"albumTitle": "Derudaf Forever  Live",
+		"artist": "Gasolin",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610153",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Gas 5 & 6 (2 album på en CD)",
+		"artist": "Gasolin",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605225",
+		"price": "25,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Live  Derudaf Forever",
 		"artist": "Gasolin",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605226",
@@ -5235,6 +6507,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605226",
 		"price": "15,00 kr.",
 		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Live I Skandinavien",
+		"artist": "Gasolin",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605227",
+		"price": "25,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -5280,6 +6561,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501344",
 		"price": "10,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Twenty Five (2-CD) (88697009002)",
+		"artist": "George Michael",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610155",
+		"price": "20,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -5507,6 +6797,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Julens dejlige Sange (372 066 4) (papcover)",
+		"artist": "Gustav Winckler",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610157",
+		"price": "5,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "The Day Before Summer",
 		"artist": "Hangnail",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512323",
@@ -5521,6 +6820,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608244",
 		"price": "15,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The First 40 Years (2-Cd) (559 211-2)",
+		"artist": "Hank Marvin & The Shadows",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610159",
+		"price": "10,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -5557,6 +6865,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "31a65dda-99ca-3ea1-9819-f56b6ae4f3b0",
 			"albumTitle": "Beware of the Dog",
+			"artist": "Hanne Boel",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Black Wolf",
+		"artist": "Hanne Boel",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610161",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "368fe5f4-6d90-30e4-8ed2-7e37066d226e",
+			"albumTitle": "Black Wolf",
+			"artist": "Hanne Boel",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Black Wolf",
+		"artist": "Hanne Boel",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610162",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "368fe5f4-6d90-30e4-8ed2-7e37066d226e",
+			"albumTitle": "Black Wolf",
 			"artist": "Hanne Boel",
 			"type": "Album"
 		}
@@ -5673,6 +7009,15 @@
 			"artist": "Hansi Hinterseer",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "The Danish Collection (2-CD) (88697675162)",
+		"artist": "Hansi Hinterseer",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610163",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Middle Of Nowhere",
@@ -6086,6 +7431,29 @@
 		}
 	},
 	{
+		"albumTitle": "Her Går Det Godt",
+		"artist": "Ib Grønbech",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610165",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fa77a4a4-2536-388b-90a4-2dfca4a24928",
+			"albumTitle": "Her går det godt",
+			"artist": "Ib Grønbech",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Hvad Er Det, Der Får En Rimeligt Velbegavet Dansker Til At Flytte Til Sverige?",
+		"artist": "Ib Grønbech",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406268",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Hvad Er Det, Der Får En Rimeligt Velbegavet Dansker Til At Flytte Til Sverige?",
 		"artist": "Ib Grønbech",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406268",
@@ -6107,6 +7475,15 @@
 			"artist": "Ida",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Robosoul",
+		"artist": "Ida Corr",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610167",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "IIIrd Tyme Out (11661-0602-2)",
@@ -6276,6 +7653,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Uden For Nummer, Men Venlig Stemt (Digipack)",
+		"artist": "Ivan Pedersen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610169",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "efd0c712-b63f-4a75-a315-147c478d7fba",
+			"albumTitle": "Untitled",
+			"artist": "Ivan Palacký, dieb13, Klaus Filip, Tim Blechmann",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Dream Factor",
@@ -6531,6 +7922,15 @@
 		}
 	},
 	{
+		"albumTitle": "Rock Dust Light Star",
+		"artist": "Jamiroquai",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610170",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Damita Jo",
 		"artist": "Janet Jackson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503168",
@@ -6574,6 +7974,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "We Sing, We Dance, We Steal Things",
+		"artist": "Jason Mraz",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510237",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0fba4366-e58e-30b3-814c-42f4cfbae464",
+			"albumTitle": "We Sing. We Dance. We Steal Things.",
+			"artist": "Jason Mraz",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "We Sing, We Dance, We Steal Things",
@@ -6636,6 +8050,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608290",
 		"price": "15,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Best Of Jefferson Airplane (74321 841022)",
+		"artist": "Jefferson Airplane",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608291",
+		"price": "20,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -6849,6 +8272,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Ultimate Collection (2-CD) (74321 41087 2)",
+		"artist": "Jim Reeves",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610173",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Axis: Bold As Love",
 		"artist": "Jimi Hendrix Experience",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605277",
@@ -6859,20 +8291,6 @@
 			"releaseGroupId": "d0b1e21e-cef6-4575-8d92-1afea1894ca3",
 			"albumTitle": "Axis: Bold as Love",
 			"artist": "The Jimi Hendrix Experience",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "No Quarter",
-		"artist": "Jimmy Page & Robert Plant",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608300",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "96223279-d70a-3e8b-be19-3cddd9a772a8",
-			"albumTitle": "No Quarter",
-			"artist": "Jimmy Page & Robert Plant",
 			"type": "Album"
 		}
 	},
@@ -6942,6 +8360,24 @@
 		}
 	},
 	{
+		"albumTitle": "Dejlige Minder (m 20012-2)",
+		"artist": "Jodle Birge",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608306",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Mine 32 Bedste (2-CD) (24227-2)",
+		"artist": "Jodle Birge",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608307",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Krobal (5 705643 530352) (NY i folie)",
 		"artist": "Jodle Birge & Tewana",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608308",
@@ -6988,6 +8424,29 @@
 		}
 	},
 	{
+		"albumTitle": "Cocker",
+		"artist": "Joe Cocker",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603245",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "17ceff22-7d47-348d-8a26-a0ba38a7d9f0",
+			"albumTitle": "Cocker",
+			"artist": "Joe Cocker",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Greatest Hits (4 97719 2)",
+		"artist": "Joe Cocker",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602146",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Greatest Hits (4 97719 2)",
 		"artist": "Joe Cocker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602146",
@@ -7007,6 +8466,34 @@
 			"releaseGroupId": "037f7615-6b81-473f-9283-51932b3efb42",
 			"albumTitle": "Concerto Retitled",
 			"artist": "Joe Zawinul",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Live (793 416-2)",
+		"artist": "Joe Cocker",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610177",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "037f7615-6b81-473f-9283-51932b3efb42",
+			"albumTitle": "Concerto Retitled",
+			"artist": "Joe Zawinul",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "No Ordinary World",
+		"artist": "Joe Cocker",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605282",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "54ccb167-31c2-3cf5-9734-593c920adb77",
+			"albumTitle": "No Ordinary World",
+			"artist": "Joe Cocker",
 			"type": "Album"
 		}
 	},
@@ -7048,6 +8535,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Best Of (0777 7 80512 2 0)",
+		"artist": "Joe Cocker",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503175",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "304 Holloway Road",
 		"artist": "Joe Meek",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608321",
@@ -7071,6 +8567,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Moetown",
+		"artist": "Joey Moe",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610182",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "84d1fa2f-4e0d-3ef1-bf39-8d2ca8df6637",
+			"albumTitle": "Moetown",
+			"artist": "Joey Moe",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "One Believer",
 		"artist": "John Campbell",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608324",
@@ -7083,6 +8593,24 @@
 			"artist": "John Campbell",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Greatest Hits (nd 90523)",
+		"artist": "John Denver",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610183",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Collection (290167)",
+		"artist": "John Denver",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610184",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "The Rocky Mountain Collection (2-CD) (07863 66837 2)",
@@ -7227,9 +8755,32 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Memory In The Making",
+		"artist": "John Kilzer",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610185",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1356ed5d-f299-32a3-96f6-4e22cdb100ca",
+			"albumTitle": "Memory in the Making",
+			"artist": "John Kilzer",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Boom Boom (16219cd)",
 		"artist": "John Lee Hooker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608331",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "John Lee Hooker (kbox3140a)",
+		"artist": "John Lee Hooker",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610186",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -7304,15 +8855,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Live In New York City (7 46196 2)",
-		"artist": "John Lennon",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608338",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The John Lennon Collection (0777 7 91516 2)",
 		"artist": "John Lennon",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605297",
@@ -7334,6 +8876,24 @@
 			"artist": "John Mogensen",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Som Han Var, Volume 1 (pocd 2606)",
+		"artist": "John Mogensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610188",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Som Han Var, Volume 2",
+		"artist": "John Mogensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411086",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "The Very Best Of (5 703976 100174) (NY CD)",
@@ -7431,6 +8991,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Red RiverRock (16127cd) (genindspilning)",
+		"artist": "Johnny & The Hurricanes",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610190",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "American VI: Ain't No Grave",
 		"artist": "Johnny Cash",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608341",
@@ -7463,6 +9032,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Great Love Songs Collection (pwk 014)",
+		"artist": "Johnny Cash",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610193",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "The Real Johnny Cash (3-CD-box) (88697915392)",
 		"artist": "Johnny Cash",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605302",
@@ -7490,6 +9068,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Bounty Blue",
+		"artist": "Johnny Madsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610194",
+		"price": "25,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3f84fc3f-e8d4-3374-a635-160e5ab9a198",
+			"albumTitle": "Bounty Blue",
+			"artist": "Johnny Madsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Bounty Blue",
+		"artist": "Johnny Madsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610195",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3f84fc3f-e8d4-3374-a635-160e5ab9a198",
+			"albumTitle": "Bounty Blue",
+			"artist": "Johnny Madsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "En Sang Og En Guitar",
 		"artist": "Johnny Reimar & The Cliffters",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501503",
@@ -7497,20 +9103,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hey, Where's Your Brother?",
-		"artist": "Johnny Winter",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608348",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b7039c24-8d32-3ac3-8ab1-2c82b4c0d691",
-			"albumTitle": "Hey, Where’s Your Brother?",
-			"artist": "Johnny Winter",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "This Side Up",
@@ -7544,6 +9136,15 @@
 		"artist": "Joost Vanhove",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608349",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "A Collection (2-CD) (9362-49817-7)",
+		"artist": "Josh Groban",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412517",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -7659,6 +9260,20 @@
 		}
 	},
 	{
+		"albumTitle": "Raices",
+		"artist": "Julio Iglesias",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610204",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3caf21d2-d81b-363a-a6b0-397ce0342497",
+			"albumTitle": "Raices",
+			"artist": "Julio Iglesias",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Unleashing The Beast",
 		"artist": "Justify Rebellion",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608355",
@@ -7759,6 +9374,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "2",
+		"artist": "Kandis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501513",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "3",
 		"artist": "Kandis",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501514",
@@ -7789,6 +9413,24 @@
 		"albumTitle": "5",
 		"artist": "Kandis",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409186",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "5",
+		"artist": "Kandis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409186",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "6",
+		"artist": "Kandis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503185",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -7846,10 +9488,37 @@
 		}
 	},
 	{
+		"albumTitle": "35 Års Jubilæums Tour  Live In Concert (2-CD) (00416-mm)",
+		"artist": "Kandis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610209",
+		"price": "25,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Dansepladen",
+		"artist": "Kandis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610210",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "De Bedste 1990-93",
 		"artist": "Kandis",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503187",
 		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "De Største Af De Første (10011922)",
+		"artist": "Kandis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607115",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -7886,6 +9555,24 @@
 		"artist": "Kandis",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503189",
 		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Nu Ved Jeg Julemanden Er På Vej",
+		"artist": "Kandis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503189",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Sommerdansen, Volume 2",
+		"artist": "Kandis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610213",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -7941,6 +9628,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "d633ba7b-6358-4933-833f-9902737c13e9",
 			"albumTitle": "No Balance Palace",
+			"artist": "Kashmir",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Good Life",
+		"artist": "Kashmir",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610214",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b9fa6c9c-c3e5-3151-84ce-3024f2234fd6",
+			"albumTitle": "The Good Life",
+			"artist": "Kashmir",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Trespassers",
+		"artist": "Kashmir",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610215",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8172feb4-25de-4e89-b2a9-6e3c4285626f",
+			"albumTitle": "Trespassers",
 			"artist": "Kashmir",
 			"type": "Album"
 		}
@@ -8010,6 +9725,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Call Of The Search",
+		"artist": "Katie Melua",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502360",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Call Of The Search (1-CD/1-DVD) (dramdvcd 0001)",
 		"artist": "Katie Melua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510265",
@@ -8034,6 +9758,20 @@
 			"releaseGroupId": "149a4e43-5cca-4d11-937d-8a8091a14f4d",
 			"albumTitle": "[untitled]",
 			"artist": "Katie Gately",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Pictures",
+		"artist": "Katie Melua",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510266",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f29358f6-3fd6-3cc2-8471-4f581b584285",
+			"albumTitle": "Pictures",
+			"artist": "Katie Melua",
 			"type": "Album"
 		}
 	},
@@ -8089,6 +9827,15 @@
 		}
 	},
 	{
+		"albumTitle": "One Of The Boys (509992 29139 2)",
+		"artist": "Katy Perry",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610219",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Kaya (recd 6101)",
 		"artist": "Kaya",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510268",
@@ -8103,6 +9850,24 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501522",
 		"price": "5,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The State I'm In (recd 6505)",
+		"artist": "Kaya",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501522",
+		"price": "5,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Med Dannebrog På Næsen (digipack)",
+		"artist": "Kaya Brüel",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610221",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -8168,6 +9933,20 @@
 			"releaseGroupId": "f9dc5bf1-ab78-4dd0-9ec1-3a2977d87bb1",
 			"albumTitle": "Weihnachten mit der Kelly Family",
 			"artist": "The Kelly Family",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Live (krb 1131-2)",
+		"artist": "Kelly Richey Band",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610223",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b65c6ebc-9dd1-357c-bd65-131b04f0ebd1",
+			"albumTitle": "Self Titled",
+			"artist": "The Band Who Knew Too Much",
 			"type": "Album"
 		}
 	},
@@ -8245,6 +10024,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Classic Collection (2-CD) (metrdcd579)",
+		"artist": "Kenny Rogers & The First Edigion",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610224",
+		"price": "15,00 kr.",
+		"quality": "K-1",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "For The Good Times (16117cd)",
 		"artist": "Kenny Rogers & The First Edition",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509255",
@@ -8261,6 +10049,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Så'n er dét (llr 1201)",
+		"artist": "Kent Thomsen og De Dyre Drenge",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610226",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "63bdeeea-8624-4143-82f7-202d57212207",
+			"albumTitle": "Repent Your Sins... / Untitled",
+			"artist": "Kent Brockman, Edöra",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Kevin Lyttle (7567-83699-2)",
@@ -8289,6 +10091,15 @@
 			"artist": "Keziah Jones",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Pressure Cooker",
+		"artist": "Kid Bangham & Amyl Justin",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610227",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Mass. (Down.)-Sin. (Drone.)",
@@ -8323,6 +10134,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Hvem Kan Sige Nej Til En Engel",
+		"artist": "Kim Larsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610228",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "df3b78ef-8e93-3628-8dd4-b1899559d904",
+			"albumTitle": "Hvem kan sige nej til en engel",
+			"artist": "Kim Larsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Midt Om Natten",
+		"artist": "Kim Larsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610229",
+		"price": "25,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b690a9a6-b6f8-3bd8-bc80-ebc824b2c440",
+			"albumTitle": "Midt om natten",
+			"artist": "Kim Larsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Forklædt Som Voksen (digipack) (cover har en lille revne uden betydning)",
 		"artist": "Kim Larsen & Bellami",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607123",
@@ -8351,6 +10190,29 @@
 		}
 	},
 	{
+		"albumTitle": "Sange Fra Glemmebogen (digipack)",
+		"artist": "Kim Larsen & Kjukken",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610232",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4f3cb056-6518-4192-a9c9-eea092f73d28",
+			"albumTitle": "self-titled",
+			"artist": "Bells Larsen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Verdens Bedste Øjeblik",
+		"artist": "Kim Schwartz",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610233",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Over The Rainbow",
 		"artist": "Kim Sjøgren",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501059",
@@ -8372,6 +10234,15 @@
 		"albumTitle": "Jul Med Kirsten Siggaard (Hjemmet) (papcover)",
 		"artist": "Kirsten Siggaard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509262",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Jul Med Kirsten Siggaard (promo) (papcover)",
+		"artist": "Kirsten Siggaard",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610235",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -8415,6 +10286,24 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605334",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Help Me Make It Through The Night (2182cd)",
+		"artist": "Kris Kristofferson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610238",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Very Best Of (494 188-2)",
+		"artist": "Kris Kristofferson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610239",
+		"price": "15,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -8592,6 +10481,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "I En Sommernat",
+		"artist": "Lars Lilholt",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610241",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "11b0f6dc-489a-48fd-981b-5ab3e3eb5775",
+			"albumTitle": "I en sommernat",
+			"artist": "Lars Lilholt",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Jens Langkniv",
 		"artist": "Lars Lilholt",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411106",
@@ -8613,6 +10516,15 @@
 		"albumTitle": "Kald Det Kærlighed",
 		"artist": "Lars Lilholt",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412551",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Kald Det Kærlighed (521 271-2)",
+		"artist": "Lars Lilholt",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610242",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -8669,6 +10581,43 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Med Natten Mod Vest",
+		"artist": "Lars Lilholt",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502444",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Og Fanden Dukked Op Og Sagde Ja",
+		"artist": "Lars Lilholt",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610244",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "30185952-f2cb-4a94-a9f0-877c802277b2",
+			"albumTitle": "Og fanden dukked op og sagde ja!",
+			"artist": "Lars Lilholt",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Portland",
+		"artist": "Lars Lilholt",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610245",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e8299cc2-4075-43b3-ba56-10391b75a5ff",
+			"albumTitle": "Portland",
+			"artist": "Lars Lilholt Band",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Till The End Of Time / The Bedroom Tapes  Best Of Lars Muhl (2-CD) (kickcd 96)",
 		"artist": "Lars Muhl",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603306",
@@ -8719,6 +10668,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Alkymi",
+		"artist": "Laura Mo",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610247",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9d79c7c6-873d-3f3d-8566-b52d079454d8",
+			"albumTitle": "Alkymi",
+			"artist": "Laura Mo",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Veiled",
 		"artist": "Leah Andreone",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608376",
@@ -8733,11 +10696,29 @@
 		}
 	},
 	{
+		"albumTitle": "Family",
+		"artist": "Leann Rimes",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610248",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "I Need You (8573876382)",
 		"artist": "Leann Rimes",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608377",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Led Zeppelin II",
+		"artist": "Led Zeppelin",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610249",
+		"price": "15,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -8902,6 +10883,34 @@
 		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Ten New Songs",
+		"artist": "Leonard Cohen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610250",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b162cc5a-e4bb-3c65-b321-09245aea3e7a",
+			"albumTitle": "Ten New Songs",
+			"artist": "Leonard Cohen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Essential (2-CD) (497995 2)",
+		"artist": "Leonard Cohen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610251",
+		"price": "25,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "79b10d84-008c-4fa2-8ead-c4383cdfd617",
+			"albumTitle": "untitled.ground",
+			"artist": "Kiran Leonard",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "The Essential (2-CD) (88697773642)",
@@ -9133,6 +11142,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Julens Sange (promo) (papcover)",
+		"artist": "Lis & Per",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610253",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Sangen Til Livet (signeret)",
 		"artist": "Lis & Per",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608396",
@@ -9142,6 +11160,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Du Ka' Få Mig Til Alt",
+		"artist": "Lis Sørensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610254",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "808a2369-9041-3fed-a372-eb1b8ed2ba4f",
+			"albumTitle": "Du ka' få mig til alt",
+			"artist": "Lis Sørensen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Hjerternes Sang",
 		"artist": "Lis Sørensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503209",
@@ -9149,6 +11181,38 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Indtil Dig Igen  Sørensen's Bedste (532 479-2)",
+		"artist": "Lis Sørensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610255",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "På Sådan En Morgen  De 20 Skønneste (88883786232) (digipack)",
+		"artist": "Lis Sørensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610256",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Under Stjernerne Et Sted",
+		"artist": "Lis Sørensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610258",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "69f171d2-2ff8-3ebe-9941-14570bfccf29",
+			"albumTitle": "Under stjernerne et sted",
+			"artist": "Lis Sørensen",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "En Samling Sånger",
@@ -9169,6 +11233,38 @@
 		"artist": "Lisa Ekdahl",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510290",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Lisa Ekdahl (1) (4750992)",
+		"artist": "Lisa Ekdahl",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610259",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Back To Earth",
+		"artist": "Lisa Ekdahl / Peter Nordahl Trio",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610260",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "73530b14-94b3-42c0-bfe2-d843fe7d5af3",
+			"albumTitle": "Back to Earth",
+			"artist": "Lisa Ekdahl, Peter Nordahl Trio",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "20 Lisa Nilsson En Jubilæumssamling (88697735912)",
+		"artist": "Lisa Nilsson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610261",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -9234,6 +11330,15 @@
 		}
 	},
 	{
+		"albumTitle": "Pick Them All (Digipack)",
+		"artist": "Liset & Sørensen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610262",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "20 Greatest Hits (50640)",
 		"artist": "Little Richard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603316",
@@ -9268,6 +11373,34 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "No One Will Force You (24006-2)",
+		"artist": "Liz Mitchell",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610264",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5db1cd0d-4cae-432e-b9fd-f87d20d93be2",
+			"albumTitle": "untitled video game soundtrack",
+			"artist": "Eliza Mitchell",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Ramt I Natten",
+		"artist": "Lizzie",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610265",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bf4de51b-aed6-39be-898c-7006f259724f",
+			"albumTitle": "Ramt i natten",
+			"artist": "Lizzie",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Little Paul's Blvd",
@@ -9395,6 +11528,62 @@
 		}
 	},
 	{
+		"albumTitle": "Transformer",
+		"artist": "Lou Reed",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610267",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6c8345df-f822-33af-b64a-eff2e46941b9",
+			"albumTitle": "Transformer",
+			"artist": "Lou Reed",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Rhythm & Blonde",
+		"artist": "Louise Hofsten",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610268",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "75a7fb2e-2f60-3828-869f-eb96867335a6",
+			"albumTitle": "Rhythm & Blonde",
+			"artist": "Louise Hoffsten",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Caught In The Act",
+		"artist": "Love Construction",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610269",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c20d5fe8-baec-4196-91a4-a882e53462af",
+			"albumTitle": "Caught In The Act",
+			"artist": "Love Construction",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Sendt Fra Himlen 1990-2004 (5161142)",
+		"artist": "Love Shop",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610270",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3da75b59-04fa-48e8-9f85-5f573f6fc1f0",
+			"albumTitle": "The American Dream Has Always Been Exclusive To White People We Must Give Solidarity To Black Lives + Untitled",
+			"artist": "Stop n' Shop",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Lucy Pearl (8 49393 2)",
 		"artist": "Lucy Pearl",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501550",
@@ -9422,10 +11611,56 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Confessions On A Dance Floor",
+		"artist": "Madonna",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610272",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1aef14de-7d07-4e95-8e27-a4c8445d4441",
+			"albumTitle": "Confessions On A Dance Floor",
+			"artist": "Madonna",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Something To Remember",
 		"artist": "Madonna",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608406",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "In These Waters",
+		"artist": "Mads Langer",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610273",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "bc8c0a68-9b48-45e1-98d2-c2ae0a0065ed",
+			"albumTitle": "In These Waters",
+			"artist": "Mads Langer",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Mads Langer (1) (cphrec 0161-2)",
+		"artist": "Mads Langer",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610274",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Echoes",
+		"artist": "Maggie Reilly",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409228",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -9551,15 +11786,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Marcy Playground (1) (8 53569 2)",
-		"artist": "Marcy Playground",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602213",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "That's Just Me",
 		"artist": "Maria Lucia",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607175",
@@ -9674,11 +11900,29 @@
 		}
 	},
 	{
+		"albumTitle": "Ghost Of Love (mvrcd 108) (digipack)",
+		"artist": "Marie Fisker",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610279",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Vermilion",
 		"artist": "Marie Frank",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409056",
 		"price": "2,00 kr.",
 		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Den Ständiga Resen",
+		"artist": "Marie Fredriksson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610280",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -9738,29 +11982,6 @@
 		}
 	},
 	{
-		"albumTitle": "Kill To Get Crimson",
-		"artist": "Mark Knopfler",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607189",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "73e7b1df-648c-3bca-88f1-db3b4622c23a",
-			"albumTitle": "Kill to Get Crimson",
-			"artist": "Mark Knopfler",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Sailing To Philadelphia",
-		"artist": "Mark Knopfler",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503250",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Sailing To Philadelphia (cover er svagt falmet)",
 		"artist": "Mark Knopfler",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601406",
@@ -9812,20 +12033,6 @@
 		}
 	},
 	{
-		"albumTitle": "All The Roadrunning",
-		"artist": "Mark Knopfler & Emmylou Harris",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607194",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1b4d7819-4523-3ef6-beb4-dcc491e3e65c",
-			"albumTitle": "All the Roadrunning",
-			"artist": "Mark Knopfler, Emmylou Harris",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Best Of My Love (grf 260)",
 		"artist": "Marmalade",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608415",
@@ -9833,6 +12040,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Hands All Over",
+		"artist": "Maroon 5",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610282",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a097ca51-85d5-4109-8e0f-55189a70cb9b",
+			"albumTitle": "Hands All Over",
+			"artist": "Maroon 5",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Heartless Is More",
@@ -9953,6 +12174,15 @@
 			"artist": "Maxwell",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Me & My (8370852)",
+		"artist": "Me & My",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610285",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Best Times",
@@ -10133,6 +12363,38 @@
 		}
 	},
 	{
+		"albumTitle": "Nede Med Øl",
+		"artist": "Michael Hardinger",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610288",
+		"price": "25,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cf5b373a-c42c-4918-839d-bae9c76ab8e9",
+			"albumTitle": "Nede Med Øl",
+			"artist": "Michael Hardinger",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Electric Storyland Live (2-CD) (ruf 1088)",
+		"artist": "Michael Hill's Blues Mob",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610289",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "19 Love Songs (5415062)",
+		"artist": "Michael Learns To Rock",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610290",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Blue Night",
 		"artist": "Michael Learns To Rock",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#41-2510",
@@ -10159,6 +12421,15 @@
 			"artist": "Michael Learns to Rock",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Colours",
+		"artist": "Michael Learns To Rock",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411188",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Colours",
@@ -10202,6 +12473,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411189",
 		"price": "5,00 kr.",
 		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Hustlinī And Bustlinī",
+		"artist": "Michael McQuaid's Late Hour Boys",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610293",
+		"price": "5,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -10266,6 +12546,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "One More Bridge To Cross (mightymusic 101)",
+		"artist": "Mighty Sam McClain",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610295",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f7d04eb1-7044-4267-9d80-790b0956fed0",
+			"albumTitle": "As Yet Untitled",
+			"artist": "The Mighty Handful",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Life In Cartoon Motion",
 		"artist": "Mika",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605386",
@@ -10304,6 +12598,29 @@
 			"releaseGroupId": "8d457951-151b-32ae-aa61-332c82ce884a",
 			"albumTitle": "Beggar on a Beach of Gold",
 			"artist": "Mike + the Mechanics",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Mike Andersen (naordic 117)",
+		"artist": "Mike Andersen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610296",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Tomorrow (cd b&t 21)",
+		"artist": "Mike Andersen Band",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610297",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b65c6ebc-9dd1-357c-bd65-131b04f0ebd1",
+			"albumTitle": "Self Titled",
+			"artist": "The Band Who Knew Too Much",
 			"type": "Album"
 		}
 	},
@@ -10514,6 +12831,29 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Monkey Okay (5707785004784)",
+		"artist": "Monkey Okay",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610298",
+		"price": "25,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "ef8abccb-5e4b-4cda-abec-fcba1a65f3aa",
+			"albumTitle": "[Self-Titled]",
+			"artist": "Stunt Monkey",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Long Haul of Cercopithecoidea (spec.cover)",
+		"artist": "Monkey Okay",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610299",
+		"price": "25,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Knepper De? (2-CD)",
 		"artist": "Monrad & Rislund",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510332",
@@ -10532,6 +12872,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "cfa41de6-5282-3af5-8d05-52a02676657b",
 			"albumTitle": "Bag de blå bjerge",
+			"artist": "Moonjam",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Butterfly",
+		"artist": "Moonjam",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610302",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f3a25a0c-cae9-4fa0-9257-4a020dc175dc",
+			"albumTitle": "Butterfly",
 			"artist": "Moonjam",
 			"type": "Album"
 		}
@@ -10560,6 +12914,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410716",
 		"price": "10,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Songs For Saxophone",
+		"artist": "Moonjam",
+		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409060",
+		"price": "2,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -10605,6 +12968,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607221",
 		"price": "10,00 kr.",
 		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Night Club",
+		"artist": "Mr. President",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610305",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -10659,6 +13031,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Pletskud & Vildskud  Nanna's Bedste (5963582)",
+		"artist": "Nanna",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610308",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Rocking Horse",
 		"artist": "Nanna",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411211",
@@ -10666,6 +13047,29 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Rocking Horse",
+		"artist": "Nanna",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411211",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Små, Blå Breve",
+		"artist": "Nanna",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610310",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f11409e2-a8df-3d46-b1c7-40eaed50461b",
+			"albumTitle": "Små blå breve",
+			"artist": "Nanna",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Mona Lisa (2123cd)",
@@ -10723,6 +13127,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Best Of (mcd 18944)",
+		"artist": "Neil Diamond",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610312",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6dc4d13e-ac36-40a9-8769-7483bb22706f",
+			"albumTitle": "[untitled]",
+			"artist": "Diamond Black Hearted Boy",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Jonathan Livingston Seagull",
+		"artist": "Neil Diamond",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610313",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "480f2a38-e33f-3072-ad12-5ebebfb0c855",
+			"albumTitle": "Jonathan Livingston Seagull",
+			"artist": "Neil Diamond",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Greatest Hits  Live (16118cd)",
 		"artist": "Neil Sedaka",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12403449",
@@ -10735,15 +13167,6 @@
 		"albumTitle": "Decade (2-CD) (7599-27233-2)",
 		"artist": "Neil Young",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607226",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Everybody's Rockin' (With The Shocking Pinks)",
-		"artist": "Neil Young",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607227",
 		"price": "25,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -10843,6 +13266,29 @@
 		}
 	},
 	{
+		"albumTitle": "DanmarkDenmark (1-CD/1-DVD)",
+		"artist": "Nephew",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610314",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Interkom Kom Ind",
+		"artist": "Nephew",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610315",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9341f77e-a41f-3f06-a8bb-c96f52f2da6c",
+			"albumTitle": "Interkom kom ind",
+			"artist": "Nephew",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "USADSB",
 		"artist": "Nephew",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607244",
@@ -10880,6 +13326,20 @@
 		}
 	},
 	{
+		"albumTitle": "Great News",
+		"artist": "News",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411222",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "78898a06-79a2-3856-9879-10183d2a07b7",
+			"albumTitle": "Great News",
+			"artist": "News",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Get Inside",
 		"artist": "Nice Device",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407192",
@@ -10893,6 +13353,15 @@
 		"artist": "Nice Little Penguins",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501598",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Hits, News & Live (r 60027-2)",
+		"artist": "Nice Little Penguins",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610318",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -10916,10 +13385,70 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Engle Eller Dæmoner",
+		"artist": "Nik & Jay",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610319",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c5ff7760-7230-4745-abf9-de4aa28cc44b",
+			"albumTitle": "Engle eller dæmoner",
+			"artist": "Nik & Jay",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Piloter",
+		"artist": "Nikolaj",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610320",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Hvad Er Det Der Sker?",
+		"artist": "Nikolaj Nørlund",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610321",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fe661a74-abc7-3b17-a506-4c8962174e6b",
+			"albumTitle": "Hvad er det der sker?",
+			"artist": "Nikolaj Nørlund",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Nye Optagelser",
+		"artist": "Nikolaj Nørlund",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610322",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d81ad1f4-2dbf-3e35-ba94-2297ede148c4",
+			"albumTitle": "Nye optagelser",
+			"artist": "Nikolaj Nørlund",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Nikolaj Steen (1) (pd 90581)",
 		"artist": "Nikolaj Steen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502565",
 		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Without You  The Greatest Hits (wmcd 5706)",
+		"artist": "Nilsson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610323",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -10968,6 +13497,48 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Come Away With Me (5 32088 2)",
+		"artist": "Norah Jones",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610324",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
+			"albumTitle": "Title And Descriptive Themes",
+			"artist": "John Du Prez",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Feels Like Home",
+		"artist": "Norah Jones",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610325",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "689db471-1647-3d0f-a6b8-2e776cf913e8",
+			"albumTitle": "Feels Like Home",
+			"artist": "Norah Jones",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Fall (spec.cover)",
+		"artist": "Norah Jones",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610327",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
+			"albumTitle": "Title And Descriptive Themes",
+			"artist": "John Du Prez",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Skeletons",
@@ -11039,6 +13610,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "aea3ea51-121e-30a6-adc2-c63e659603ac",
 			"albumTitle": "Be Here Now",
+			"artist": "Oasis",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Standing on the Shoulder of Giants",
+		"artist": "Oasis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610328",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4ad23d4c-520e-39a3-8d7e-e4d396d24bfe",
+			"albumTitle": "Standing on the Shoulder of Giants",
 			"artist": "Oasis",
 			"type": "Album"
 		}
@@ -11267,6 +13852,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Hvide Løgne",
+		"artist": "One Two",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503410",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Hvide Løgne",
+		"artist": "One Two",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503410",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "House Of Secrets",
 		"artist": "Otep",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602291",
@@ -11317,6 +13920,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Collection (dsi 995822)",
+		"artist": "Otto Brandenburg",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610332",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "To Lys På Et Bord (2-CD) (5306132)",
 		"artist": "Otto Brandenburg",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503412",
@@ -11333,6 +13945,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Outland's Official",
+		"artist": "Outlandish",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610333",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1971bfcb-412e-3855-a042-409a77f38885",
+			"albumTitle": "Outland's Official",
+			"artist": "Outlandish",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Reborn To Kill Again",
@@ -11358,6 +13984,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Stories From The City, Stories From The Sea",
+		"artist": "P J Harvey",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610335",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "71641af7-d122-326a-b0bb-f76a8d09810c",
+			"albumTitle": "Stories From the City, Stories From the Sea",
+			"artist": "PJ Harvey",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "The River Made No Sound (digipack)",
 		"artist": "Pan.American",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605392",
@@ -11367,11 +14007,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "En Varm Nats Kølige Luft",
+		"artist": "Panamah",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610336",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "86c16076-638c-4dc2-97ec-7c22220a8d09",
+			"albumTitle": "En varm nats kølige luft",
+			"artist": "Panamah",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Aderpale",
 		"artist": "Parker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407254",
 		"price": "15,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Tilbaks På Ruta 1",
+		"artist": "Patrik Isaksson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610337",
+		"price": "5,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -11390,6 +14053,24 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603377",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Twelve (digipack)",
+		"artist": "Patti Smith",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610339",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Greatest Hits (mcad 10653)",
+		"artist": "Patty Loveless",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610340",
+		"price": "10,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -11426,6 +14107,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Off The Ground",
+		"artist": "Paul McCartney",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410730",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Tripping The Live Fantastic (2-CD-box) (7 94778 2)",
 		"artist": "Paul McCartney",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607260",
@@ -11436,6 +14126,34 @@
 			"releaseGroupId": "a810db2a-b3ad-4bda-ae5e-8135cb68ed31",
 			"albumTitle": "Entitled to Carry My Own Weight",
 			"artist": "Wings of an Angel",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Unplugged (The Official Bootleg)",
+		"artist": "Paul McCartney",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610344",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a810db2a-b3ad-4bda-ae5e-8135cb68ed31",
+			"albumTitle": "Entitled to Carry My Own Weight",
+			"artist": "Wings of an Angel",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "One Chance",
+		"artist": "Paul Potts",
+		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607039",
+		"price": "2,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f140c38c-538d-45e7-b7ab-670fe5f8426d",
+			"albumTitle": "One Chance",
+			"artist": "Paul Potts",
 			"type": "Album"
 		}
 	},
@@ -11541,6 +14259,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "PopArt  The Hits (2-CD) (7243 594837 2 6)",
+		"artist": "Pet Shop Boys",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610346",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Very",
 		"artist": "Pet Shop Boys",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605394",
@@ -11586,6 +14313,15 @@
 		"artist": "Peter Astor",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407288",
 		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Det Bli'r Aldrig Som Det Var I...",
+		"artist": "Peter Belli",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610349",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -11659,6 +14395,29 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Very Best Of (16268cd)",
+		"artist": "Petula Clark",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610351",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Both Sides",
+		"artist": "Phil Collins",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610352",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "777aecbd-a9d4-3751-babf-fafd590e16f8",
+			"albumTitle": "Both Sides",
+			"artist": "Phil Collins",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "But Seriously",
 		"artist": "Phil Collins",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502567",
@@ -11677,6 +14436,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "364ced42-7450-3b3c-9c74-86835df39290",
 			"albumTitle": "Dance Into the Light",
+			"artist": "Phil Collins",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Hello, I Must Be Going!",
+		"artist": "Phil Collins",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610353",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5143705a-f34a-3e92-96e9-cff32308a508",
+			"albumTitle": "Hello, I Must Be Going!",
 			"artist": "Phil Collins",
 			"type": "Album"
 		}
@@ -11737,6 +14510,20 @@
 		}
 	},
 	{
+		"albumTitle": "Wish You Were Here",
+		"artist": "Pink Floyd",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610357",
+		"price": "25,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "aec8c2eb-0639-436f-99db-9974781f241c",
+			"albumTitle": "Wish You Were Here",
+			"artist": "Pink Floyd",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Christmas In Vienna, Volume 3 (sk 66846)",
 		"artist": "Plácido Domingo, Sissel Kyrkjebø & Charles Aznavour",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603392",
@@ -11762,6 +14549,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Throw Your Dog A Bone",
+		"artist": "Pocket Players",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610358",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "23af7f42-aeec-41a3-97ae-cc16d6e78b24",
+			"albumTitle": "Throw Your Dog a Bone",
+			"artist": "The Pocket Players",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Pockets (1) (8567672)",
@@ -11832,6 +14633,15 @@
 		"artist": "Poul Erik Krogen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607279",
 		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Dansen, Månen & Vejen",
+		"artist": "Poul Krebs",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503494",
+		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -11963,6 +14773,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Strejfer",
+		"artist": "Poul Krebs",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501628",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Skynd Dig Langsomt",
 		"artist": "Povl Dissing & Benny Andersen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603398",
@@ -11975,6 +14794,15 @@
 			"artist": "Povl Dissing, Benny Andersen",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Den Signede Dag (fxcd 229) (Digipack)",
+		"artist": "Povl Dissing, Knud Riersrud, Iver Kleive",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610363",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Last Of The Independents",
@@ -12152,6 +14980,34 @@
 		}
 	},
 	{
+		"albumTitle": "Made In Heaven",
+		"artist": "Queen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608471",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "780e6a16-9384-307d-ae65-02e1d6313753",
+			"albumTitle": "Made in Heaven",
+			"artist": "Queen",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Made In Heaven",
+		"artist": "Queen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608471",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "780e6a16-9384-307d-ae65-02e1d6313753",
+			"albumTitle": "Made in Heaven",
+			"artist": "Queen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "R. (2-CD) (spec.cover)",
 		"artist": "R. Kelly",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603402",
@@ -12166,10 +15022,56 @@
 		}
 	},
 	{
+		"albumTitle": "Automatic For The People",
+		"artist": "R.E.M.",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610368",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c86c6af9-d10e-3079-b34b-30b682a797eb",
+			"albumTitle": "Automatic for the People",
+			"artist": "R.E.M.",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "In Time  The Best Of R.E.M. 1988-2003 (9362-48381-2)",
+		"artist": "R.E.M.",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610371",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Monster",
 		"artist": "R.E.M.",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411335",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "New Adventures In Hi-Fi",
+		"artist": "R.E.M.",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610372",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6d4f73cb-9c02-33c5-ba06-c927a9b963ad",
+			"albumTitle": "New Adventures in Hi‐Fi",
+			"artist": "R.E.M.",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Best Of (713 128-2)",
+		"artist": "R.E.M.",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610373",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -12184,6 +15086,29 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Hail To The Thief",
+		"artist": "Radiohead",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610374",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5c14fd50-a2f1-3672-9537-b0dad91bea2f",
+			"albumTitle": "Hail to the Thief",
+			"artist": "Radiohead",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Best Of (099921 630521)",
+		"artist": "Radiohead",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610375",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Ducks And Drakes",
 		"artist": "Randi Laubek",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503517",
@@ -12191,6 +15116,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Wedding Of All Things",
+		"artist": "Randi Laubek",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608474",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b842c8fe-5a7e-3417-8064-bd7cf4b0861c",
+			"albumTitle": "The Wedding of All Things",
+			"artist": "Randi Laubek",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "The Wedding Of All Things",
@@ -12275,6 +15214,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Fra Kæreste Til Grin",
+		"artist": "Rasmus Nøhr",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610377",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d4f62a4f-e6d4-415b-890d-d14d1f753e85",
+			"albumTitle": "Fra kæreste til grin",
+			"artist": "Rasmus Nøhr",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Enter",
 		"artist": "Rasmus Riis, Kasper Lysemose & Brian Agha",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603410",
@@ -12289,6 +15242,29 @@
 		}
 	},
 	{
+		"albumTitle": "Før Vi Mødte Dig",
+		"artist": "Rasmus Seebach",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610378",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "54e07aa9-d085-42e5-9152-d985abc71329",
+			"albumTitle": "Før vi mødte dig",
+			"artist": "Rasmus Seebach",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Mer' End Kærlighed",
+		"artist": "Rasmus Seebach",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503528",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Mer' End Kærlighed",
 		"artist": "Rasmus Seebach",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503528",
@@ -12301,6 +15277,15 @@
 		"albumTitle": "Mer' End Kærlighed (1-CD/1-DVD) (digipack)",
 		"artist": "Rasmus Seebach",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410747",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Rasmus Seebach (1) (apcd 60230)",
+		"artist": "Rasmus Seebach",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610380",
 		"price": "10,00 kr.",
 		"quality": "K-4",
 		"type": "Album",
@@ -12408,6 +15393,15 @@
 		}
 	},
 	{
+		"albumTitle": "#1's (2-CD) (602498847220)",
+		"artist": "Reba McEntire",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610384",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Show World",
 		"artist": "Redd Cross",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408341",
@@ -12417,18 +15411,13 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Viorus",
-		"artist": "Regicide",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602335",
-		"price": "20,00 kr.",
+		"albumTitle": "Beautiful Moments (2-CD) (5201062)",
+		"artist": "Richard Clayderman",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610385",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b41682c8-2422-33dc-9945-fe51ce3b6e78",
-			"albumTitle": "Viorus",
-			"artist": "Regicide",
-			"type": "Album"
-		}
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Best Of  Ballade Pour Adeline (cd 153.042) (NY i folie)",
@@ -12436,6 +15425,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608478",
 		"price": "5,00 kr.",
 		"quality": "K-1",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Desperado",
+		"artist": "Richard Clayderman",
+		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406288",
+		"price": "2,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -12457,6 +15455,24 @@
 		"albumTitle": "The Classic Clayderman (brcd 85)",
 		"artist": "Richard Clayderman",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603417",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Love Songs Of Andrew Lloyd Webber",
+		"artist": "Richard Clayderman",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610387",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Very Best Of Richard Clayderman (5215952)",
+		"artist": "Richard Clayderman",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610388",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -12612,6 +15628,66 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Monkeygrinder",
+		"artist": "Rob Tognoni",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610390",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "9ad6363d-702e-34b5-8c5e-3e2804bc2730",
+			"albumTitle": "Monkeygrinder",
+			"artist": "Rob Tognoni",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Live At The Twilight (prd 71192)",
+		"artist": "Rob Tognoni Band",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610391",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Stones And Colours",
+		"artist": "Rob Tognoni Band",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610392",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b416f5d1-bd73-32a8-922e-357cabe3037d",
+			"albumTitle": "Stones and Colours",
+			"artist": "Rob Tognoni Band",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Retro Shakin'",
+		"artist": "Rob Tognoni Power Blues Rock",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610393",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a2bfa732-f6eb-3a10-9a54-b5b444d7f264",
+			"albumTitle": "Retro Shakin'",
+			"artist": "Rob Tognoni",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Keep On Running (ccd-2212-2)",
+		"artist": "Robben Ford",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610394",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Escapology",
 		"artist": "Robbie Williams",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409308",
@@ -12625,6 +15701,15 @@
 		"artist": "Robbie Williams",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607314",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Greatest Hits Collection (5099960299123) (papcover)",
+		"artist": "Robbie Williams",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610396",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -12671,6 +15756,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Nothin But Love (digipack)",
+		"artist": "Robert Cray",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610397",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "All My Love  Rocazino's Bedste (526 947-2)",
 		"artist": "Rocazino",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602342",
@@ -12680,11 +15774,11 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Elsk Mig I Nat (umd 987 305 5)",
-		"artist": "Rocazino",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607317",
-		"price": "10,00 kr.",
-		"quality": "K-3",
+		"albumTitle": "Atlantic Crossing",
+		"artist": "Rod Stewart",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610400",
+		"price": "15,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -12762,6 +15856,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Greatest Hits (5 94164 2)",
+		"artist": "Rodney Carrington",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610401",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Back From Rio",
 		"artist": "Roger McGuinn",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503589",
@@ -12774,6 +15877,15 @@
 			"artist": "Roger McGuinn",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Amused To Death (ck 47127)",
+		"artist": "Roger Waters",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610403",
+		"price": "25,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "All-Time Favorites (cdl-57419)",
@@ -12835,20 +15947,6 @@
 		}
 	},
 	{
-		"albumTitle": "Bridges To Babylon",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607326",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d7ef7347-c582-3109-a54a-9bc6cde8ee45",
-			"albumTitle": "Bridges to Babylon",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Flashpoint  Recorded Live 1989-1990",
 		"artist": "Rolling Stones",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607330",
@@ -12862,6 +15960,24 @@
 		"artist": "Rolling Stones",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607331",
 		"price": "30,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Get Yer Ya-Ya's Out  In Concert (882 362-2)",
+		"artist": "Rolling Stones",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610408",
+		"price": "25,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Jump Back  The Best Of The Rolling Stones 71-93 (8 39321 2)",
+		"artist": "Rolling Stones",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610410",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -12897,20 +16013,6 @@
 		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Voodoo Lounge",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503594",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7645ef59-6d8c-37fe-8467-d566d3cf5926",
-			"albumTitle": "Voodoo Lounge",
-			"artist": "The Rolling Stones",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Voodoo Lounge",
@@ -12978,6 +16080,15 @@
 		}
 	},
 	{
+		"albumTitle": "Hits (0946 3 67978 2 3)",
+		"artist": "Roxette",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610413",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "All-Time Greatest Hits (slcd 805)",
 		"artist": "Roy Orbison",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603438",
@@ -12985,6 +16096,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "King Of Hearts",
+		"artist": "Roy Orbison",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610416",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "056b97e9-85b9-3b80-856e-3eb660c61990",
+			"albumTitle": "King of Hearts",
+			"artist": "Roy Orbison",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Mystery Girl",
@@ -13097,6 +16222,29 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "In Search Of Angels",
+		"artist": "Runrig",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610417",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "872a07de-e84e-3b5f-86b2-ba3df12bb2a1",
+			"albumTitle": "In Search of Angels",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Long Distance  The Best Of (2-CD) (8 54482 2)",
+		"artist": "Runrig",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610418",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Mara",
 		"artist": "Runrig",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608485",
@@ -13106,6 +16254,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "e62f2b14-d381-37b6-9f84-2682ed1c7c93",
 			"albumTitle": "Mara",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Recovery",
+		"artist": "Runrig",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610420",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "cf1288e7-5272-3935-8cd6-8e882177cda6",
+			"albumTitle": "Recovery",
 			"artist": "Runrig",
 			"type": "Album"
 		}
@@ -13129,6 +16291,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Transmitting Live",
+		"artist": "Runrig",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610422",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "62b008a6-087c-3d39-9989-4c5c43b37f43",
+			"albumTitle": "Transmitting Live",
+			"artist": "Runrig",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Cold Roses (2-CD) (spec.cover)",
 		"artist": "Ryan Farms & The Cardinals",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603443",
@@ -13143,6 +16319,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608488",
 		"price": "10,00 kr.",
 		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Sacred Spirit II  More Chants And Dances Of The Native Americans",
+		"artist": "Sacred Spirit",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610424",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -13185,6 +16370,76 @@
 			"releaseGroupId": "45edb88c-0c1b-3448-9093-0dff62856e47",
 			"albumTitle": "3.0",
 			"artist": "Safri Duo",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "3.5 (2-CD)",
+		"artist": "Safri Duo",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610425",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e57f7b15-9a9f-4255-9174-fe678e14840c",
+			"albumTitle": "[untitled]",
+			"artist": "Second Family Band, Jooklo Duo, Peaking Lights",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Episode II / The Remix Edition (2-CD)",
+		"artist": "Safri Duo",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610426",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e57f7b15-9a9f-4255-9174-fe678e14840c",
+			"albumTitle": "[untitled]",
+			"artist": "Second Family Band, Jooklo Duo, Peaking Lights",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Greatest Hits (uni 532 845 7)",
+		"artist": "Safri Duo",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610427",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e57f7b15-9a9f-4255-9174-fe678e14840c",
+			"albumTitle": "[untitled]",
+			"artist": "Second Family Band, Jooklo Duo, Peaking Lights",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Origins",
+		"artist": "Safri Duo",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610428",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "daddd597-ed1a-350d-ba3c-988bce3a49e8",
+			"albumTitle": "Origins",
+			"artist": "Safri Duo",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "In Transit",
+		"artist": "Saga",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610429",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "38af1ac3-67bd-4afa-a430-c7225a39f01d",
+			"albumTitle": "In Transit",
+			"artist": "Saga",
 			"type": "Album"
 		}
 	},
@@ -13303,6 +16558,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "1996",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610431",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Freedom",
 		"artist": "Sanne Salomonsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501649",
@@ -13339,6 +16603,38 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Show (1-CD/1-DVD)",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610433",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Tiden Brænder",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610434",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Unico",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610435",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "533b0f8d-59c3-3461-bc1f-2d86c53bd642",
+			"albumTitle": "Unico",
+			"artist": "Sanne Salomonsen",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Where Blue Begins",
 		"artist": "Sanne Salomonsen",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406309",
@@ -13346,6 +16642,43 @@
 		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Where Blue Begins",
+		"artist": "Sanne Salomonsen",
+		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406309",
+		"price": "2,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Santana (2-CD) (56204cd)",
+		"artist": "Santana",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610438",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "72438206-62f4-4d05-ad3d-8a1554d34999",
+			"albumTitle": "self titled files",
+			"artist": "Molly Santana",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Shaman",
+		"artist": "Santana",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610439",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "61d34b6c-f1ff-3bf7-9e62-0bbde363a283",
+			"albumTitle": "Shaman",
+			"artist": "Santana",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Supernatural",
@@ -13358,6 +16691,34 @@
 			"releaseGroupId": "70e23797-9da2-33bb-be6f-a85e7b581b69",
 			"albumTitle": "Supernatural",
 			"artist": "Santana",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Supernatural",
+		"artist": "Santana",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603455",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "70e23797-9da2-33bb-be6f-a85e7b581b69",
+			"albumTitle": "Supernatural",
+			"artist": "Santana",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Water Falls (357.6005.2)",
+		"artist": "Sara K",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610441",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "aab8a2a8-2668-3014-b95b-72ec74b10209",
+			"albumTitle": "Water Falls",
+			"artist": "Sara K.",
 			"type": "Album"
 		}
 	},
@@ -13457,6 +16818,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "2099240e-34d5-3823-8722-30a66eec42f9",
 			"albumTitle": "Black Angel",
+			"artist": "The Savage Rose",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Black Angel",
+		"artist": "Savage Rose",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608494",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "2099240e-34d5-3823-8722-30a66eec42f9",
+			"albumTitle": "Black Angel",
+			"artist": "The Savage Rose",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Dødens Triumf",
+		"artist": "Savage Rose",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610444",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c7d726f5-c358-3f71-aea2-853f4ba8d12e",
+			"albumTitle": "Dødens triumf",
 			"artist": "The Savage Rose",
 			"type": "Album"
 		}
@@ -13594,6 +16983,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Do Right By Me",
+		"artist": "Shades Of Blue",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610451",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "de9bf16d-8e43-49e6-92a0-7be7fa475fe0",
+			"albumTitle": "Do Right By Me",
+			"artist": "Shades of Blue",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Another String Of Hot Hits (And More)",
 		"artist": "Shadows",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608496",
@@ -13606,6 +17009,42 @@
 			"artist": "The Shadows",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Another String Of Hot Hits (And More) (7 52005 2)",
+		"artist": "Shadows",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610452",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Collection (pwks 559)",
+		"artist": "Shadows",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610453",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Diamonds (pwks 4018p)",
+		"artist": "Shadows",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610454",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Wonderful Shadows  The Very Best Of (8 23316 2)",
+		"artist": "Shadows",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608497",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Wonderful Shadows  The Very Best Of (8 23316 2)",
@@ -13635,9 +17074,27 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "A Whole Lotta Hits  The Danish Collection (477256 2)",
+		"artist": "Shakinī Stevens",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610456",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "16 Rock 'n Greats (or 0029)",
 		"artist": "Shakinī Stevens & The Sunsets",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602367",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Reet Petite (2177cd)",
+		"artist": "Shakinī Stevens & The Sunsets",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610457",
 		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -13772,6 +17229,38 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "16",
+		"artist": "Shu-Bi-Dua",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501665",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "17",
+		"artist": "Shu-Bi-Dua",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610461",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5ffa131e-02b9-3098-bbcb-61ae0b2e0a5f",
+			"albumTitle": "Shu•bi•dua 17",
+			"artist": "Shu•bi•dua",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Shu-Bi-40",
+		"artist": "Shu-Bi-Dua",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610462",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Where Are My Shoes",
 		"artist": "Sidsel Ben Semmane",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501667",
@@ -13808,11 +17297,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Bridge over Troubled Water",
+		"artist": "Simon & Garfunkel",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610464",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c39f7f80-d42f-3669-9653-230f8e922083",
+			"albumTitle": "Bridge Over Troubled Water",
+			"artist": "Simon & Garfunkel",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "The Concert In Central Park (3654-2)",
 		"artist": "Simon & Garfunkel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605419",
 		"price": "15,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Essential (2-CD) (88697751022)",
+		"artist": "Simon & Garfunkel",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607392",
+		"price": "15,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -13941,6 +17453,20 @@
 		}
 	},
 	{
+		"albumTitle": "It's Only Love (8573-85729-2)",
+		"artist": "Simply Red",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608504",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "45350e05-c1a7-4af8-88cb-a74d43d814e8",
+			"albumTitle": "[Title Not Identified]",
+			"artist": "Red Rot",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Life",
 		"artist": "Simply Red",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602379",
@@ -14015,6 +17541,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "De Beste 19862006 (2-CD) (602517124738)",
+		"artist": "Sissel Kyrkjebø",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610468",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Glade Jul",
 		"artist": "Sissel Kyrkjebø",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602381",
@@ -14025,6 +17560,34 @@
 			"releaseGroupId": "1204fa95-9824-3913-870f-9b9028c77281",
 			"albumTitle": "Glade jul",
 			"artist": "Sissel Kyrkjebø",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Glade Jul",
+		"artist": "Sissel Kyrkjebø",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602381",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "1204fa95-9824-3913-870f-9b9028c77281",
+			"albumTitle": "Glade jul",
+			"artist": "Sissel Kyrkjebø",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "In Symphony",
+		"artist": "Sissel Kyrkjebø",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603493",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "d9964d39-93d1-390e-9acd-1050607e7737",
+			"albumTitle": "Sissel in Symphony",
+			"artist": "Sissel",
 			"type": "Album"
 		}
 	},
@@ -14089,6 +17652,20 @@
 		}
 	},
 	{
+		"albumTitle": "My Heart",
+		"artist": "Sissel Kyrkjebø",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608511",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "94de59ad-ec18-39a9-bdb7-81808b4de953",
+			"albumTitle": "My Heart",
+			"artist": "Sissel",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Sissel  1986  Norsk Version (522 818-2)",
 		"artist": "Sissel Kyrkjebø",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608512",
@@ -14117,6 +17694,20 @@
 			"releaseGroupId": "c852cf67-cb69-3026-a743-91300728c1fa",
 			"albumTitle": "Soria Moria",
 			"artist": "Sissel Kyrkjebø",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Til Deg",
+		"artist": "Sissel Kyrkjebø",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608514",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c5c94912-1978-485b-a16a-c1ce713a2da4",
+			"albumTitle": "Til deg",
+			"artist": "Sissel",
 			"type": "Album"
 		}
 	},
@@ -14246,24 +17837,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "3",
-		"artist": "Sky",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411485",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "4",
-		"artist": "Sky",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411486",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Corpses And Buddies",
 		"artist": "SlingShotSuck",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408491",
@@ -14377,6 +17950,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Katbeat",
+		"artist": "Sneakers",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610476",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b4c43de5-fbe0-3e81-8302-563c055cd897",
+			"albumTitle": "KatBeat",
+			"artist": "Sneakers",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Sonicpraise",
 		"artist": "Sonicflood",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608520",
@@ -14417,6 +18004,15 @@
 			"artist": "Sophie B. Hawkins",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Circle Hits The Frame / Best Of (017 146-2)",
+		"artist": "Sort Sol",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610477",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Flow My Firetear",
@@ -14589,6 +18185,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "12 Gold Bars (800 062-2)",
+		"artist": "Status Quo",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512543",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Don't Stop",
 		"artist": "Status Quo",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411522",
@@ -14601,6 +18206,15 @@
 		"albumTitle": "Don't Stop",
 		"artist": "Status Quo",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411522",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Ice In The Sun (cma cd 108)",
+		"artist": "Status Quo",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610481",
 		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -14639,6 +18253,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410777",
 		"price": "5,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Gaucho",
+		"artist": "Steely Dan",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610482",
+		"price": "10,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -14761,11 +18384,52 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Live Alive (450238 2)",
+		"artist": "Stevie Ray Vaughan & Double Trouble",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610483",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Soul To Soul",
+		"artist": "Stevie Ray Vaughan & Double Trouble",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610486",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "53dc1e8b-0c4d-388a-8500-c7ec95559da2",
+			"albumTitle": "Soul to Soul",
+			"artist": "Stevie Ray Vaughan and Double Trouble",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Song Review  A Greatest Hits Collection (530 757-2)",
+		"artist": "Stevie Wonder",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610487",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Perfect View (recd 7909)",
 		"artist": "Sticks 'n' Fire",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411526",
 		"price": "10,00 kr.",
 		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Sikke'n Dejlig Dag",
+		"artist": "Stig Møller",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610488",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -14815,6 +18479,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "7d919dbd-cbe6-3598-bb01-271c012d1701",
 			"albumTitle": "Mercury Falling",
+			"artist": "Sting",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Ten Summoner's Tales",
+		"artist": "Sting",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610489",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "57389a2d-1570-364f-a83c-a382d0f5aafc",
+			"albumTitle": "Ten Summoner’s Tales",
 			"artist": "Sting",
 			"type": "Album"
 		}
@@ -14873,6 +18551,15 @@
 			"artist": "Strawberry Slaughterhouse",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "A Grand Don't Come For Free",
+		"artist": "Streets",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610492",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Wheels (cdchd 390)",
@@ -15019,10 +18706,33 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "What Goes Around, Greatest & Latest (24223-2)",
+		"artist": "Suzi Quatro",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610493",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3427dddc-f19f-34f2-a5ee-7ddcc7983116",
+			"albumTitle": "What Goes Around: Greatest & Latest",
+			"artist": "Suzi Quatro",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Synger Evert Taube",
 		"artist": "Sven-Bertil Taube",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406335",
 		"price": "2,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Enter",
+		"artist": "Swan Lee",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610494",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -15119,6 +18829,20 @@
 		}
 	},
 	{
+		"albumTitle": "Faith Hope Love",
+		"artist": "Søren Sko",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608536",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fec6026d-18c8-3e80-a303-7375b5d2ad21",
+			"albumTitle": "Faith Hope Love",
+			"artist": "Søren Sko",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Shine",
 		"artist": "Søren Sko",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605439",
@@ -15151,6 +18875,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Et Kys Herfra",
+		"artist": "Søs Fenger",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608537",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Gamle Flammer",
 		"artist": "Søs Fenger",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608538",
@@ -15165,6 +18898,20 @@
 		}
 	},
 	{
+		"albumTitle": "Nøglen Til Paradis",
+		"artist": "Søs Fenger",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610497",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f47bf83c-86cf-32f9-b149-46cc7eb2768d",
+			"albumTitle": "Nøglen til Paradis",
+			"artist": "Søs Fenger",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "On Holiday",
 		"artist": "Søs Fenger",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408596",
@@ -15172,6 +18919,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Stjernenat",
+		"artist": "Søs Fenger",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610498",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "3e806d35-4592-4411-9f86-94ef0d0e3071",
+			"albumTitle": "Stjernenat",
+			"artist": "Søs Fenger",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Vinterdage",
@@ -15183,6 +18944,61 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Vuggeviser (2007)",
+		"artist": "Søs Fenger",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610499",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Bridge Of Spies (cd srn8)",
+		"artist": "T'Pau",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610500",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Sea Saint Sessions (digipack)",
+		"artist": "Tab Benoit",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610501",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Greatest Hits (74321 355582)",
+		"artist": "Take That",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610503",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "38770146-c463-3a17-b720-c5885b8e3894",
+			"albumTitle": "Self Titled",
+			"artist": "Take a Worm for a Walk Week",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Nobody Else",
+		"artist": "Take That",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610504",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6fda0d8e-3e76-3b99-a119-c3876189cca8",
+			"albumTitle": "Nobody Else",
+			"artist": "Take That",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Progress",
 		"artist": "Take That",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32310259",
@@ -15190,6 +19006,34 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Take That & Party",
+		"artist": "Take That",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610505",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e6b8ac74-94bd-3a04-ab68-a8094740d460",
+			"albumTitle": "Take That & Party",
+			"artist": "Take That",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Take That & Party",
+		"artist": "Take That",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610506",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "e6b8ac74-94bd-3a04-ab68-a8094740d460",
+			"albumTitle": "Take That & Party",
+			"artist": "Take That",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Stop Making Sense (522 4532)",
@@ -15366,10 +19210,60 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "What Do I Do With Me",
+		"artist": "Tanya Tucker",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610507",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "7f8248ef-94bf-3800-9383-3a26da089ad8",
+			"albumTitle": "What Do I Do With Me",
+			"artist": "Tanya Tucker",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Tenderones (llr 0509)",
+		"artist": "Tenderones",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610508",
+		"price": "25,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "To Brune Øjne (ls 81322)",
 		"artist": "Tennessee",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411556",
 		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Puttin' It Down (hardbook cover)",
+		"artist": "Terry Evans",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610509",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Five Men Acoustic Jam  Live In Philadelphia (ged 24311)",
+		"artist": "Tesla",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610510",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Kids & Drunks (digipack)",
+		"artist": "The Floor Is Made Of Lava",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610511",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -15397,6 +19291,15 @@
 		"artist": "Theatres Des Vampires",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602450",
 		"price": "80,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Goinī Down Slow (mm 1468) (didipack)",
+		"artist": "Theessink, Nalle & Møller",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610512",
+		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -15459,6 +19362,20 @@
 		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "El Camino",
+		"artist": "Thomas Helmig",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610513",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f0c1f18b-9a94-32df-b91c-a9311f7b661a",
+			"albumTitle": "El Camino",
+			"artist": "Thomas Helmig",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Groovy Day",
@@ -15611,6 +19528,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Fairytales",
+		"artist": "Tiggy",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610515",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "f3cdc028-78df-3c51-bf5f-399cd4b85eea",
+			"albumTitle": "Fairytales",
+			"artist": "Tiggy",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Honeyburst",
 		"artist": "Tim Christensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502619",
@@ -15675,6 +19606,29 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "A Beginning  A Detour  An Open Ending (3-CD-set)",
+		"artist": "Tina Dickow",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610516",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Count To Ten",
+		"artist": "Tina Dickow",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610517",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "fff9e50c-6fa8-4efb-bea9-7b17ab589a43",
+			"albumTitle": "Count to Ten",
+			"artist": "Tina Dickow",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "In The Red",
 		"artist": "Tina Dickow",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607443",
@@ -15689,6 +19643,29 @@
 		}
 	},
 	{
+		"albumTitle": "In The Red",
+		"artist": "Tina Dickow",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607443",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "6519c138-619e-3dd8-a53a-6c0651ea7aba",
+			"albumTitle": "In the Red",
+			"artist": "Tina Dickow",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Notes (digipack)",
+		"artist": "Tina Dickow",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610519",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Welcome Back Colour (2-CD digipack)",
 		"artist": "Tina Dickow",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607444",
@@ -15696,6 +19673,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Where Do You Go To Disappear?",
+		"artist": "Tina Dickow",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610520",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "73713c3a-db3f-4a35-ab40-7cebbc4b176e",
+			"albumTitle": "Where Do You Go to Disappear?",
+			"artist": "Tina Dickow",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Whispers",
@@ -15710,6 +19701,43 @@
 			"artist": "Tina Dickow",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Whispers",
+		"artist": "Tina Dickow",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607445",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a2ab0378-af3b-444e-8932-7faaad168418",
+			"albumTitle": "Whispers",
+			"artist": "Tina Dickow",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Fuel",
+		"artist": "Tina Dickow And Sheriff",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610522",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "afd84110-d3f8-3bbb-9848-21f1ebe37ed6",
+			"albumTitle": "Fuel",
+			"artist": "Tina Dickow",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Fuel (digipack)",
+		"artist": "Tina Dickow And Sheriff",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610523",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Foreign Affair (7 91873 2)",
@@ -15734,6 +19762,15 @@
 		"artist": "Tina Turner",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410792",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Hard Way (didipack)",
+		"artist": "Tinsley Ellis",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610524",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -15789,6 +19826,24 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "The Very Best Of Tom Jones (dc 886622)",
+		"artist": "Tom Jones",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610525",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Touch My Heart (wise 009)",
+		"artist": "Tom Jones",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610526",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Full Moon Fever",
 		"artist": "Tom Petty",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603566",
@@ -15833,6 +19888,42 @@
 		"albumTitle": "Sig Det' Løgn (578 438-2)",
 		"artist": "Tomas Thordarson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608560",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "100 Go'e Med Tommy Seebach (4-CD-box) (596233 2)",
+		"artist": "Tommy Seebach",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610528",
+		"price": "40,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "For Fuld Musik (695440 2)",
+		"artist": "Tommy Seebach",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610529",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Som Vi Husker Ham  De Største Hits (promo) (5099909865426) (papcover)",
+		"artist": "Tommy Seebach",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610530",
+		"price": "5,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Som Vi Husker Ham  De Største Hits (promo) (5099909865426) (papcover)",
+		"artist": "Tommy Seebach",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610531",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -15898,6 +19989,15 @@
 		}
 	},
 	{
+		"albumTitle": "A La Plage",
+		"artist": "Totalpetroleum",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610532",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "I Eat Cannibals (22557cd)",
 		"artist": "Toto Coelo",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502622",
@@ -15907,11 +20007,34 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Fantastic",
+		"artist": "Toy-Box",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610533",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "b33737da-efe7-4c6f-a980-c37416849603",
+			"albumTitle": "Fantastic",
+			"artist": "Toy‐Box",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Transplants (1) (0448-2) (Didipack)",
 		"artist": "Transplants",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602466",
 		"price": "20,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Invisible Band",
+		"artist": "Travis",
+		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32404119",
+		"price": "2,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -15937,6 +20060,15 @@
 			"artist": "Travis",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "The Very Best Of (r2 74817)",
+		"artist": "Travis Tritt",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610535",
+		"price": "5,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Beneath My Skin",
@@ -16007,6 +20139,15 @@
 		}
 	},
 	{
+		"albumTitle": "Hit Single Anthology (848 164-2)",
+		"artist": "Troggs",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610536",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Wild Things (2191cd)",
 		"artist": "Troggs",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607456",
@@ -16039,6 +20180,20 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Come Around (llr 0506)",
+		"artist": "Turnip Greens",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610537",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "77fe319e-4b34-4def-a79e-936dc619829f",
+			"albumTitle": "Self Titled",
+			"artist": "Greens on Toast",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "Dear Science (spec.cover)",
 		"artist": "TV On The Radio",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512581",
@@ -16046,6 +20201,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Beat",
+		"artist": "TV-2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610539",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "a1d59e45-2485-336e-90ad-67ae714538cf",
+			"albumTitle": "Beat",
+			"artist": "TV-2",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Kys Bruden",
@@ -16071,6 +20240,34 @@
 		"musicbrainz": {
 			"releaseGroupId": "8ff01156-fd65-3840-8561-898fa9b14a0c",
 			"albumTitle": "Kys bruden",
+			"artist": "TV-2",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Kys Bruden",
+		"artist": "TV-2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603583",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8ff01156-fd65-3840-8561-898fa9b14a0c",
+			"albumTitle": "Kys bruden",
+			"artist": "TV-2",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Nærmest Lykkelig",
+		"artist": "TV-2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610543",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "664a22c1-9013-34bd-8574-a11fefc94eb8",
+			"albumTitle": "Nærmest lykkelig",
 			"artist": "TV-2",
 			"type": "Album"
 		}
@@ -16103,6 +20300,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Yndlingsbabe",
+		"artist": "TV-2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503699",
+		"price": "15,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Things That Were",
 		"artist": "Twelfth Of Never",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602474",
@@ -16117,6 +20323,15 @@
 		}
 	},
 	{
+		"albumTitle": "De Allerbedst (2-CD-box) (546 568-2)",
+		"artist": "Tøsedrengene",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610548",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Det Bedste (512 574-2)",
 		"artist": "Tøsedrengene",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503700",
@@ -16124,6 +20339,20 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Det Går Fremad",
+		"artist": "Tøsedrengene",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610549",
+		"price": "10,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "5a51003f-c18d-409b-a244-4005d739e233",
+			"albumTitle": "... Det går fremad!",
+			"artist": "Tøsedrengene",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "I Sikre Hænder",
@@ -16138,6 +20367,15 @@
 			"artist": "Tøsedrengene",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "How To Dismantle An Atomic Bomb",
+		"artist": "U2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608575",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "How To Dismantle An Atomic Bomb",
@@ -16194,34 +20432,20 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "III: In The Eyes Of Fire (digipack)",
+		"albumTitle": "The Oncoming Storm (1-CD/1-DVD)",
 		"artist": "Unearth",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602481",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602483",
 		"price": "25,00 kr.",
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The March",
-		"artist": "Unearth",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602482",
-		"price": "25,00 kr.",
+		"albumTitle": "Divine Lines",
+		"artist": "United Steels Of Europe",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610552",
+		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "28403094-a7a4-3298-9754-69193d6be48f",
-			"albumTitle": "The March",
-			"artist": "Unearth",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Oncoming Storm (1-CD/1-DVD)",
-		"artist": "Unearth",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602483",
-		"price": "25,00 kr.",
-		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -16263,6 +20487,20 @@
 		"musicbrainz": {
 			"releaseGroupId": "690af630-fc58-3ce5-8866-ce430007ccaf",
 			"albumTitle": "A Night in San Francisco",
+			"artist": "Van Morrison",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Enlightenment",
+		"artist": "Van Morrison",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610553",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "02a1ac43-a1e4-34a6-bbdb-1a552c271f1e",
+			"albumTitle": "Enlightenment",
 			"artist": "Van Morrison",
 			"type": "Album"
 		}
@@ -16364,6 +20602,52 @@
 		}
 	},
 	{
+		"albumTitle": "Family Style",
+		"artist": "Vaughan Brothers",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610554",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "36023f4b-8019-3888-ab04-44d3e9e97a68",
+			"albumTitle": "Family Style",
+			"artist": "The Vaughan Brothers",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Night Owls",
+		"artist": "Vaya Con Dios",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610555",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "949c1b9e-fa4e-3195-a86c-a792d37e277e",
+			"albumTitle": "Night Owls",
+			"artist": "Vaya Con Dios",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "The Best Of (74321 409862)",
+		"artist": "Vaya Con Dios",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610556",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Time Flies",
+		"artist": "Vaya Con Dios",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610557",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Vaya Con Dios (1) (2594001)",
 		"artist": "Vaya Con Dios",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607484",
@@ -16380,6 +20664,20 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Contraband",
+		"artist": "Velvet Revolver",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610559",
+		"price": "20,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "0dee8f91-e4a6-3891-9ec3-b014b403e65c",
+			"albumTitle": "Contraband",
+			"artist": "Velvet Revolver",
+			"type": "Album"
+		}
 	},
 	{
 		"albumTitle": "Do.",
@@ -16564,6 +20862,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Essence",
+		"artist": "Vox North",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610561",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Frog Dance",
 		"artist": "Walk The Walk",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407476",
@@ -16665,6 +20972,15 @@
 		}
 	},
 	{
+		"albumTitle": "The Greatest Hits  Unbreakable (74321 970672)",
+		"artist": "Westlife",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610562",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "End Of Part One  Their Greatest Hits (522 495-2)",
 		"artist": "Wet Wet Wet",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510542",
@@ -16679,6 +20995,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411658",
 		"price": "5,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Greatest Hits (9868831)",
+		"artist": "Wet Wet Wet",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610563",
+		"price": "10,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -16718,6 +21043,83 @@
 			"artist": "The White Stripes",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "Just Whitney (1-CD/1-DVD)",
+		"artist": "Whitney Houston",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610565",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Love, Whitney (74321 91027 2)",
+		"artist": "Whitney Houston",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610566",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "My Love Is Your Love (07822 19037 2)",
+		"artist": "Whitney Houston",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610568",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Greatest Hits (2-CD-box) (7432175739-2)",
+		"artist": "Whitney Houston",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610569",
+		"price": "15,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Preacher's Wife (Soundtrack)",
+		"artist": "Whitney Houston",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610570",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The Ultimate Collection (88697177012)",
+		"artist": "Whitney Houston",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610571",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Whitney",
+		"artist": "Whitney Houston",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610573",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "4f5bfc50-7a41-385e-9961-3db0feaec430",
+			"albumTitle": "Whitney",
+			"artist": "Whitney Houston",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Whitney Houston (1)",
+		"artist": "Whitney Houston",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610574",
+		"price": "10,00 kr.",
+		"quality": "K-2",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Live At Leeds",
@@ -16790,6 +21192,15 @@
 		}
 	},
 	{
+		"albumTitle": "Country Classics (cdp 7966252)",
+		"artist": "Willie Nelson",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610575",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Superhits, Volume 2 (508049 2)",
 		"artist": "Willie Nelson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608585",
@@ -16843,6 +21254,15 @@
 			"artist": "The Workhorse Movement",
 			"type": "Album"
 		}
+	},
+	{
+		"albumTitle": "The XX (yt031 cd) (digipack)",
+		"artist": "XX",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610576",
+		"price": "20,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Yael Naim (8345 10576 2)",
@@ -17033,15 +21453,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Infame And The Breed",
-		"artist": "Zonaria",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602498",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Original Album Series. (5-CD-set) (8122797755) (spec.cover)",
 		"artist": "ZZ Top",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607506",
@@ -17049,20 +21460,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Recycler",
-		"artist": "ZZ Top",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608592",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0db78744-4f5a-3c50-9d57-9b799bcf0de6",
-			"albumTitle": "Recycler",
-			"artist": "ZZ Top",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "100 Country Classics (4-CD-set) (var009/010/011/012)",
@@ -19716,15 +24113,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Futures Overrated",
-		"artist": "Single / Maxi  Arkarna",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22505065",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Get Down (Youre The One For Me)",
 		"artist": "Single / Maxi  Backstreet Boys",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608015",
@@ -19902,15 +24290,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "My Heart Will Go On",
-		"artist": "Single / Maxi  Celine Dion",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608024",
-		"price": "5,00 kr.",
-		"quality": "K-2",
-		"type": "Single",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Believe",
 		"artist": "Single / Maxi  Cher",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608025",
@@ -19975,34 +24354,11 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Real World (papcover)",
-		"artist": "Single / Maxi  D-Side",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608030",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single",
-		"musicbrainz": {
-			"releaseGroupId": "2cd46532-dfcd-4267-bcbc-5856a264833f",
-			"albumTitle": "To Be Titled",
-			"artist": "Henny D",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Be Mine",
 		"artist": "Single / Maxi  David Gray",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22104193",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Single",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Blessing Of Sorrow (digipack)",
-		"artist": "Single / Maxi  Demons Are Real",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22302056",
-		"price": "5,00 kr.",
-		"quality": "K-2",
 		"type": "Single",
 		"musicbrainz": {}
 	},
@@ -20341,15 +24697,6 @@
 		"albumTitle": "Read This",
 		"artist": "Single / Maxi  Naked Truth",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22404182",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Everythings Gonna Be Allright",
-		"artist": "Single / Maxi  Naughty By Nature",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608050",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Single",
@@ -20760,20 +25107,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Saturday Night",
-		"artist": "Single / Maxi  Whigfield",
-		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22608066",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Single",
-		"musicbrainz": {
-			"releaseGroupId": "f5f4d26f-40ae-4894-9431-29871364a241",
-			"albumTitle": "Saturday Night The Greatest Hits",
-			"artist": "Whigfield",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "What Have You Done",
 		"artist": "Single / Maxi  Within Temptation",
 		"origin": "http://rytmeboxen.dk/privat-salg-2.htm#22512033",
@@ -21013,15 +25346,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Still Me Still Now",
-		"artist": "Amy Diamond",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32408022",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Aspects Of Andrew Lloyd Webber (cdd 503) (cover er lidt falmet)",
 		"artist": "Andrew Lloyd Webber",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502017",
@@ -21031,36 +25355,9 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Ayé",
-		"artist": "Angélique Kidjo",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406005",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Compositions",
-		"artist": "Anita Baker",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502021",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Vær Velkommen (digipack) (uden booklet)",
 		"artist": "Ann-Mette Elten",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32404006",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Do. (74321 58241-2)",
-		"artist": "Another Level",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32408003",
 		"price": "2,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -21225,20 +25522,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Slicker Than Your Average",
-		"artist": "Craig David",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607005",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "385fc75f-fc81-358d-a1e6-960d3ec9ae7e",
-			"albumTitle": "Slicker Than Your Average",
-			"artist": "Craig David",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Peace, Love & Harmony",
 		"artist": "Cut'n'Move",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410226",
@@ -21370,15 +25653,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "B3 (cdr) (Promo) (digipack)",
-		"artist": "Eknmo",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607010",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "B.T.",
 		"artist": "Elvis Presley",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406068",
@@ -21498,6 +25772,20 @@
 			"releaseGroupId": "77babcf0-afaa-481d-8a1b-eefdc5d1b32b",
 			"albumTitle": "One Two Three Four",
 			"artist": "George Garzone",
+			"type": "Album"
+		}
+	},
+	{
+		"albumTitle": "Older",
+		"artist": "George Michael",
+		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32505088",
+		"price": "2,00 kr.",
+		"quality": "K-4",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "c49554db-2046-3853-99b5-9527e31d359f",
+			"albumTitle": "Older",
+			"artist": "George Michael",
 			"type": "Album"
 		}
 	},
@@ -21909,15 +26197,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Portrait Of (mk 37791)",
-		"artist": "John Williams",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607024",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Wires & Wood",
 		"artist": "Johnny Staats Project",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502295",
@@ -22053,15 +26332,6 @@
 		"artist": "Kordial",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409048",
 		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Totally Krossed Out",
-		"artist": "Kris Kross",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406348",
-		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -22311,20 +26581,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Introduction",
-		"artist": "May May",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607032",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b78443af-31c4-451e-968f-b6f645c0e2d0",
-			"albumTitle": "The Introduction",
-			"artist": "May May",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Violin Concerto Midsummer (sycd 6036)",
 		"artist": "Mendelssohn",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607033",
@@ -22393,34 +26649,11 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "To The Next Level",
-		"artist": "MN8",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607036",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ab0525bb-d8fe-47cb-a4bb-9e1f0e035f7f",
-			"albumTitle": "To the Next Level",
-			"artist": "MN8",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Favourite Thing",
 		"artist": "Mole Session",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405506",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Momb (74321450552) (digipack)",
-		"artist": "Momb",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32502025",
-		"price": "2,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -22478,15 +26711,6 @@
 			"artist": "Nice Device",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Necessary",
-		"artist": "Novecento",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408291",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Sweet Nostalgia (digipack)",
@@ -22629,15 +26853,6 @@
 		"albumTitle": "Let's Dance, Volume 4 / Let's Dance Live (2-CD)",
 		"artist": "På Slaget 12",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501139",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Bad To The Bone (service 9)",
-		"artist": "Queens Of Shiba",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409066",
 		"price": "2,00 kr.",
 		"quality": "K-4",
 		"type": "Album",
@@ -22937,24 +27152,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Love, Sweet & Tears",
-		"artist": "Soultans",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406323",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Souve9rs",
-		"artist": "Souvenirs",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408530",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Volume 5",
 		"artist": "Spillemændene Linie 13",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406531",
@@ -22973,24 +27170,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Costes  Etage 3 (spec.cover)",
-		"artist": "Stephane Pompougnac",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409081",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Sticks 'n' Fire (24020-2)",
-		"artist": "Sticks 'n' Fire",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411527",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Julelys",
 		"artist": "Stig Rossen",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501184",
@@ -23004,24 +27183,6 @@
 		"artist": "Stig Rossen",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406326",
 		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Dumb Angel",
-		"artist": "Stina Stina",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32407023",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Danske Hits Of Kids",
-		"artist": "Street Stars",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12404359",
-		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -23059,15 +27220,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12404364",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Baby Love (16287cd) (re-recordings)",
-		"artist": "Supremes",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409355",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -23149,15 +27301,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409397",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Trio Music",
-		"artist": "Thybo Stief Gruvstedt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501722",
-		"price": "5,00 kr.",
-		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -23248,24 +27391,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Hits (536 368-2)",
-		"artist": "Tony Toni Tone",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607046",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Drops Of Jupiter",
-		"artist": "Train",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409436",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Invisible Band",
 		"artist": "Travis",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32404119",
@@ -23293,15 +27418,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Be Careful What You Don't Wish For",
-		"artist": "Twelve",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408613",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "To Whom It May Concern",
 		"artist": "Unafraid",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501198",
@@ -23321,29 +27437,6 @@
 			"releaseGroupId": "b57c832b-b39b-35d7-8098-bf1f2c039418",
 			"albumTitle": "High on a Happy Vibe",
 			"artist": "Urban Cookie Collective",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Hand On The Torch",
-		"artist": "Us3",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411628",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "8701",
-		"artist": "Usher",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607049",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c4fbd5f0-f8f4-3353-9ba6-a6ad16e810f7",
-			"albumTitle": "8701",
-			"artist": "Usher",
 			"type": "Album"
 		}
 	},
@@ -23421,29 +27514,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411667",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hard Or Smooth",
-		"artist": "Wreckx-N-Effect",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607052",
-		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d8e91d3f-27d4-3a86-9b5c-4adc466551c4",
-			"albumTitle": "Hard or Smooth",
-			"artist": "Wreckx‐n‐Effect",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "You Know Who (1) (85025)",
-		"artist": "You Know Who",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406371",
-		"price": "2,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
