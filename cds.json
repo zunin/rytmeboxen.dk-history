@@ -1171,20 +1171,6 @@
 		}
 	},
 	{
-		"albumTitle": "The Last Waltz (2-CD) (266 076)",
-		"artist": "Band",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605036",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "b65c6ebc-9dd1-357c-bd65-131b04f0ebd1",
-			"albumTitle": "Self Titled",
-			"artist": "The Band Who Knew Too Much",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Try To Remember (22541cd)",
 		"artist": "Barbara Mandrell",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411017",
@@ -2590,9 +2576,9 @@
 	{
 		"albumTitle": "Human Touch",
 		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610058",
-		"price": "20,00 kr.",
-		"quality": "K-3",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610059",
+		"price": "10,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {
 			"releaseGroupId": "220de9c6-fa5f-39e3-ae89-1faf8a8bbc67",
@@ -3415,20 +3401,11 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Professionel Bla Bla",
-		"artist": "Clemens",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610072",
-		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Miss You Nights",
 		"artist": "Cliff Richard",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610073",
-		"price": "15,00 kr.",
-		"quality": "K-2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610074",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {
 			"releaseGroupId": "f2df83cc-8fae-411d-95f5-2d7b0a49092b",
@@ -5423,9 +5400,9 @@
 	{
 		"albumTitle": "Greatest Hits (88691974982)",
 		"artist": "Erann DD",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610137",
-		"price": "15,00 kr.",
-		"quality": "K-2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610138",
+		"price": "10,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -6872,9 +6849,9 @@
 	{
 		"albumTitle": "Black Wolf",
 		"artist": "Hanne Boel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610161",
-		"price": "10,00 kr.",
-		"quality": "K-3",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610162",
+		"price": "5,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {
 			"releaseGroupId": "368fe5f4-6d90-30e4-8ed2-7e37066d226e",
@@ -6965,24 +6942,6 @@
 		"artist": "Hanne Boel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410456",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Lifeline (digipack)",
-		"artist": "Hans Theessink",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608249",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Songs From The Southland (digipack)",
-		"artist": "Hans Theessink",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608250",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -9070,9 +9029,9 @@
 	{
 		"albumTitle": "Bounty Blue",
 		"artist": "Johnny Madsen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610194",
-		"price": "25,00 kr.",
-		"quality": "K-2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610195",
+		"price": "20,00 kr.",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {
 			"releaseGroupId": "3f84fc3f-e8d4-3374-a635-160e5ab9a198",
@@ -11375,20 +11334,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "No One Will Force You (24006-2)",
-		"artist": "Liz Mitchell",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610264",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5db1cd0d-4cae-432e-b9fd-f87d20d93be2",
-			"albumTitle": "untitled video game soundtrack",
-			"artist": "Eliza Mitchell",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Ramt I Natten",
 		"artist": "Lizzie",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610265",
@@ -13385,20 +13330,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Engle Eller Dæmoner",
-		"artist": "Nik & Jay",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610319",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c5ff7760-7230-4745-abf9-de4aa28cc44b",
-			"albumTitle": "Engle eller dæmoner",
-			"artist": "Nik & Jay",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Piloter",
 		"artist": "Nikolaj",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610320",
@@ -15100,15 +15031,6 @@
 		}
 	},
 	{
-		"albumTitle": "The Best Of (099921 630521)",
-		"artist": "Radiohead",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610375",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Ducks And Drakes",
 		"artist": "Randi Laubek",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503517",
@@ -15810,15 +15732,6 @@
 		"artist": "Rod Stewart",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510425",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Story So Far: The Very Best Of Rod Steward (2-CD) (8122-73581-2)",
-		"artist": "Rod Stewart",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607320",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -17238,20 +17151,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "17",
-		"artist": "Shu-Bi-Dua",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610461",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5ffa131e-02b9-3098-bbcb-61ae0b2e0a5f",
-			"albumTitle": "Shu•bi•dua 17",
-			"artist": "Shu•bi•dua",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Shu-Bi-40",
 		"artist": "Shu-Bi-Dua",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610462",
@@ -18302,15 +18201,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Best Of Steppenwolf  Born To Be Wild (mcd 19386)",
-		"artist": "Steppenwolf",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607413",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Hip",
 		"artist": "Steppeulvene",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602418",
@@ -19010,9 +18900,9 @@
 	{
 		"albumTitle": "Take That & Party",
 		"artist": "Take That",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610505",
-		"price": "10,00 kr.",
-		"quality": "K-2",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610506",
+		"price": "5,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {
 			"releaseGroupId": "e6b8ac74-94bd-3a04-ab68-a8094740d460",
@@ -19242,15 +19132,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Puttin' It Down (hardbook cover)",
-		"artist": "Terry Evans",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610509",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Five Men Acoustic Jam  Live In Philadelphia (ged 24311)",
 		"artist": "Tesla",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610510",
@@ -19291,15 +19172,6 @@
 		"artist": "Theatres Des Vampires",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602450",
 		"price": "80,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Goinī Down Slow (mm 1468) (didipack)",
-		"artist": "Theessink, Nalle & Møller",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610512",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -19657,15 +19529,6 @@
 		}
 	},
 	{
-		"albumTitle": "Notes (digipack)",
-		"artist": "Tina Dickow",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610519",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Welcome Back Colour (2-CD digipack)",
 		"artist": "Tina Dickow",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607444",
@@ -19673,48 +19536,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Where Do You Go To Disappear?",
-		"artist": "Tina Dickow",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610520",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "73713c3a-db3f-4a35-ab40-7cebbc4b176e",
-			"albumTitle": "Where Do You Go to Disappear?",
-			"artist": "Tina Dickow",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Whispers",
-		"artist": "Tina Dickow",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607445",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a2ab0378-af3b-444e-8932-7faaad168418",
-			"albumTitle": "Whispers",
-			"artist": "Tina Dickow",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Whispers",
-		"artist": "Tina Dickow",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607445",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a2ab0378-af3b-444e-8932-7faaad168418",
-			"albumTitle": "Whispers",
-			"artist": "Tina Dickow",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Fuel",
@@ -19914,9 +19735,9 @@
 	{
 		"albumTitle": "Som Vi Husker Ham  De Største Hits (promo) (5099909865426) (papcover)",
 		"artist": "Tommy Seebach",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610530",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610531",
 		"price": "5,00 kr.",
-		"quality": "K-2",
+		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -19953,15 +19774,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608562",
 		"price": "5,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Closer To The Truth (511 386-2) (cover er falmet)",
-		"artist": "Tony Joe White",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603568",
-		"price": "5,00 kr.",
-		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
