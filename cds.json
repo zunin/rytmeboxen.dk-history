@@ -5969,20 +5969,6 @@
 		}
 	},
 	{
-		"albumTitle": "Tango In The Night",
-		"artist": "Fleetwood Mac",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608221",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "680b3cd8-426b-3112-bcf3-42cd66f75fa9",
-			"albumTitle": "Tango in the Night",
-			"artist": "Fleetwood Mac",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Always On My Mind",
 		"artist": "Flemming Bamse Jørgensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610145",
@@ -13718,20 +13704,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "En Varm Nats Kølige Luft",
-		"artist": "Panamah",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610336",
-		"price": "15,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "86c16076-638c-4dc2-97ec-7c22220a8d09",
-			"albumTitle": "En varm nats kølige luft",
-			"artist": "Panamah",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Aderpale",
 		"artist": "Parker",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407254",
@@ -14313,7 +14285,7 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "De Originale Vendelbo Historier  Å Det Er Ikk Engang Løvn (2-Cd-Box) (5 029365 640923)",
+		"albumTitle": "De Originale Vendelbo Historier  Å Det Er Ikk Engang Løvn (2-CD-box) (5 029365 640923)",
 		"artist": "Poul Erik Krogen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608461",
 		"price": "10,00 kr.",
@@ -16119,52 +16091,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Gimme Gimme",
-		"artist": "Sandmen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607364",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d81156e7-d38d-322d-9754-af961bc72fd1",
-			"albumTitle": "Gimme Gimme",
-			"artist": "The Sandmen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "In The House Of Secrets",
-		"artist": "Sandmen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12409325",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Sleepyhead",
-		"artist": "Sandmen",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32409073",
-		"price": "2,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Western Blood",
-		"artist": "Sandmen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607368",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f9e4c0b2-a960-3ddd-abc9-120e08d70de4",
-			"albumTitle": "Western Blood",
-			"artist": "The Sandmen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Tro På Dig Selv (elcd 90207)",
 		"artist": "Sandra Monique",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411426",
@@ -17844,15 +17770,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Greatest Hits (eag 096-2)",
-		"artist": "Steve Miller Band",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605429",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Greatest Hits (eag 096-2) (cover er svagt falmet)",
 		"artist": "Steve Miller Band",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605430",
@@ -18755,15 +18672,6 @@
 		"albumTitle": "Five Men Acoustic Jam  Live In Philadelphia (ged 24311)",
 		"artist": "Tesla",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610510",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Kids & Drunks (digipack)",
-		"artist": "The Floor Is Made Of Lava",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610511",
 		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -20658,15 +20566,6 @@
 			"artist": "The Workhorse Movement",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "The XX (yt031 cd) (digipack)",
-		"artist": "XX",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610576",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Yael Naim (8345 10576 2)",
