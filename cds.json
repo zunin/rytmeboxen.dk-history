@@ -13173,20 +13173,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Stories From The City, Stories From The Sea",
-		"artist": "P J Harvey",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610335",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "71641af7-d122-326a-b0bb-f76a8d09810c",
-			"albumTitle": "Stories From the City, Stories From the Sea",
-			"artist": "PJ Harvey",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "The River Made No Sound (digipack)",
 		"artist": "Pan.American",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605392",
@@ -14390,29 +14376,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610380",
 		"price": "10,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Chain Gang Of Love",
-		"artist": "Raveonettes",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607302",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9d226605-20d2-3a5e-8ab0-f2a88ae94b36",
-			"albumTitle": "Chain Gang of Love",
-			"artist": "The Raveonettes",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "In And Out of Control (digipack)",
-		"artist": "Raveonettes",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607303",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -16933,15 +16896,6 @@
 			"artist": "Sort Sol",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Soulfly (1) (rr 8748-2)",
-		"artist": "Soulfly",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602410",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Magnifying Class",
