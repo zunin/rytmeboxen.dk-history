@@ -105,15 +105,6 @@
 		}
 	},
 	{
-		"albumTitle": "Big Ones",
-		"artist": "Aerosmith",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412004",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Philharmonics (plasr 195)",
 		"artist": "Agnes Obel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502005",
@@ -16629,20 +16620,6 @@
 		}
 	},
 	{
-		"albumTitle": "Glamourpuss",
-		"artist": "Sort Sol",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602408",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "bd41dfaa-754b-314a-b45b-1d75f6055e92",
-			"albumTitle": "Glamourpuss",
-			"artist": "Sort Sol",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Unspoiled Monsters",
 		"artist": "Sort Sol",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602409",
@@ -17042,15 +17019,6 @@
 			"artist": "Sting",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "The Very Best Of (540 428-2)",
-		"artist": "Sting / Police",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411529",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Viva La Tju-Bang",
@@ -18658,20 +18626,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "8ff01156-fd65-3840-8561-898fa9b14a0c",
 			"albumTitle": "Kys bruden",
-			"artist": "TV-2",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Nærmest Lykkelig",
-		"artist": "TV-2",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610543",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "664a22c1-9013-34bd-8574-a11fefc94eb8",
-			"albumTitle": "Nærmest lykkelig",
 			"artist": "TV-2",
 			"type": "Album"
 		}
