@@ -293,15 +293,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Jøwt (digipack)",
-		"artist": "Allan Olsen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608022",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Colour To The Moon",
 		"artist": "Allan Taylor",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608023",
@@ -2606,15 +2597,6 @@
 		}
 	},
 	{
-		"albumTitle": "Born To Play Guitar",
-		"artist": "Buddy Guy",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608118",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Buddy Holly (mcld 19046)",
 		"artist": "Buddy Holly",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512182",
@@ -3631,20 +3613,6 @@
 			"releaseGroupId": "cea6cf89-cf0f-3107-b7d2-8fc754010b88",
 			"albumTitle": "Queen of Bad Excuses",
 			"artist": "Cæcilie Norby",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Everything Glows",
-		"artist": "D.A.D.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610090",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
-			"albumTitle": "Woman Titles",
-			"artist": "Hot Dad",
 			"type": "Album"
 		}
 	},
@@ -11696,15 +11664,6 @@
 		}
 	},
 	{
-		"albumTitle": "Mike Andersen (naordic 117)",
-		"artist": "Mike Andersen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610296",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Tomorrow (cd b&t 21)",
 		"artist": "Mike Andersen Band",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610297",
@@ -12194,15 +12153,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Decade (2-CD) (7599-27233-2)",
-		"artist": "Neil Young",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607226",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Freedom",
 		"artist": "Neil Young",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607229",
@@ -12226,20 +12176,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Live Rust (7599-27250-2)",
-		"artist": "Neil Young With Crazy Horse",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607235",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "20a61e55-29f9-3eb6-ab77-82816ebfac8a",
-			"albumTitle": "Live Rust",
-			"artist": "Neil Young, Crazy Horse",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Ragged Glory",
 		"artist": "Neil Young With Crazy Horse",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607237",
@@ -12249,20 +12185,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "91fdfd77-a868-3678-b9f2-11ad92118955",
 			"albumTitle": "Ragged Glory",
-			"artist": "Neil Young, Crazy Horse",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Sleeps With Angels",
-		"artist": "Neil Young With Crazy Horse",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607239",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "8d08ec3a-aeab-37cc-9d28-ff20040196d4",
-			"albumTitle": "Sleeps With Angels",
 			"artist": "Neil Young, Crazy Horse",
 			"type": "Album"
 		}
@@ -12383,15 +12305,6 @@
 		"artist": "Nice Little Penguins",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501598",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hits, News & Live (r 60027-2)",
-		"artist": "Nice Little Penguins",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610318",
-		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -13027,15 +12940,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "White Noise & Diamond Nights (cover er svagt falmet)",
-		"artist": "Paul Banks",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601445",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "One",
 		"artist": "Paul Colman Trio",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608455",
@@ -13063,20 +12967,6 @@
 		"artist": "Paul McCartney",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607260",
 		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a810db2a-b3ad-4bda-ae5e-8135cb68ed31",
-			"albumTitle": "Entitled to Carry My Own Weight",
-			"artist": "Wings of an Angel",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Unplugged (The Official Bootleg)",
-		"artist": "Paul McCartney",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610344",
-		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {
@@ -14461,29 +14351,6 @@
 		"artist": "River Detectives",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408356",
 		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Monkeygrinder",
-		"artist": "Rob Tognoni",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610390",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9ad6363d-702e-34b5-8c5e-3e2804bc2730",
-			"albumTitle": "Monkeygrinder",
-			"artist": "Rob Tognoni",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Live At The Twilight (prd 71192)",
-		"artist": "Rob Tognoni Band",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610391",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -17476,15 +17343,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Sea Saint Sessions (digipack)",
-		"artist": "Tab Benoit",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610501",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Greatest Hits (74321 355582)",
 		"artist": "Take That",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610503",
@@ -18088,15 +17946,6 @@
 		"artist": "Tina Arena",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32501187",
 		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "A Beginning  A Detour  An Open Ending (3-CD-set)",
-		"artist": "Tina Dickow",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610516",
-		"price": "20,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -18901,20 +18750,6 @@
 			"releaseGroupId": "beebb887-c306-3f29-84c1-507ebb1271a1",
 			"albumTitle": "Too Long in Exile",
 			"artist": "Van Morrison",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "How Long Has This Been Going On",
-		"artist": "Van Morrison with Georgie Fame & Friends",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603598",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "71d7869d-28d0-3463-9cc1-413b5b20aee8",
-			"albumTitle": "How Long Has This Been Going On",
-			"artist": "Van Morrison, Georgie Fame",
 			"type": "Album"
 		}
 	},
