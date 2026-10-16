@@ -2415,15 +2415,6 @@
 		}
 	},
 	{
-		"albumTitle": "Nebraska",
-		"artist": "Bruce Springsteen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610060",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Ghost Of Tom Joad",
 		"artist": "Bruce Springsteen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610061",
@@ -4531,20 +4522,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hotel California (7559-60509-2)",
-		"artist": "Eagles",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610120",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "91bf707c-6c33-4efd-83ca-e4c88f14bcaa",
-			"albumTitle": "Hotel California",
-			"artist": "Eagles",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "The Very Best Of (9548-32375-2)",
@@ -7120,20 +7097,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Back To Bedlam",
-		"artist": "James Blunt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608273",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "aa0f8959-1f47-3f9d-9a7d-28de21ab3956",
-			"albumTitle": "Back to Bedlam",
-			"artist": "James Blunt",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Some Kind Of Trouble",
 		"artist": "James Blunt",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605265",
@@ -9463,20 +9426,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Supertanker",
-		"artist": "Kliché",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605333",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "ddc30aba-4c82-3017-8a43-100868e4f59f",
-			"albumTitle": "Supertanker",
-			"artist": "Kliché",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Udkantsland (Digipack)",
 		"artist": "Klondyke",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605334",
@@ -10375,20 +10324,6 @@
 			"releaseGroupId": "69f171d2-2ff8-3ebe-9941-14570bfccf29",
 			"albumTitle": "Under stjernerne et sted",
 			"artist": "Lis Sørensen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "En Samling Sånger",
-		"artist": "Lisa Ekdahl",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607155",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "d4a8ca99-5643-3d72-88dd-1861954b0eaf",
-			"albumTitle": "En samling sånger",
-			"artist": "Lisa Ekdahl",
 			"type": "Album"
 		}
 	},
@@ -15811,15 +15746,6 @@
 		}
 	},
 	{
-		"albumTitle": "The Concert In Central Park (3654-2)",
-		"artist": "Simon & Garfunkel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605419",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Essential (2-CD) (88697751022)",
 		"artist": "Simon & Garfunkel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607392",
@@ -15902,15 +15828,6 @@
 		"artist": "Simple Plan",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608502",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "A New Flame",
-		"artist": "Simply Red",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608503",
-		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -16004,20 +15921,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "7a80d7c7-94f0-302b-90d9-d5ae4cbe3dae",
 			"albumTitle": "Picture Book",
-			"artist": "Simply Red",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Stars",
-		"artist": "Simply Red",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601500",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7a3e8b48-0451-34d8-b8bb-645d77f4b442",
-			"albumTitle": "Stars",
 			"artist": "Simply Red",
 			"type": "Album"
 		}
@@ -16851,15 +16754,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "All This Time (493 156-2)",
-		"artist": "Sting",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608527",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Mercury Falling",
 		"artist": "Sting",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607420",
@@ -17078,15 +16972,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Solitude Standing (inkl. verdenshittet Luka)",
-		"artist": "Suzanne Vega",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603525",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "What Goes Around, Greatest & Latest (24223-2)",
 		"artist": "Suzi Quatro",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610493",
@@ -17105,15 +16990,6 @@
 		"artist": "Sven-Bertil Taube",
 		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32406335",
 		"price": "2,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Enter",
-		"artist": "Swan Lee",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610494",
-		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
