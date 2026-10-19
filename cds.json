@@ -2060,20 +2060,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Natural Mystic",
-		"artist": "Bob Marley",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509048",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c6a24210-16f2-4a88-92a8-fa740babb414",
-			"albumTitle": "Natural Mystic",
-			"artist": "Bob Marley & The Wailers",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Don't Worry Be Happy (794102)",
 		"artist": "Bobby McFerrin",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608101",
@@ -3074,20 +3060,6 @@
 		}
 	},
 	{
-		"albumTitle": "The Road To Hell",
-		"artist": "Chris Rea",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608132",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "a0c737b5-b41c-36c2-bacb-4538c68e1748",
-			"albumTitle": "The Road to Hell",
-			"artist": "Chris Rea",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Watching You",
 		"artist": "Christina",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608133",
@@ -3604,20 +3576,6 @@
 			"releaseGroupId": "cea6cf89-cf0f-3107-b7d2-8fc754010b88",
 			"albumTitle": "Queen of Bad Excuses",
 			"artist": "Cæcilie Norby",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Riskin' It All",
-		"artist": "D.A.D.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610091",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "35417d1a-c710-496d-afb6-a094c8cae90c",
-			"albumTitle": "Woman Titles",
-			"artist": "Hot Dad",
 			"type": "Album"
 		}
 	},
@@ -4908,15 +4866,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Cross Of Changes (2)",
-		"artist": "Enigma",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605191",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Screen Behind The Mirror",
 		"artist": "Enigma",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610130",
@@ -5962,20 +5911,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605223",
 		"price": "15,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "232a0c18-34db-4c89-a2f4-1d8819381ade",
-			"albumTitle": "Untitled",
-			"artist": "Paul Flaherty, Thurston Moore, Bill Nace",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Still Got The Blues (pcdv 2612)",
-		"artist": "Gary Moore",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603205",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {
 			"releaseGroupId": "232a0c18-34db-4c89-a2f4-1d8819381ade",
