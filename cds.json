@@ -1,14 +1,5 @@
 [
 	{
-		"albumTitle": "311 (3)",
-		"artist": "311",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608002",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Live (538 263-2)",
 		"artist": "311",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608003",
@@ -2033,20 +2024,6 @@
 			"releaseGroupId": "6d5d4f4e-776b-4844-85ba-9c1bb8206e8a",
 			"albumTitle": "Untitled",
 			"artist": "Bo Khat Eternal Troof Family Band",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Highway 61 Revisited",
-		"artist": "Bob Dylan",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605068",
-		"price": "25,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fb48b1dc-412f-36aa-8820-1023c08c46c6",
-			"albumTitle": "Highway 61 Revisited",
-			"artist": "Bob Dylan",
 			"type": "Album"
 		}
 	},
@@ -5106,20 +5083,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Unplugged (9362-45024-2)",
-		"artist": "Eric Clapton",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501265",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "61c4a210-6e90-3d41-b6c1-fd2c7e4fb6ac",
-			"albumTitle": "Unplugged",
-			"artist": "Eric Clapton",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Unplugged (9362-45024-2)",
@@ -12280,34 +12243,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Come Away With Me (5 32088 2)",
-		"artist": "Norah Jones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610324",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2d650991-dfed-473e-8614-6f8f11bc9484",
-			"albumTitle": "Title And Descriptive Themes",
-			"artist": "John Du Prez",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Feels Like Home",
-		"artist": "Norah Jones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610325",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "689db471-1647-3d0f-a6b8-2e776cf913e8",
-			"albumTitle": "Feels Like Home",
-			"artist": "Norah Jones",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "The Fall (spec.cover)",
 		"artist": "Norah Jones",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610327",
@@ -12366,20 +12301,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "(What's the Story) Morning Glory?",
-		"artist": "Oasis",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607248",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "cc7e6348-cc55-31fa-aeb2-748a46a81cb3",
-			"albumTitle": "(What’s the Story) Morning Glory?",
-			"artist": "Oasis",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Be Here Now",
@@ -13186,20 +13107,6 @@
 		}
 	},
 	{
-		"albumTitle": "Wish You Were Here",
-		"artist": "Pink Floyd",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610357",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "aec8c2eb-0639-436f-99db-9974781f241c",
-			"albumTitle": "Wish You Were Here",
-			"artist": "Pink Floyd",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Christmas In Vienna, Volume 3 (sk 66846)",
 		"artist": "Plácido Domingo, Sissel Kyrkjebø & Charles Aznavour",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603392",
@@ -13728,20 +13635,6 @@
 		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Hail To The Thief",
-		"artist": "Radiohead",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610374",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5c14fd50-a2f1-3672-9537-b0dad91bea2f",
-			"albumTitle": "Hail to the Thief",
-			"artist": "Radiohead",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Ducks And Drakes",
@@ -16530,20 +16423,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Hip",
-		"artist": "Steppeulvene",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602418",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5d899d43-3d02-37c3-9f25-362d82b6569e",
-			"albumTitle": "HIP",
-			"artist": "Steppeulvene",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Do. (005939 698720)",
 		"artist": "Steve Conte & The Crazy Truth",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408549",
@@ -16671,20 +16550,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "7d919dbd-cbe6-3598-bb01-271c012d1701",
 			"albumTitle": "Mercury Falling",
-			"artist": "Sting",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Ten Summoner's Tales",
-		"artist": "Sting",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610489",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "57389a2d-1570-364f-a83c-a382d0f5aafc",
-			"albumTitle": "Ten Summoner’s Tales",
 			"artist": "Sting",
 			"type": "Album"
 		}
