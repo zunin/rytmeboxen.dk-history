@@ -105,15 +105,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Philharmonics (plasr 195)",
-		"artist": "Agnes Obel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502005",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Greatest Hits, Volume 3 (07863 66410 2)",
 		"artist": "Alabama",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608011",
@@ -574,20 +565,6 @@
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Jeg Er Jo Lige Her",
-		"artist": "Anne Linnet",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605021",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0d7286cf-87ae-38d3-925b-e66ec62c9d2a",
-			"albumTitle": "Jeg er jo lige her",
-			"artist": "Anne Linnet",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Jeg Er Jo Lige Her",
@@ -1585,6 +1562,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Some Gave All",
+		"artist": "Billy Ray Cyrus",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408038",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "No-Holds-Barred  Live In Europe (rr 8803-2)",
 		"artist": "Biohazard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510050",
@@ -1983,15 +1969,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605067",
 		"price": "10,00 kr.",
 		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Blues From The Red Corner",
-		"artist": "Blues Point",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512145",
-		"price": "20,00 kr.",
-		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -3301,15 +3278,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Music From The Original Motion Picture Soundtrack, Volume 2 (mcad 10506)",
-		"artist": "Commitments",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12405181",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Best Of (mcd 85009)",
 		"artist": "Commitments feat. Andrew Strong",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510106",
@@ -4187,61 +4155,6 @@
 		"quality": "K-1",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Morrison Hotel (cover er svagt falmet)",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601136",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Strange Days",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605164",
-		"price": "25,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "9b1acd78-3d19-37bb-8ca0-5816d44da439",
-			"albumTitle": "Strange Days",
-			"artist": "The Doors",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Celebration Of The Lizard  Live (cd 9019) (bootleg)",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608189",
-		"price": "50,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Doors  Music From The Original Motion Picture (7559-61047-2)",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605165",
-		"price": "20,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Waiting For The Sun",
-		"artist": "Doors",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605168",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "fcd64234-7729-3697-b5db-e172b739ef40",
-			"albumTitle": "Waiting for the Sun",
-			"artist": "The Doors",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Dubb",
@@ -11134,15 +11047,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "De Vildeste Fugle",
-		"artist": "Michael Falch",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501578",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Det Andet Land",
 		"artist": "Michael Falch",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607199",
@@ -11164,20 +11068,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Lykkelig Undervejs",
-		"artist": "Michael Falch",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602234",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2bd75b5b-c250-3520-b295-ae7a04d60a87",
-			"albumTitle": "Lykkelig Undervejs",
-			"artist": "Michael Falch",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Nede Med Øl",
@@ -15031,20 +14921,6 @@
 		"musicbrainz": {
 			"releaseGroupId": "2099240e-34d5-3823-8722-30a66eec42f9",
 			"albumTitle": "Black Angel",
-			"artist": "The Savage Rose",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Dødens Triumf",
-		"artist": "Savage Rose",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610444",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c7d726f5-c358-3f71-aea2-853f4ba8d12e",
-			"albumTitle": "Dødens triumf",
 			"artist": "The Savage Rose",
 			"type": "Album"
 		}
