@@ -897,15 +897,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Room Of Gardenia",
-		"artist": "Baby Miss Julia",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412075",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Boy With The X-Ray Eyes",
 		"artist": "Babylon Zoo",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410064",
@@ -5867,6 +5858,15 @@
 		"artist": "Gérard Mali",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411062",
 		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Best Of  Naturally (966 016-2)",
+		"artist": "Gilbert O'Sullivan",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603209",
+		"price": "15,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -12170,20 +12170,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Christmas",
-		"artist": "Ole Allermand",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510362",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0b19c983-4090-404f-8dac-d9f45ce72461",
-			"albumTitle": "Someday At Christmas",
-			"artist": "Samuel Ljungblahd, Ole Børud",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Barn Af Tiden (NY i folie)",
 		"artist": "Ole Berthelsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608443",
@@ -15929,20 +15915,6 @@
 		}
 	},
 	{
-		"albumTitle": "Sonny Day",
-		"artist": "Sonny Amati Schmitt",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603501",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "c2459241-8fa2-4d95-b38c-c0f5bffb9ed7",
-			"albumTitle": "Sonny Day",
-			"artist": "Sonny Amati Schmitt",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Whaler",
 		"artist": "Sophie B. Hawkins",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608521",
@@ -16846,20 +16818,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Speed Of Love",
-		"artist": "Tammy Rogers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605442",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "0a6db88f-71f4-4cbe-b7c5-cc480b3b7ab1",
-			"albumTitle": "The Speed of Love",
-			"artist": "Tammy Rogers",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "22",
 		"artist": "Tamra Rosanes",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608546",
@@ -17408,7 +17366,7 @@
 		}
 	},
 	{
-		"albumTitle": "Welcome Back Colour (2-CD digipack)",
+		"albumTitle": "Welcome Back Colour (2-CD) (digipack)",
 		"artist": "Tina Dickow",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607444",
 		"price": "15,00 kr.",
