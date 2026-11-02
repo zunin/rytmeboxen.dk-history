@@ -5462,20 +5462,6 @@
 		}
 	},
 	{
-		"albumTitle": "The Freddie Mercury Album",
-		"artist": "Freddie Mercury",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610150",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e05fe30d-54e3-31a9-9f80-755893d58ef4",
-			"albumTitle": "The Freddie Mercury Album",
-			"artist": "Freddie Mercury",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Bohéme",
 		"artist": "Fredrik Kempe",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603202",
@@ -17608,15 +17594,6 @@
 			"artist": "Van Morrison",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Super Hits (498952 2)",
-		"artist": "Van Morrison",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607476",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "The Best Of (840 970-2)",
