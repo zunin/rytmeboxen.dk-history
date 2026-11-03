@@ -750,15 +750,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The Queen Of Soul 1967-1976 (4-CD-box) (8122796069)",
-		"artist": "Aretha Franklin",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12605028",
-		"price": "35,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The Greatest (cocho 922)",
 		"artist": "Arthur Alexander",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608039",
@@ -1898,15 +1889,6 @@
 			"artist": "Black Dice",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Black Mountain",
-		"artist": "Black Mountain",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608088",
-		"price": "20,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Bedtime Prayers",
@@ -5227,15 +5209,6 @@
 		}
 	},
 	{
-		"albumTitle": "Album Of The Year (2-CD)",
-		"artist": "Faith No More",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12601199",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Live At The Brixton Academy (828 238-2)",
 		"artist": "Faith No More",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510186",
@@ -5434,15 +5407,6 @@
 		"artist": "Four Tops",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501315",
 		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Sky Road (ud-53097)",
-		"artist": "Frances Black",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501319",
-		"price": "15,00 kr.",
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
@@ -14459,20 +14423,6 @@
 		}
 	},
 	{
-		"albumTitle": "Supernatural",
-		"artist": "Santana",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603455",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "70e23797-9da2-33bb-be6f-a85e7b581b69",
-			"albumTitle": "Supernatural",
-			"artist": "Santana",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Water Falls (357.6005.2)",
 		"artist": "Sara K",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610441",
@@ -14879,15 +14829,15 @@
 		}
 	},
 	{
-		"albumTitle": "16 Største Susses'er, Volume 2 (4660cd)",
+		"albumTitle": "16 Største Succes'er, Volume 2 (4660cd)",
 		"artist": "Shit & Chalou",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608500",
 		"price": "10,00 kr.",
 		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {
-			"releaseGroupId": "6791728e-5ee3-42b5-9610-a86eb3124b99",
-			"albumTitle": "Untitled 4",
+			"releaseGroupId": "c9e4af69-cb7c-4bb0-8267-2642b00a41c7",
+			"albumTitle": "Untitled 6",
 			"artist": "Astral & Shit",
 			"type": "Album"
 		}
@@ -16552,15 +16502,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602446",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Do. (edcd 233)",
-		"artist": "The United States Of America",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12501710",
-		"price": "5,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
