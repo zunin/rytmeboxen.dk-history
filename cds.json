@@ -1530,15 +1530,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Some Gave All",
-		"artist": "Billy Ray Cyrus",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408038",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "No-Holds-Barred  Live In Europe (rr 8803-2)",
 		"artist": "Biohazard",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510050",
@@ -5086,6 +5077,20 @@
 		}
 	},
 	{
+		"albumTitle": "Before The Rain",
+		"artist": "Eternal",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502174",
+		"price": "5,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {
+			"releaseGroupId": "8c4c863c-160b-3b13-9ed4-3ff5dc9228ed",
+			"albumTitle": "Before the Rain",
+			"artist": "Eternal",
+			"type": "Album"
+		}
+	},
+	{
 		"albumTitle": "I Have A Dream",
 		"artist": "Etta Cameron",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603190",
@@ -5311,34 +5316,6 @@
 		}
 	},
 	{
-		"albumTitle": "Always On My Mind",
-		"artist": "Flemming Bamse Jørgensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610145",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "03b9533d-dc4c-3645-aa27-edd538a88d90",
-			"albumTitle": "Always on My Mind",
-			"artist": "Flemming Bamse Jørgensen",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "Be My Guest",
-		"artist": "Flemming Bamse Jørgensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610146",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "1ae9b0b8-b0e7-306a-ab32-d38cb2d56256",
-			"albumTitle": "Be My Guest",
-			"artist": "Flemming Bamse Jørgensen",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Love Me Tender",
 		"artist": "Flemming Bamse Jørgensen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610147",
@@ -5351,15 +5328,6 @@
 			"artist": "Flemming Bamse Jørgensen",
 			"type": "Album"
 		}
-	},
-	{
-		"albumTitle": "Stand By Me (5206272)",
-		"artist": "Flemming Bamse Jørgensen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607087",
-		"price": "5,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
 	},
 	{
 		"albumTitle": "Stand By Me (5206272)",
@@ -5913,15 +5881,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Best Of Hanne Boel (836 420-2)",
-		"artist": "Hanne Boel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608245",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Beware Of The Dog",
 		"artist": "Hanne Boel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509188",
@@ -6004,15 +5963,6 @@
 		"artist": "Hanne Boel",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410452",
 		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Need",
-		"artist": "Hanne Boel",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410454",
-		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -12640,19 +12590,10 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "De Originale Vendelbo Historier  Å Det Er Ikk Engang Løvn (2-CD-box) (5 029365 640923)",
-		"artist": "Poul Erik Krogen",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608461",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "De originale Vendelbo Historier  Å Det Ikk' Engang Løvn (2-CD) (t 6409)",
+		"albumTitle": "De Originale Vendelbo Historier  Å Det Ikk' Engang Løvn (2-CD) (t 6409)",
 		"artist": "Poul Erik Krogen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607279",
-		"price": "15,00 kr.",
+		"price": "10,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
@@ -14514,6 +14455,15 @@
 		"musicbrainz": {}
 	},
 	{
+		"albumTitle": "Savage Garden (1) (487 161-2)",
+		"artist": "Savage Garden",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12509419",
+		"price": "10,00 kr.",
+		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
 		"albumTitle": "Black Angel",
 		"artist": "Savage Rose",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608494",
@@ -14697,20 +14647,20 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Wonderful Shadows  The Very Best Of (8 23316 2)",
-		"artist": "Shadows",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608497",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Moonlight Shadows (829 358-2)",
 		"artist": "Shadows",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12603467",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Wonderful Shadows  The Very Best Of (8 23316 2)",
+		"artist": "Shadows",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608497",
+		"price": "10,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -15351,20 +15301,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Heartland",
-		"artist": "Sko / Torp",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12510461",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "5eea0571-50d1-4d35-8b46-1cd12cc101bd",
-			"albumTitle": "Heartland",
-			"artist": "Sko/Torp",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Hey You!",
