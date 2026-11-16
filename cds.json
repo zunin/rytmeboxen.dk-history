@@ -9736,15 +9736,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "20 Lisa Nilsson En Jubilæumssamling (88697735912)",
-		"artist": "Lisa Nilsson",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610261",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Himlen Runt Hörnet",
 		"artist": "Lisa Nilsson",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512386",
@@ -12238,15 +12229,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Det Scene Show (2-CD/1-DVD)",
-		"artist": "Peter A.G.",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607267",
-		"price": "30,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Solo",
 		"artist": "Peter A.G.",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12503446",
@@ -14076,20 +14058,6 @@
 		}
 	},
 	{
-		"albumTitle": "Greatest Hits (uni 532 845 7)",
-		"artist": "Safri Duo",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610427",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "e57f7b15-9a9f-4255-9174-fe678e14840c",
-			"albumTitle": "[untitled]",
-			"artist": "Second Family Band, Jooklo Duo, Peaking Lights",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Origins",
 		"artist": "Safri Duo",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610428",
@@ -15458,15 +15426,6 @@
 		"artist": "Sparkler",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12407418",
 		"price": "10,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Keep On Running (22511cd)",
-		"artist": "Spencer Davies Group",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607404",
-		"price": "15,00 kr.",
 		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
