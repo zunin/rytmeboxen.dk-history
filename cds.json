@@ -6447,43 +6447,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Ancora",
-		"artist": "Il Divo",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12412503",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Siempre",
-		"artist": "Il Divo",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512340",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "939c3ec9-ec76-342d-879f-b952e8bc3475",
-			"albumTitle": "Siempre",
-			"artist": "Il Divo",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "The Promise",
-		"artist": "Il Divo",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12512341",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "7c56cec2-8e18-43d1-adf3-e7893d3c970f",
-			"albumTitle": "The Promise",
-			"artist": "Il Divo",
-			"type": "Album"
-		}
-	},
-	{
 		"albumTitle": "Excess Overload",
 		"artist": "Innocent Blood",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12406277",
@@ -12096,20 +12059,6 @@
 			"releaseGroupId": "a810db2a-b3ad-4bda-ae5e-8135cb68ed31",
 			"albumTitle": "Entitled to Carry My Own Weight",
 			"artist": "Wings of an Angel",
-			"type": "Album"
-		}
-	},
-	{
-		"albumTitle": "One Chance",
-		"artist": "Paul Potts",
-		"origin": "http://rytmeboxen.dk/privat-salg-Tilbuds-CDer.htm#32607039",
-		"price": "2,00 kr.",
-		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "f140c38c-538d-45e7-b7ab-670fe5f8426d",
-			"albumTitle": "One Chance",
-			"artist": "Paul Potts",
 			"type": "Album"
 		}
 	},
