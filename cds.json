@@ -462,24 +462,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Hot Hot",
-		"artist": "Ann-Mette Elten",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502024",
-		"price": "10,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Refrain",
-		"artist": "Ann-Mette Elten",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12502027",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "De Store & De Stille (2-CD) (cmc 6464-2)",
 		"artist": "Anne Dorte Michelsen",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610013",
@@ -1144,20 +1126,6 @@
 		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Danish Collection (2-CD) (5242992)",
-		"artist": "Bellamy Brothers",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610040",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {
-			"releaseGroupId": "2cb62475-bb7e-3aaf-bb9a-3c3756f8afc6",
-			"albumTitle": "Chose Your Own Title*",
-			"artist": "Kerosene Brothers",
-			"type": "Album"
-		}
 	},
 	{
 		"albumTitle": "Svantes Viser",
@@ -2118,15 +2086,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610055",
 		"price": "5,00 kr.",
 		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Ultimate Love Songs Collection 993-200 (44007 609828)",
-		"artist": "Boyzone",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610056",
-		"price": "10,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -3119,15 +3078,6 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610079",
 		"price": "15,00 kr.",
 		"quality": "K-2",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "The Whole Story  His Greatest Hits (2-CD) (5 29322 2)",
-		"artist": "Cliff Richard",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610080",
-		"price": "15,00 kr.",
-		"quality": "K-3",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -4243,15 +4193,6 @@
 		"albumTitle": "Resurrection",
 		"artist": "East 17",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12408110",
-		"price": "5,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
-		"albumTitle": "Steam",
-		"artist": "East 17",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12410306",
 		"price": "5,00 kr.",
 		"quality": "K-3",
 		"type": "Album",
@@ -5845,20 +5786,20 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "The First 40 Years (2-Cd) (559 211-2)",
-		"artist": "Hank Marvin & The Shadows",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610159",
-		"price": "10,00 kr.",
-		"quality": "K-4",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "The First 40 Years (2-CD) (559 211-2)",
 		"artist": "Hank Marvin & The Shadows",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12608244",
 		"price": "15,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "The First 40 Years (2-Cd) (559 211-2)",
+		"artist": "Hank Marvin & The Shadows",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610159",
+		"price": "10,00 kr.",
+		"quality": "K-4",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -13597,15 +13538,6 @@
 		"musicbrainz": {}
 	},
 	{
-		"albumTitle": "Jump Back  The Best Of The Rolling Stones 71-93 (8 39321 2)",
-		"artist": "Rolling Stones",
-		"origin": "http://rytmeboxen.dk/privat-salg.htm#12610410",
-		"price": "15,00 kr.",
-		"quality": "K-3",
-		"type": "Album",
-		"musicbrainz": {}
-	},
-	{
 		"albumTitle": "Live Licks (2-CD) (8 75180 2)",
 		"artist": "Rolling Stones",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12607338",
@@ -14250,6 +14182,15 @@
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411432",
 		"price": "10,00 kr.",
 		"quality": "K-3",
+		"type": "Album",
+		"musicbrainz": {}
+	},
+	{
+		"albumTitle": "Timeless",
+		"artist": "Sarah Brightman",
+		"origin": "http://rytmeboxen.dk/privat-salg.htm#12411433",
+		"price": "10,00 kr.",
+		"quality": "K-2",
 		"type": "Album",
 		"musicbrainz": {}
 	},
@@ -16855,7 +16796,7 @@
 		}
 	},
 	{
-		"albumTitle": "Transplants (1) (0448-2) (Didipack)",
+		"albumTitle": "Transplants (1) (0448-2) (digipack)",
 		"artist": "Transplants",
 		"origin": "http://rytmeboxen.dk/privat-salg.htm#12602466",
 		"price": "20,00 kr.",
